@@ -1,3 +1,16 @@
+import os
+import subprocess
+
+DIRTY = "dirty"
+CLEAN = "clean"
+TAG = "a-shell"
+
+def lg2_pull():
+    print(f"[{TAG}] command: lg2 pull")
+    os.system("lg2 pull")
+
+def lg2_push():
+    print(f"[{TAG}] command: lg2 add .")
     os.system("lg2 add .")
     print(f"[{TAG}] command: lg2 commit")
     os.system("lg2 commit -m 'autosaved by script'")

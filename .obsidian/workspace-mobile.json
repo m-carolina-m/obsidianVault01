@@ -107,7 +107,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Prueba2.md"
+          }
         }
       }
     ],
@@ -123,7 +125,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbbe39755c6160db",
+  "active": "8a2e98af216887e5",
   "lastOpenFiles": [
     "Prueba 4.md",
     "helper.py",

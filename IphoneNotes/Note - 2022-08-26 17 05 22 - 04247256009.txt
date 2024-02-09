@@ -1,0 +1,211 @@
+8/26/22, 5:05 PM
+
+04247256009
+Adrián Alix studio
+Glorias patrias
+
+
+Notifica mint trabajo sellado (2 copias, traer el recibido)*
+Rif*
+Registro comercio 
+Nómina*
+Carta asignación representante patronal*
+Carta aceptación del representante por la empresa *
+
+Para registrar el comité *
+
+Delgado y representante patronal 
+
+Requisitos del comité: 
+Libro de actas *
+Acta suscrita del *
+Número del nil *
+
+
+————
+Figma plugins:
+Simple sort *=>ordena en columnas y filas la información de una capa
+Select layers *=>selecciona todos los componentes de una capa por ejemplo se pueden seleccionar todos los elementos de una capa y cambiar el espaciado 
+Style organizer *=>permite ver si los componentes están ligados a una propiedad  o no
+Batch styler *=>cambiar el tipo de letra de
+todo el conjunto de una vez 
++Chroma colors *=automáticamente crea la paleta de estilos de color de los componentes que se hayan seleccionado 
+Master *=>create a master component from an object so we can use an instance on different parts of the project 
++Smart text=>automáticamente crea y actualiza los nombres de os componentes
+Foundation color generator (auto generate palettes)
+Color designer=>permite conseguir una paleta o la armonia del color: los colores complementarios, análogos, opuestos de un color 
+A11y=>color contrast checker 
+Starks 
+
+3d transformer *
+Remove bg *=>quita el background
+Ghost *=>crea la pagina fantasma que se muestra Antea de terminar de cargar la pagina definitiva
+Viewports *=>permite probar el diseño en diferentes plataformas, por ejemplo como se va a ver en un iPhone o en una pc o una laptop o una tablet 
+
+==============
+Atlassiam design system 
+Apple human interface guidelines 
+Tint & shadegenerator  
+color contrast checker (recommended 7)
+Adobe color=> extract theme from a picture or a page 
+Material design type system 
+Golden diatonic text scale (1.618)
+    Base 16px =>body text size 
+    16*1.618=25.888 aprox 26px
+    25.888*1.618=41.887 aprox 42px
+    41.887*1.618=67.772 aprox 68px
+    67.772*1.618=109.656 aprox 110px
+    16/1.618=9.889 aprox 10px 
+     [or 16,24,48,64,128,8]
+Header1 (68px, Bold, -2%spacing)
+Header2 (42px, Bold, -2%spacing)
+Header3 (26px, Bold, -2%spacing)
+*Subtitle (26px)
+Body (16px, 140% line high)
+Bold (16px, bold)
+Button text (10px, UPPERCASE, Semi-bold, 2%spacing)
+Pre-title 10px, UPPERCASE, Semi-bold, 2%spacing)
+
+Type-scale.com (Minor Third)
+Header1 (27.65px, 125% line height -2%spacing)
+Header2 (23.04px, 150%, -2%spacing)
+Header3 (19.20px, 155% -2%spacing)
+*Subtitle (19.20px, 155% line height -1%spacing)a
+Body (16px, 140% line high)
+Body large (18px 4%spacing )
+Body small (14px 2%spacing)
+Button (14px, UPPERCASE, Semi-bold, 2%spacing)
+Caption (13.33px)
+Footers (11.11px)
+*repeat for mobile where each is the next smallest h1_mobile=h2
+
+Android=> roboto
+Apple=>San Francisco 
+
+==============
+Structure:
+Atoms
+    Colors 
+    Typography
+        Desktop
+        Mobile
+        Paragraph 
+        Documentation 
+    Spacing 
+    Grids
+    Icons 
+    Drop shadows 
+Molecules 
+     Alerts
+     Accordions
+     Breadcrumbs 
+     Checkboxes
+     Drop downs 
+     Buttons
+     Pagination  
+     Tags
+     Sliders
+     Progress
+     Tabs
+     Inputs 
+     Toggles 
+     List
+     Forms
+     Tables 
+     Modals 
+     Tips 
+     Calendar 
+     Social 
+Organism (using master components to be able to turn on or off components)
+      Header 
+      Sidebar 
+Templates
+
+———
+Colors: (All in Dark and Light Mode)
+Neutral (10 shades of gray) should have a tint of the primary
+(5 of all the others)
+Primary (white with a tint of color) white with a tint of blue 
+*Text over primary 
+Secondary (can be a gradient) blue gradient
+*Text over secondary
+Accent (maybe secondary oposite color) fucsia gradient 
+*Text over Accent 
+Success (shade of green)
+*Text over success
+Warning (shade of orange)
+*Text over warning 
+Error (shade of red)
+*Text over error
+Information (shade of blue)
+*Text over information 
+Shades (white and black)
+
+
+Typography:
+Design (01-02)
+    Semi bold 
+    Bold
+    Extra bold 
+Heading (01-04)
+Subheading 
+Paragraph (01-03 [14-16-18])
+Caption
+Footers
+
+=====
+Macrodantina 
+Femadona 
+Topetar
+Gynotran 
+Diosmina 
+Lisilet
+
+=======
+2022 design tips
+Glassmorphing background 
+Gradient color for buttons, Text, accent 
+Black and white
+Big bold letters
+Dark mode
+
+
+
+————-
+Microperforado
+2,72x1,35 alto
+
+Sosteniendo una pastilla
+Sosteniendo un frasco 
+Usando una inyectadora 
+Un paragua proteje de una lluvia de pastillas 
+Un globo*
+Un peinado 
+Un perro 
+Un ala *
+Un bastón 
+Una flecha 
+Un pensamiento 
+Soplando un diente de leon 
+La sombra de Una puerta 
+Un abanico 
+Un teléfono
+Un morral
+Una cartera 
+El beso de una jirafa *
+Una lámpara 
+El marco de un espejo 
+Un sombrero*
+Una cometa 
+
+
+Ponerlo de tal forma que unas personas tapen algunas cosas dependiendo de la posición, por ejemplo el diente de leon, la jeringa, el ala, una flecha 
+
+Aviso
+7.5mx0,80m
+
+—————-
+
+
+Piroxicam 
+Mycofentin 

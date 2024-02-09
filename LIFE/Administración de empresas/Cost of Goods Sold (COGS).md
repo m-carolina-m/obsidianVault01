@@ -1,0 +1,1 @@
+COGS = Starting inventory + Purchases - Ending inventory

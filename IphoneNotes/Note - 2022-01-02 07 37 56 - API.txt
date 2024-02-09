@@ -1,0 +1,17 @@
+1/2/22, 7:37 AM
+
+API:
+-Crear la carpeta independiente de Chrystal
+-Crear terminar lo del archivo de configuración 
+-Modificar que las consultas vengan de la base de datos externa 
+-Mostrar en pantalla a que base de datos se está conectado 
+-permitir seleccionar la base de datos en pantalla 
+-implementar la seguridad por usuarios 
+-implementar el modelo por subscripcion 
+
+Reporteador:
+-Culminar los reporte básicos 
+-implantar los semáforos 
+-implementar seguridad por usuarios
+-implementar el Modelo por subscripcion 
+-seguir trabajando en más reportes 

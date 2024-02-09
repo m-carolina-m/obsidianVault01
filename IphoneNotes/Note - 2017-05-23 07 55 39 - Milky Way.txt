@@ -1,0 +1,27 @@
+5/23/17, 7:55 AM
+
+Milky Way
+[http://www.stellarium.org/en_CA/](http://www.stellarium.org/en_CA/)
+[http://darksky.org/international-dark-sky-places/about-ids-places](http://darksky.org/international-dark-sky-places/about-ids-places)
+[http://disq.us/url?url=http%3A%2F%2Fwww.photopills.com%2Ftutorials%2Fhow-plan-milky-way-using-2d-map-centric-planner%3AvUjhTjyUkAPFkny3uQ-8l3ZSX8I&cuid=2584105](http://disq.us/url?url=http%3A%2F%2Fwww.photopills.com%2Ftutorials%2Fhow-plan-milky-way-using-2d-map-centric-planner%3AvUjhTjyUkAPFkny3uQ-8l3ZSX8I&cuid=2584105)
+[http://disq.us/url?url=http%3A%2F%2Fwww.photopills.com%2Ftutorials%2Fhow-plan-milky-way-using-augmented-reality%3A7L2YnVAO_Ds06pXS6c6bUGuAcEk&cuid=2584105](http://disq.us/url?url=http%3A%2F%2Fwww.photopills.com%2Ftutorials%2Fhow-plan-milky-way-using-augmented-reality%3A7L2YnVAO_Ds06pXS6c6bUGuAcEk&cuid=2584105)
+
++find the Milky Way position northern hemisphere at June point east
+When possible set everything during daylight. If shooting a panoramic set camera side ways to take more sky and try to make a single row 
++plan the foreground 
++set camera in manual mode
++set multi metering mode
++Set your aperture to the widest, fastest setting it can achieve
++set manual focus. Using your camera’s Live View or EVF, point it at the brightest star you can see until a small dot of light appears in the centre of your view. Zoom in (magnify the view NOT zoom the lens) so that you see that tiny little dot as large as possible. Now turn the focus wheel on your lens until the star becomes a sharp, tiny pin-point of light. Try turning the focus wheel passed that point until the star blurs again and you’ll have gone too far, so just back it up until you’re able to get the star as sharp and small as possible. Don’t rush this, take your time and get it right.
++set the tripod. Level the horizon 
++Set your shutter speed to about 10 seconds (at ISO 5000 if you have it), and take a test shot. Once you’ve finished taking test shots and made your final tripod adjustments for the perfect composition, it’s time to dial in your camera settings.
++ White Balance set to Incandescent (aka Tungsten) to see more clearly the Milky Way. In after processing change it back to auto
++set ISO 2000 and test increase if necessary (shutter speed)
++set shutter speed (max 15 seg to avoid star trails) 
++take a 30s shot for web publishing  to capture a much brighter Milky Way or 15 for printing 
++turn in camera noise reduction off to take faster shots
++to capture the full span you might have to take several photos. Start from bottom left and make sure to overlap about 30%. Complete the row and move up until you finish
++I’m working with Lightroom and Photoshop. Starting with Lightroom, I use the Dehaze and clarity sliders, tone adjustments, saturation and noise reduction. After reaching the best possible outcome, I move to Photoshop for some additional adjustments by playing with curve layers.
+
+
+

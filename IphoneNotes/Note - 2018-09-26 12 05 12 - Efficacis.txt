@@ -1,0 +1,19 @@
+9/26/18, 12:05 PM
+
+Efficacis
+
+VeMovimiento factura:
+
+
+VeDetMov detalle de artículos en fact:
+Nuticket
+Secuencia
+Coarticulo
+Lote
+Cant
+Costo
+Precio
+Imp 
+
+
+

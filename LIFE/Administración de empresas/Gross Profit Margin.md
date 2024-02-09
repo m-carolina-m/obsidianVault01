@@ -1,0 +1,1 @@
+Gross Profit Margin = ([[Revenue]] - [[Cost of Goods Sold (COGS)]]) / [[Revenue]]

@@ -1,0 +1,58 @@
+8/17/20, 7:46 AM
+
+                            1
+                       7          1#   
+                6#                      2
+           6                                   2#
+                 5#                     3
+                         5        4
+                             4#
+
+Con el patrón de saltarse 1 nota y 1 nota->
+Mayores:           Menores:        Disminuido:
+4s-3s                 3s-4s              3s-3s
+
+1-3-5
+                            2-4-6
+                            3-5-7
+4-6-1
+5-7-2
+                             6-1-3
+                                                      7-2-4
+
+
+Con los mayores se cubren todas la notas pero el 1 y el 5 se repite
+
+En los menores de repite el 3 y el 6 
+
+
+Si el patrón fuera saltarse 2 notas y 2 notas->
+1-4-7
+2-5-1
+3-6-2
+4-7-3
+5-1-4
+6-2-5
+7-3-6
+
+
+
+Si el patrón fuera saltarse 1 nota y 2 notas->
+1-3-6  min
+2-4-7  dim
+3-5–1  may
+4-6-2  min
+5-7-3   Min
+6-1-4  may
+7-2-5  may
+
+Si el patrón fuera saltarse 2 notas y 1 nota->
+1-4-6  may
+2-5-7 May
+3-6-1  min
+4–7-2 dim
+5-1-3 May
+6-2-4 min
+7-3-5 min
+
+Curiosamente los dos últimos son iguales al primero pero desplazados

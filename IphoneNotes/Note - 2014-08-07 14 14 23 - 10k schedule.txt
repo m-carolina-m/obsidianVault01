@@ -1,0 +1,19 @@
+8/7/14, 2:14 PM
+
+10k schedule
+
+L.     M.      I.      J.       V.       S.      D
+R.     2k.    Ct.    2k.     R.    2.5k 25m
+R.     2.5k  Ct.    2.5k.  R.      3k. 25m
+R.     3k.    Ct.    3k.     R.    3.5k 30m
+R.     3.5k  Ct.    3.5k.  R.      4k. 30m
+R.     4k.    Ct.     4k.    R.     4.5k 35m
+R.     4k.    Ct.     4k.    R.     4.5k 35m
+R.     4.5k. Ct.     4.5k. R.       5k. 40m
+R.     4.5k. Ct.     4.5k. R.       5k. 40m
+R.     5k.    Ct.     5k.    R.     5.5k 45m
+R.     5k.    Ct.     5k.    R.     5.5k 45m
+R.     5.5k. Ct.     5.5k. R.     6k.   50m
+R.     6k.    Ct.      6k.   R.     6.5k 50m
+R.     6.5k. Ct.     6.5k. R.     7k.   55m
+R.     5k.    Ct.     3.5k. R.      R.    10k

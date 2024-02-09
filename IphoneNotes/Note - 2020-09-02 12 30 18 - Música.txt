@@ -1,0 +1,478 @@
+9/2/20, 12:30 PM
+
+Música
+
+Cifrado, tablatura, partitura 
+
+Afinación del piano 
+
+Música concreta 
+
+Cada tono es un 6% de la longitud del anterior 
+
+Recordar que en las escalas no se puede tener dos veces las misma nota seguidas por eso se usan los enarmonicos 
+———
+Círculo de quintas 
++1er uso: saber las notas de una escala mayor 
+
+En el sentido de los bemoles, el nuevo bemol será la cuarta nota y se siguen sumando los anteriores 
+
+En el sentido de los sostenidos, el nuevo será la nota anterior (o la séptima nota) y se suman las anteriores 
+
+Recordar que hay enarmonicos E#-Fb y B#-Cb que tiene 7 interacciones 
+
++2do uso: saber las notas de la escala menor 
+
+Hay 3 formas/tipos de escalas menores:
+-natural 
+Partiendo de la escala mayor b3, b6 y b7
+-harmonica 
+Partiendo de la mayor b3 y b6 
+-melódica 
+Partiendo de la mayor 
+   Ascendente b3 
+   Descendente es igual que la natural b3,b6,b7 (recordando que se parte de la mayor)
+
++3er uso: relativa menor 
+Armadura o Key signature: es la forma que tendrá la escala y nos indica también de donde se está partiendo pues esa forma sólo la tendrá una escala mayor o una menor que son relativas, el uso de armadura es para facilitar la escritura y también para ayudar a descubrir la tonalidad de la pieza 
+
+Toda escala mayor tiene una menor relativa, o sea es una escala menor que tiene la misma notas. Esa menor es una menor natural, se puede obtener partiendo de la sexta nota de la escala mayor, o mejor dicho el sexto grado de la escala mayor es su relativa menor 
+
+Si por ejemplo vemos que la armadura no tiene alteraciones quiere decir que puede ser C o si relativa menor Am, si tiene un sostenido puede ser G o Em
+
+De la menor natural se puede obtener las demás menores:
+Harmonica: #7
+Melódica: ascendente #6 y #7 descendente es la natural
+
++4to uso obtener las notas de un acorde mayor o menor:
+Acorde mayor: 
+Se busca la tónica mayor y el acorde serán las notas un paso en el sentido de las agujas del reloj la mayor y la menor 
+C=C G E y se pueden tocar de cualquier forma mientras sean esas 3 notas, incluso se pueden repetir al I y la V pero no la III
+G= G D B
+Acorde menor: 
+Se busca el acorde mayor y se baja un semitono la III
+Cm=C G Eb 
+Gm=G D Bb
+
+
+
+——————-
+Intervalos: es la distancia entre dos alturas, frecuencias, notas 
+
+Los intervalos tendrán un número y una calidad. El número será la Cantidad de notas incluyendo la original por ejemplo entre D y F hay 3 D,E y F 
+
+Las calidades cambiarán si son perfectas o imperfectas. Las perfectas 1,4,5 y 8 las imperfectas el resto 2,3,6 y 7. Las perfectas pueden ser aumentadas, perfectas o disminuidas. Las imperfectas pueden ser aumentadas, mayores, menores o disminuidas 
+
+Para saber que tipo es un intervalo: 
+1-Buscamos la escala mayor de la nota de abajo
+2-determinamos el grado
+3-es perfecto o imperfecto? 
+3.1-para perfectas: 
+3.1.1-está la nota superior en la escala mayor de la inferior? 
+Afirmativo =>es perfecta
+Negativo => es un sT mayor? Si => es aumentada
+                      es 1sT menor? Si => es disminuida, mejor dicho si no es perfecta ni aumentada tiene que ser disminuida 
+
+3.2-para imperfectas: 
+3.2.1-está la nota superior en la escala mayor de la inferior? 
+Afirmativo =>es mayor 
+Negativo => es un sT mayor? Si => es aumentada
+                      es 1sT menor? Si =>es menor 
+                      es 2sT menor? Si => es disminuida o mejor dicho si no es mayor, tampoco aumentada ni menor tiene que ser disminuida 
+
+Por ejemplo 
+D-F es una 3ra m
+D-F# 3M
+G-E es una 6ta M
+G-E# 6aum
+G-Eb 6m
+G-Ebb 6dim
+
+Tip: si la nota inferior es de una escala que no tenemos en el círculo de quintas por ejemplo G# se utiliza la escala de la nota sin alteraciones G se determina el intervalo y luego se le aplica la alteración 
+
+G#-E=> G-E es una 6M pero con el # 6m 
+Eb-A 4aug
+Si el rango es mayor al establecido está mal escrita por ejemplo 
+Eb-A# No existe, existe Eb-Bb que es una 5P
+                      
+—————
+Escalas 
+
+Hay 2^11 modos = 2048
+
+Tomando el patrón de la escala mayor de C 
+T-T-sT-T-T-T-sT 
+
+La más básica es la mayor que proviene de la escala mayor de C y que se representa 
+1  2 3 4 5 6 7
+C D E F G A B
+y que tiene los intervalos característicos de la escala mayor de C o sea 
+T 2M 3M 4P 5P 6M 7D  (perfectas o Justas)
+Es el modo jónico y será la escala fuente de los modos mayores 
+
+Otra escala es la menor natural (6to grado del modo mayor) que proviene de la escala de A y se representa 
+1  2 b3 4 5 b6 b7
+C D Eb F G Ab Bb
+y que tiene los intervalos característicos de la escala de A o sea 
+T 2M 3m 4P 5P 6m 7m 
+O sea que con respecto a la mayor las diferencias serían la 3era, la 6ta y la 7ma que son menores
+
+Otra escala es la dominante 
+1  2 3 4 5 6 b7
+C D E F G A Bb
+y que tiene los intervalos característicos de la escala  (mixolidio) o sea 
+T 2M 3M 4P 5P 6M 7m
+O sea que con respecto a la mayor la diferencia es la 7ma que es menor
+
+El modo lidio (4to grado de la escala mayor)
+1  2 3 #4 5 6 7
+C D E F# G A B
+T 2M 3M 4A 5P 6M 7D
+O sea que con respecto a la mayor la diferencia es la 4ta que es aumentada (podría ser #11)
+
+El modo lidio b7 (4to grado de la escala menor melódica) (otro nombre podría ser mixolidio #11)
+1  2 3 #4 5 6 b7
+C D E F# G A Bb
+T 2M 3M 4A 5P 6M 7m
+O sea que con respecto a la mayor la diferencia es la 4ta que es aumentada y la 7ma menor 
+
+El modo dórico (2do grado de la escala mayor)
+1  2 b3 4 5 6 b7
+C D Eb F G A Bb
+T 2M 3m 4P 5P 6M 7m 
+O sea que con respecto a la mayor las diferencias serían la 3era y la 7ma que son menores
+
+La escala menor melódica
+1  2 b3 4 5 6 7
+C D Eb F G A B
+T 2M 3m 4P 5P 6M 7D
+O sea que con respecto a la mayor las diferencias sería la 3era menor
+Será la escala fuente de 7 modos
+
+La escala menor harmonica 
+1  2 b3 4 5 b6 7
+C D Eb F G Ab B
+T 2M 3m 4P 5P 6m 7D
+O sea que con respecto a la mayor las diferencias sería la 3era y la 6ta son menores
+Será la escala fuente de 7 modos
+
+Escala Semidisminuida
+1  2 b3 4 b5 b6 b7
+C D Eb F Gb Ab Bb
+T 2M 3m 4P 5D 6m 7m 
+O sea que con respecto a la mayor las diferencias serían la 3era, la 6ta y la 7ma que son menores y la 5ta disminuida 
+
+Dórico b2
+
+m7b5
+
+Escala de tonos enteros 
+
+Escala disminuida producirá 2 modos ->whole step/half step y half step/whole step 
+
+
+Si la escala incluye el séptimo será 
+M7 m7 m7 M7 Dom7 m7 HalfDim7
+
+————
+Acordes
+1-3-5
+Pueden ser:
+Mayores X (1-3-5 o sea 3era mayor) 
+Menores Xm (1-b3-5 o sea 3era menor)
+4 suspendida Xsus4 (1-4-5  3era pasa a ser 4ta)
+2 suspendida Xsus2 (1-2-5   3era pasa a ser 2da)
+Add9 Xadd9 (1-3-5-9 o sea 2da una octava más alta)
+Maj7  Xmaj7 (1-3-5-7 o sea 7ma mayor)
+m7 Xm7 (1-b3-5-b7 o sea 7ma menor)
+7 dominante X7 (1-3-5-b7)
+mMaj7 Xmmaj7 (1-b3-5-7)
+Maj9 Xmaj9(1-3-5-7-9)
+9 dominante X9 (1-3-5-b7-9)
+11 dominante X11 (1-3-5-b7-9-11)
+Quinta X5 (1-5)
+m6 Xm6 (1-b3-5-6)
+Sexta X6 (1-3-5-6)
+Disminuida Xo (1-b3-b5-6)
+Augmentada Xaug (1-3-5#)
+Alterada 5 
+Augmentada 7 (1-3-5#-7)
+Disminuida 7 Xo7 (1-b3-b5-bb7)
+Bajo sustituido X/Y 
+
+—————- 
+Historia de la música 
+
+Prehistoria 
+
+Mesopotamia
+    Usan arpa y tienen sonidos identificados y patrones para tocar canciones 
+Aparecen tambores, cuernos de animales y cuernos de metal 
+
+Tienen un arpa sumaria que tiene 9 cuerdas y están definidas que todas tienen diferentes notas, 1 2 3 4 5 4 3 2 1
+
+Usan intervalos de combinaciones de cuerdas de cuartas, quintas y octavas, usaban diferentes intervalos de manera ascendente y descendente tienen diferentes formas de obtener los mismos patrones usando diferentes cuerdas 
+
+El arpa se entonaba con un cuerno 
+
+Usaban un sistema de entonación parecido a la justa con el uso de terceras y sextas 
+
+Usaban modulaciones paralelas cambio de escala, los módulos estaban asociados diferentes tipos de canciones 
+
+
+Egipto
+2500 AC Música Mayormente utilizado en ceremonias religiosas 
+2000AC son de los instrumentos musicales más antiguos que todavía se conservan 
+Trompetas y tambores 
+Empiezan a aparecer escuelas de música 
+700AC usan música para danza y la acompañan con panderetas y por tanto parecen ritmos 
+No se tiene registros escritos de música de esa época pero por las flautas se concluye que usaban un sistema con 4 notas Eb F G Ab
+
+
+Se dice que Los persas importarían música y  darían origen a sus escalas (arabicas)que se ampliarían a ser pentatonica y luego a incluir más notas incluso cuartos de tono 
+
+Los griego a también estudiarían música en Egipto y podría ser el origen de sistema de griego de Tetracorde diatonico y eran tonos organizados en intervalos de cuatro y daría origen mas tarde a un sistema pentatonica usado en el sumará o doble clarinete tiene dos tubos conectados a una pieza que se colocaba en la boca. uno con 4 huecos y el otro sin agujeros, con lo que se lograban hacer 5 tonos. 
+
+Luego aparecería  uno conocido como el doble oboe que tiene 4 huecos en cada tubo que obtienen 8 tonos 
+
+Los instrumentos de cuerda tienen trastes lo que sugiere que tenían algún sistema de entonación de los instrumentos 
+
+Usaban tambores, panderetas y otros instrumentos de percusión 
+
+El arpa tenía 3 cuerdas 
+La lira no tiene trastes 
+
+Las flautas (no eran transversas) eran largas 1 yarda y por lo general usaban 3 huecos y estaban muy lejos para ser tocados con una sola mano 
+
+
+-
+Según la mitología china Ling Lun es el creador de la música en china, el tenia un set de flautas de bamboo que reproducían los sonidos de los pajaros incluyendo el Phoenix, los tonos serían de los órdenes de la escala 1, 2,3,5,6 y creó la escala pentatonica 
+
+
+En 2500 BC el emperador amarillo inmortalizaría estos tonos con la elaboración de 5 campanas de metal 
+
+El uso de las flautas y las campanas llevaría a la construcción de la primera escala usando la relación de la tierra y el cielo 3:2 
+Con lo que lograban obtener hasta 12 tonos Antes de llegar a uno que era muy similar al original pero como comprobaría Pitágoras y muchos estudiosos posteriores no era exactamente igual, había una pequeña diferencia que más tarde se conocería como coma 
+
+600ac en el dinastía zhou se comienza a hablar de música 
+Sus instrumentos estaban hechos de en los cinco elementos de la naturaleza fuego, agua, madera, metal y tierra 
+
+Siglo 7 AC empiezan a surgir un sistema de tonos con relación 3/2 que son la tierra y el cielo respectivamente se establece la escala pentatonica
+
+La primera referencia de las notas está en el Guanzi y los relaciona con los cinco elementos de la naturaleza fuego, agua, metal y tierra; con las 5 direcciones cardinales, norte sur, este, oeste y centro y con los cinco granos elementales sorgo, arroz, trigo, “beans” y “millet”
+
+Yu, Jue, Shang, Zhi y Gong
+
+También compara los sonidos con los emitidos por animales:
+1- Zhi boars and pigs alertas y asustados 
+2- Yu caballos en el campo
+3- Gong oxen grunting in a pen 
+4- Shang stray sheep 
+5- Jue pheasants calling on top of a tree sharp and shrill 
+
+El describe como se obtienen los sonidos:
+1- se toma un sonido y se divide entre 3 
+2- multiplicarlo por si mismo 4 veces (3x3x3x3) para llegar al número de los nueve Nueves (81) que será el sonido Góng generado desde Guangzhong y será el primero de la serie 
+3- súmele un tercio de sí mismo 81/3=27 obtendrá (81+27=) 108 este es Zhi
+4- ahora remueva un tercio del mismo (108/3=36) y se obtiene Shang (108-36=72) 
+5- se le suma un tercio de sí mismo (72/3=24) y se obtiene Yu (72+24=96)
+6- reste un tercio de sí mismo (96/3=32) y obtendrá Jue (96-32=64) 
+
+*Se dice que pararon allí porque al dividir nuevamente entre 3 nos daria un número que no era entero (64/3=21.33) y por tanto no se consideraba natural o puro 
+
+En la práctica se conoce que llegaron a descifrar usando la relación 3:2 hasta 12 tonos, haciendo la división y suma de tercios  once veces. Se volvía a obtener el tono original aunque no exactamente 
+
+Por escrito parece fácil pero al tratar de hacerlo con una bara de bambú nos daremos cuenta que al seguir dividiendo se llega a un punto que es muy corta para hacer la división 
+
+Muchos años más tarde en el “almanaque 
+De la mitad del verano” habla de la música de los antiguos y se explica por escrito por primera vez como obtener los 12 tonos:
+En la antigüedad Huang Di le ordenó a Ling Lun que organizara los tonos.
+Ling Lun tomó bambú de la garganta Del Valle Jie, seleccionando los que fueran gruesos, uniformes y huecos.
+Los corto en la mitad de dos secciones que median 3 y 9/10 de un cun (pulgada). El definió este como el tono de huangzhong y al soplarlo sono como she-shao.
+Luego cortaría 12 bambús  más y los llevaría a la falda del Monte Ruan-Yu y los compararía con los sonidos producidos por las aves Phoenix hembras y machos.
+Las aves Phoenix machos producirían 6 sonidos diferentes los lüt y la hembra otros 6 sonidos los lü. Estos sonidos coincidirían al ser comprados con el bambú de tono fundamental Huangzhong (Gong) con lo que se determinaba que ese bambú podía derivar todos los demás sonidos. Por eso se decía que el bambú de tono fundamental huangzhong (Gong) es el fundamental (Ben) de los lüt y Lü.
+Huang Di le ordenaría a Ling Lun y Rong Jiang forjar 12 campanas en concordancia con los 5 sonidos fundamentales como una demostración de la virtud de estos sonidos. Y fueron oficialmente tocados en el mes de la mitad de la primavera (marzo) en el día de  Yi-mao cuando el sol está en la casa Kui (picis/andromeda) y llamarían la música tocada Xian-chi
+
+En el “almanaque del final del verano” habla de las notas y los tonos estándares: 
+
+3^4=81 permite calcular 5 tonos diferentes sin llegar a decimales 
+
+3^11=177147 podrían llegar a 12 
+
+139bce
+Huainanzí=tratado de los patrones del cielo 
+Es el primero en tratar de asemejar los tonos a los meses del año y menciona el valor alto de la campaña amarilla que sería 177147 
+Utilizaría el sistema del Guanzi redondeando los números a doble dígitos, se redondeaban hacia arriba los mayores a la mitad y hacia abajo los menores, pero se nota que dos tonos no cumplen esta idea y fue porque se dieron cuenta que no daba relaciones perfectas y por tanto los ajustaron intentando llegar a la entonación perfecta 
+
+
+
+
+En la dinastía  Zhou Los instrumentos se clasificaban por el material del que estaban hechos piedra, metal, seda, bamboo, madera, arcilla, “gourd”, piel
+
+1ac Se sabe de un instrumento hecho de 64 campanas de diferentes formas y tamaños montadas en un esqueleto metálico que producen sonido de 5 octavas que para utilizarlo se necesitan 5 personas para tocarlas. Las campañas se golpean con un martillo de madera. Cada campaña produce dos tonos diferentes (centro, lados por tener una forma ovalada) los dos tonos están separado por 3M, lo que permitía tener todos los tonos que conocemos hoy en día y hacer escalas melódicas y harmonicas. Lo que nos indica que tenían varios sistemas de notas uno de 12, otro de 7 y el más popular de 5 
+
+Durante la dinastía hang 
+
+Bc Jing Fang calcula 60 tonos en una octava utilizando la relación 3:2, calculó 60 pues era un tono por cada año del calendario tradicional y se obtenía algo muy parecido a la entonación temperada dejando una diferencia de solo 3.6 cents que es la coma de Jing Fang 
+
+400 años más tarde qian Lezhi calcularía 360 tonos, uno por cada día de calendario tradicional y obtendría una diferencia de 1.8 cents en la octava que se conoce como la coma de Lezhi 
+
+Aproximadamente en la misma época He Chengtian, trataría de ajustar los 12 tonos existente y le daria un diferencia de 24cents en la última octava que decidió repartir entre todos los tonos con lo que se lograba el primer intento de una afinación temperada y se le conocería como el temperamento nuevo y se utilizaría en el siglo 1 de nuesta era 
+
+
+Un par de cientos de años más tarde huang poo utilizaría por primera vez la octava con relación 2:1 y tomando los bamboos con 2:3 y 4:3 y expandiéndolos 1/250 con esto se resolvía el problema de la octava desigual y era lo más cercano que se había estado a la entonación temperada igual 
+
+En Zhu zaiyu derivaría una quinta perfecta utilizando una relación de p5=500,000,000/749,153,538 y p4= 1000,000,000/749,153,538 que dan un error de menos de 1 cents con respecto a una 4 perfecta y una quinta perfecta. En 1584 publicaría un tratado llamado “el significado esencial de la flautas de bambú de tonos estándares” en donde correctamente calcularía la raíz doceava del 2 con 25 decimales convirtiéndolo en el primero en calcular matemáticamente de forma correctamente la entonación temperada igual, su método se conocería como el nuevo método de las medidas secretas y fue presentada al emperador quien finalmente decidiría no utilizarlo por considerarlo muy complicado, es por ello que no se le considera como el creador de método por no haberse puesto en práctica 
+
+
+En el siglo VI un Romano llamado Anicius Boethius decidió asignarle letras a las notas empezando por A hasta G
+
+——————
+Sentimientos asociados a los modos de la escala mayor
+
+
+Lydian orgulloso y triunfante 
+Ionian alegre y joyful
+Mkxolidian ligero, carefree 
+Dorian nostálgico, melancólico 
+Aeolian tristeza, sorrowful
+Frigio depresión, duelo 
+Locrian misterio, susto 
+
+Las escalas no se deben pensar en función de notas sino de los intervalos, los modos son variaciones del comienzo de la escala, o sea, se va desplazando la tónica 
+
+Escala cromática 12sT
+Escala completa 6T
+
+———
+Overtones:
+
+Cuando se toca una nota realmente no es un tono puro sino un grupo de tonos o harmonicos sonando al mismo tiempo, todos resuenan a una frecuencia determinada 
+
+
+———-
+Tríadas 
+
+Si se construyen las 7 posibles tríadas que pueden existir en una escala mayor, saltando un tono saldrán 1,3,5 
+
+C Dm Em F G Am Bdim 
+
+Para facilitar el uso partiendo de cualquier nota se usan número romanos y las mayúsculas para diferenciar los mayores 
+I ii iii IV V iv vii•
+
+Si se hace con una escala menor
+Am 
+
+
+
+Progresiones son combinaciones de acordes que juntas construyen la melodía de la canción por ejemplo
+
+The key of C primary chords 
+C Dm Em F  G(7)  Am B•(#)
+I   ii      iii  IV  V   vi   vii•
+Then there area secondary dominants (related by a fifth to the primary chords and they want to move to the primary chord ) 
+    A  B   C  D   E 
+    ii   iii  IV  V   vi   
+
+tonic chords= I, iii, vi
+Predominat chords ii, IV
+Dominant chords V, vii• (they want to move somewhere)
+
+C  Am  Dm G   Vs     C   A    Dm  G
+I    vi     ii     V             I    V/ii    ii    V
+(Half step resolutions are always the strongest) 
+
+I V/ii  ii 
+
+I V/iii iii 
+
+I V/iv iv
+
+I V/V V 
+
+I V/vi vi 
+
+For the key of G the primary chords are:
+G Am Bm C   D Em F#•
+I   ii      iii   IV  V  vi    vii•
+And the sec Dom:
+    E     F#  G   A   B
+You can turn all the secondaries to 7: 
+    E7   F#7  G7  A7  B7
+
+G E7 Am F#7 Bm G7  C    A7 D   B7  Em
+I   V/ii  ii   V/iii  iii   V/IV IV  V/V V  V/vi  vi
+
+Other related chord is the fourth minor 
+In the key of C it would become:
+C Dm Em Fm G Am B•
+I    ii     iii    iv   V vi    vii•
+The Beatles use this a lot 
+I vi IV iv I
+
+Other related chord is the third mayor
+In the key of C it would become:
+C Dm E   Fm G Am B•
+I    ii    III   iv   V vi    vii•
+And if you use a iv and a III (combine them) you get Radiohead Creed (2 borrowed chords)
+I  IV iv III iii I  
+
+The parallel chord progression for the key of C is (m->M and M->m)
+Cm D E Fm Gm A 
+i      II  III  iv   v    VI
+And the secondary dominant 
+       A B   C    D   E 
+
+I V IV vi
+I vi IV V 
+———-
+Orden:
+
+Sonidos 
+Notas
+Notación americana
+Pentagrama 
+Música-ondas-Notas, propiedades 
+Alteraciones 
+Harmonicos
+Instrumentos 
+Piano vs La guitarra 
+Intervalos
+Inversión de intervalos 
+Escalas 
+Tríadas
+Acordes
+Tipos de acordes
+Progresiones 
+
+
+—————-
+Hay 30 keys 
+
+7 tonos mayores con bemoles 
+F G A Bb C D E
+Bb C D Eb F G A
+Eb F G Ab Bb C D
+Ab Bb C Db Eb F G 
+Db Eb F Gb Ab Bb C
+Gb Ab Bb Cb Db Eb F
+Cb Db Eb Fb Gb Ab Bb
+
+7 tonos mayores con sostenidos
+G A B C D E F#
+D E F# G A B C#
+A B C# D E F# G#
+E F# G# A B C# D#
+B C# D# E F# G# A#
+F# G# A# B C# D# E#
+C# D# E# F# G# A# B#
+
+1 mayor sin accidentales 
+C D E F G A B
+
+7 tonos menores con bemoles
+7 tonos menores con sostenidos
+1 menor sin accidentales 
+A B C D E F G
+
+15 tonos mayores y 15 relativos menores

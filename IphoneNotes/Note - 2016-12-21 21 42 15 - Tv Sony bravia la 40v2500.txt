@@ -1,0 +1,22 @@
+12/21/16, 9:42 PM
+
+Tv Sony bravia la 40v2500
+Ps3 80gb fat
+Planta Sony str-dh800
+Cornetas Bosé 201v
+Sony ss-cn566h
+Directv lr15 
+
+Lampara 12 led x12hrs/dia
+transformador mean well eln-60-48d in 120v, 60hz,  1.2A out 48v 1.3A x12hrs/dia
+ventilador x 12hrs/dia
+Calentador 100w x 12hrs/dia
+Bomba powerhead 301 60hz, 120v x 24hrs/dia
+Bomba de aire airpod app4 120v, 60hz, 3.5w x 24hrs/dia
+Route netgear r6300 in 120v, 60hz, 1A out 12v, 2.5A x 24hrs/dia
+Modem axess tel cdma 1xev-do axw-d800 60hz, in 120 0.3A out 9v 1A x 24hrs/dia
+Apex jr 120v, 60hz, 12A x 24hrs/dia
+Apex vdm x 24hrs/dia
+Ups apc rs 1500 x 24hrs/dia
+
+

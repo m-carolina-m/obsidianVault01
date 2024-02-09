@@ -1,0 +1,97 @@
+8/27/21, 2:29 PM
+
+
+192.168.1.99
+Sys01
+5104
+
+Ventas de período
+Ventas de mes
+Ventas del día
+
+Cuentas por cobrar 
+
+Retenciones hechas 
+Retenciones enteradas 
+
+Inventario 
+
+Inv x costo 
+
+Cargos y descargos con el usuario m
+
+
+Ventas por vendedor 
+Acumulado semana mes y año 
+
+Ventas top clientes 
+
+Ventas por departamento 
+
+Inventario sin movimiento m
+
+En los últimos 15 días 30 días y 3 messs 
+
+
+Bancos 
+
+Compras 
+
+Devoluciones en compra y venta 
+
+
+Precio del dólar BCV y del petro 
+Precio histórico
+
+
+
+———-
+
+[https://websemantics.uk/tools/responsive-font-calculator/](https://websemantics.uk/tools/responsive-font-calculator/)[
+](https://websemantics.uk/tools/responsive-font-calculator/)
+
+Neomorphin 
+Glassmorphin
+Comfortable colors:
+Pale green, blue, brown, yellow 
+Color gradient themes 
+Minimalismo Nike 
+
+
+Modificar api para hacer consultas por página, de manera de reducir la cantidad de consultas y hacer el sistema más rápido y eficiente disminuyendo el tráfico entre back y Front: 
+Inventario 
+Ventas
+Compras
+Finanzas 
+
+Medir el tiempo de las consultas, ver si será más rápido hacer varios querys o sólo uno traiga toda la info 
+
+Calcular mínimos y maximos de inventario a partir de las ventas 
+
+Artículos con precio menor al costo 
+
+Relación de Movimientos (existencia inicial, compras, entradas, salidas, ventas, existencia final, usuario y fecha de los ajustes, proveedores y fechas de las compras) 
+
+Analítico de existencias (días de inventario)
+
+Pedido sugerido (existencia, min)
+
+Relación de compras (proveedor, factura, fecha compra, fecha vencimiento, uno, total, utilidad $ , %utilidad) 
+
+Relación de devoluciones 
+
+Relación de comprobantes de ret Iva 
+
+Estadísticas de compras y ventas (día, ventas, departamento, #transacciones, compras, proveedor)
+
+
+Relación de movimientos por artículo (artículo 
+Fecha, movimiento, tipo (c,v,a), E-S, lote, cant, costo unit, costo total )
+
+Artículos más vendidos 
+
+Resumen de ventas por categoría, comparativa con año anterior, total % de crecimiento 
+
+Cuantas por pagar 
+Cuentas por cobrar 
+

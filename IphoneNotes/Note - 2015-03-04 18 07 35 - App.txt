@@ -1,0 +1,48 @@
+3/4/15, 6:07 PM
+
+App:
+Name 
+Age
+Weight
+Gps route
+Pace(time/distance) or speed (distance/time)
+-current
+-average
+-best in this workout
+-best all time
+Stopped time
+-auto pause 
+Time
+Distance
+Elevation
+-ascent
+-descent 
+Calories
+Cadence 
+Heart rate
+-establish zones
+-alarms for going faster or slower
+Weather
+Splits
+History 
+-day
+-yesterday
+-this week
+-last week
+-this month
+-last month
+-this year
+-last year
+-all time
+Records
+Challenges 
+-global 
+*distance in a month
+-by route 
+*pace 
+*compete with past workout
+Charts
+Voice every 5min or every km
+Units
+Auto lock on activity started
+Shometer 

@@ -11,12 +11,8 @@
             "id": "43d1662f84e17130",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archivo renombrado.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archivo renombrado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archivo renombrado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +174,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "43d1662f84e17130",
+  "active": "4e60d87dbd993444",
   "lastOpenFiles": [
     "Archivo renombrado.md",
     "Journal/Weekly/2024-W03.md",

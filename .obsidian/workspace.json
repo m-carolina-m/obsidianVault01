@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd55217c7d2b208c",
+        "id": "a261d8087ed6e202",
         "type": "tabs",
         "children": [
           {
-            "id": "43d1662f84e17130",
+            "id": "d08525e240f641c9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,8 +172,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4e60d87dbd993444",
+  "active": "d08525e240f641c9",
   "lastOpenFiles": [
+    "otra nueva nota.md",
     "Archivo renombrado.md",
     "Journal/Weekly/2024-W03.md",
     "Journal/Daily/2024-02-16.md",
@@ -200,7 +201,6 @@
     "LIFE/Series/Daughter from Another Mother (2021-2022).md",
     "WORK/Farmacias/SENIAT.md",
     "LIFE/Series/Vis a Vis El Oasis (2020).md",
-    "LIFE/Series/Vis a vis (2015-2019).md",
     "LIFE/ZettleKasten",
     "Images/Pasted image 20240123154331.png",
     "Images",

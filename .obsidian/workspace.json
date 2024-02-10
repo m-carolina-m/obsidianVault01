@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "33ce40912788f365",
+        "id": "fd55217c7d2b208c",
         "type": "tabs",
         "children": [
           {
-            "id": "79ca60f8e7b13b1e",
+            "id": "43d1662f84e17130",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,7 +172,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "79ca60f8e7b13b1e",
+  "active": "43d1662f84e17130",
   "lastOpenFiles": [
     "Archivo renombrado.md",
     "Journal/Weekly/2024-W03.md",

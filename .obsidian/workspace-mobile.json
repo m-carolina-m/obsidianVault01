@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c234b5bdd79d5f",
+        "id": "b307c2ba892a5d87",
         "type": "tabs",
         "children": [
           {
-            "id": "43291c7f3a9cc24a",
+            "id": "400ebc13f5ae496e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,8 +142,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "43291c7f3a9cc24a",
+  "active": "400ebc13f5ae496e",
   "lastOpenFiles": [
+    "Archivo renombrado.md",
     "Journal/Daily/2024-01-05.md",
     "Prueba 4.md",
     "helper.py",

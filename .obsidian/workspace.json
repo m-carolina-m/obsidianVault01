@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9eb174edb060f051",
+        "id": "33ce40912788f365",
         "type": "tabs",
         "children": [
           {
-            "id": "f95e5cfc181cc1fa",
+            "id": "79ca60f8e7b13b1e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -135,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Journal/Weekly/2024-W04.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,18 +162,19 @@
   "left-ribbon": {
     "hiddenItems": {
       "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-book-search-plugin:Create new book note": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "4e60d87dbd993444",
+  "active": "79ca60f8e7b13b1e",
   "lastOpenFiles": [
+    "Archivo renombrado.md",
     "Journal/Weekly/2024-W03.md",
     "Journal/Daily/2024-02-16.md",
     "Journal/Daily/2024-02-15.md",
@@ -202,7 +201,6 @@
     "WORK/Farmacias/SENIAT.md",
     "LIFE/Series/Vis a Vis El Oasis (2020).md",
     "LIFE/Series/Vis a vis (2015-2019).md",
-    "Journal/Daily/2024-01-31.md",
     "LIFE/ZettleKasten",
     "Images/Pasted image 20240123154331.png",
     "Images",

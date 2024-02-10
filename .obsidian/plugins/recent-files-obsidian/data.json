@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Archivo renombrado",
+      "path": "Archivo renombrado.md"
+    },
+    {
       "basename": "2024-01-05",
       "path": "Journal/Daily/2024-01-05.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Poseidon Adventure (1972)",
       "path": "LIFE/Movies/The Poseidon Adventure (1972).md"
-    },
-    {
-      "basename": "The Edge of Seventeen (2016)",
-      "path": "LIFE/Movies/The Edge of Seventeen (2016).md"
     }
   ],
   "omittedPaths": [],

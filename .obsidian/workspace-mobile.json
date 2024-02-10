@@ -137,9 +137,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "43291c7f3a9cc24a",

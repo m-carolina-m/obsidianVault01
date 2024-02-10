@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8483f2583a82f8c4",
+        "id": "c7c234b5bdd79d5f",
         "type": "tabs",
         "children": [
           {
-            "id": "dbbe39755c6160db",
+            "id": "43291c7f3a9cc24a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -67,6 +67,14 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "29f300eec7d098f7",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -109,6 +117,14 @@
           "type": "outline",
           "state": {}
         }
+      },
+      {
+        "id": "1bcc8c78c30533f0",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -120,11 +136,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "8a2e98af216887e5",
+  "active": "43291c7f3a9cc24a",
   "lastOpenFiles": [
+    "Journal/Daily/2024-01-05.md",
     "Prueba 4.md",
     "helper.py",
     "Prueba 3.md",

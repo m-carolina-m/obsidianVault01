@@ -1,1 +1,6 @@
-{}
+{
+  "showInlineTitle": false,
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "propertiesInDocument": "hidden"
+}

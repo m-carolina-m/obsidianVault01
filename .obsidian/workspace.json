@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a261d8087ed6e202",
+        "id": "5f398d0369d2e817",
         "type": "tabs",
         "children": [
           {
-            "id": "d08525e240f641c9",
+            "id": "33150429fa18b9ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Daily/2024-02-02.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal/Daily/2024-02-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journal/Daily/2024-02-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Journal/Daily/2024-02-02.md"
               }
             }
           }
@@ -168,14 +174,26 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "4e60d87dbd993444",
+  "active": "33150429fa18b9ff",
   "lastOpenFiles": [
+    "Journal/Daily/2024-02-01.md",
+    "Journal/Daily/2024-02-02.md",
+    "2024-01-31.md",
+    "SETTINGS/Templates/Daily Notes Template.md",
+    "2024-02.md",
+    "Journal/Daily/2024-02-03.md",
+    "SETTINGS/Templates/New Author Template.md",
+    "SETTINGS/Templates/Monthly Notes Template.md",
+    "SETTINGS/Templates/New Book Template.md",
+    "SETTINGS/Templates/New Author Template 1.md",
+    "SETTINGS/Templates/New Series Template 1.md",
+    "SETTINGS/Templates/New Series Template.md",
+    "SETTINGS/Templates/New Movie Template.md",
+    "Journal/Daily/2024-01-05.md",
     "otra nueva nota.md",
     "Archivo renombrado.md",
     "Journal/Weekly/2024-W03.md",
@@ -184,25 +202,11 @@
     "Journal/Daily/2024-02-14.md",
     "Journal/Daily/2024-02-13.md",
     "Journal/Daily/2024-02-12.md",
-    "Journal/Daily/2024-02-01.md",
-    "Journal/Daily/2024-02-02.md",
     "Journal/Daily/2024-02-05.md",
     "Journal/Daily/2024-02-06.md",
     "Journal/Daily/2024-02-07.md",
     "Journal/Daily/2024-02-08.md",
-    "Journal/Daily/2024-02-09.md",
-    "LIFE/movies/John Wick (2014).md",
-    "LIFE/movies/John Wick Chapter 4 (2023).md",
-    "LIFE/movies/John Wick Chapter 2 (2017).md",
-    "LIFE/movies/Society of the Snow (2023).md",
-    "LIFE/movies/The Shawshank Redemption (1994).md",
-    "LIFE/movies/John Wick Chapter 3 - Parabellum (2019).md",
     "LIFE/Untitled",
-    "LIFE/Series/_000 Currently Watching.md",
-    "LIFE/Series/_000 To Watch Series.md",
-    "LIFE/Series/Daughter from Another Mother (2021-2022).md",
-    "WORK/Farmacias/SENIAT.md",
-    "LIFE/Series/Vis a Vis El Oasis (2020).md",
     "LIFE/ZettleKasten",
     "Images/Pasted image 20240123154331.png",
     "Images",

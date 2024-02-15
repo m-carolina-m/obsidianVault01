@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c00828e2fe9bb4d2",
+        "id": "fcf75266a9d249c4",
         "type": "tabs",
         "children": [
           {
-            "id": "0cacad9ef0bcdacb",
+            "id": "90fdc7aeb5915a04",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,10 +142,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0cacad9ef0bcdacb",
+  "active": "90fdc7aeb5915a04",
   "lastOpenFiles": [
-    "LIFE/movies",
     "LIFE/Movies/_000 To Watch Movie List.md",
+    "LIFE/Movies/Black Bread (2010).md",
+    "LIFE/movies",
     "LIFE/Movies/A Very Long Engagement (2004).md",
     "LIFE/Movies/Le hérisson (1998).md",
     "LIFE/Movies/The Road Dance (2021).md",

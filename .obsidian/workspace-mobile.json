@@ -11,8 +11,12 @@
             "id": "f62ec5650743ff08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LIFE/Movies/_000 To Watch Movie List.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "LIFE/Movies/_000 To Watch Movie List.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "LIFE/Movies/_000 To Watch Movie List.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "LIFE/Movies/_000 To Watch Movie List.md"
+          }
         }
       },
       {
@@ -144,6 +152,7 @@
   },
   "active": "f62ec5650743ff08",
   "lastOpenFiles": [
+    "LIFE/Movies/A Very Long Engagement (2004).md",
     "LIFE/movies",
     "LIFE/Movies/_000 To Watch Movie List.md",
     "LIFE/Movies/Le hérisson (1998).md",

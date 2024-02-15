@@ -5,6 +5,7 @@
     "children": [
       {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "id": "b312227c11dff83a",
         "type": "tabs",
         "children": [
@@ -18,6 +19,17 @@
                 "mode": "source",
                 "source": false
               }
+=======
+        "id": "d34b48ff3443137b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d65f7519e172c01",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+>>>>>>> FETCH_HEAD
 =======
         "id": "d34b48ff3443137b",
         "type": "tabs",
@@ -193,7 +205,11 @@
     }
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "e3f367cd317aeff1",
+=======
+  "active": "4e60d87dbd993444",
+>>>>>>> FETCH_HEAD
 =======
   "active": "4e60d87dbd993444",
 >>>>>>> FETCH_HEAD

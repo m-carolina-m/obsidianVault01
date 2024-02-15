@@ -3,7 +3,10 @@
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> FETCH_HEAD
 =======
 >>>>>>> FETCH_HEAD
       "basename": "Daily Notes Template",
@@ -20,12 +23,21 @@
     {
       "basename": "2024-02-13-Tuesday",
       "path": "Journal/Daily/2024/02-February/2024-02-13-Tuesday.md"
+<<<<<<< HEAD
     },
     {
       "basename": "SENIAT",
       "path": "WORK/Farmacias/SENIAT.md"
     },
     {
+=======
+    },
+    {
+      "basename": "SENIAT",
+      "path": "WORK/Farmacias/SENIAT.md"
+    },
+    {
+>>>>>>> FETCH_HEAD
       "basename": "2024-02-16-Friday",
       "path": "Journal/Daily/2024/02-February/2024-02-16-Friday.md"
     },
@@ -49,6 +61,7 @@
       "basename": "2024-01-05-Friday",
       "path": "JOURNAL/Daily/2024/01-January/2024-01-05-Friday.md"
 <<<<<<< HEAD
+<<<<<<< HEAD
     },
     {
       "basename": "2024-01-04-Thursday",
@@ -58,6 +71,8 @@
       "basename": "2024-01-03-Wednesday",
       "path": "JOURNAL/Daily/2024/01-January/2024-01-03-Wednesday.md"
 =======
+=======
+>>>>>>> FETCH_HEAD
     },
     {
       "basename": "2024-01-04-Thursday",
@@ -106,6 +121,12 @@
     {
       "basename": "Weekly Notes Template",
       "path": "SETTINGS/Templates/Weekly Notes Template.md"
+<<<<<<< HEAD
+    },
+    {
+      "basename": "May December (2023)",
+      "path": "LIFE/movies/May December (2023).md"
+=======
     },
     {
       "basename": "May December (2023)",
@@ -124,6 +145,44 @@
       "path": "Journal/Daily/2024-02-14.md"
     },
     {
+      "basename": "2024-02-13",
+      "path": "Journal/Daily/2024-02-13.md"
+    },
+    {
+      "basename": "2024-02-12",
+      "path": "Journal/Daily/2024-02-12.md"
+    },
+    {
+      "basename": "2024-02-06",
+      "path": "Journal/Daily/2024-02-06.md"
+    },
+    {
+      "basename": "2024-02-07",
+      "path": "Journal/Daily/2024-02-07.md"
+    },
+    {
+      "basename": "2024-02-08",
+      "path": "Journal/Daily/2024-02-08.md"
+    },
+    {
+      "basename": "2024-02-09",
+      "path": "Journal/Daily/2024-02-09.md"
+>>>>>>> FETCH_HEAD
+    },
+    {
+      "basename": "2024-02-16",
+      "path": "Journal/Daily/2024-02-16.md"
+    },
+    {
+      "basename": "2024-02-15",
+      "path": "Journal/Daily/2024-02-15.md"
+    },
+    {
+      "basename": "2024-02-14",
+      "path": "Journal/Daily/2024-02-14.md"
+    },
+    {
+<<<<<<< HEAD
       "basename": "2024-02-13",
       "path": "Journal/Daily/2024-02-13.md"
     },
@@ -169,6 +228,8 @@
       "basename": "2024-02-06-Tuesday",
       "path": "JOURNAL/Daily/2024/02-February/2024-02-06-Tuesday.md"
 =======
+=======
+>>>>>>> FETCH_HEAD
       "basename": "Vis a Vis El Oasis (2020)",
       "path": "LIFE/Series/Vis a Vis El Oasis (2020).md"
 >>>>>>> FETCH_HEAD
@@ -182,6 +243,10 @@
       "basename": "2024-02-03-Saturday",
       "path": "Daily/2024/02-February/2024-02-03-Saturday.md"
 =======
+      "basename": "2024-01-31",
+      "path": "Journal/Daily/2024-01-31.md"
+    },
+    {
       "basename": "2024-01-31",
       "path": "Journal/Daily/2024-01-31.md"
     },
@@ -227,6 +292,7 @@
       "path": "Journal/Daily/2024-02-12.md"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "basename": "2024-02-06",
       "path": "Journal/Daily/2024-02-06.md"
@@ -313,6 +379,10 @@
       "path": "LIFE/Movies/The Hedgehog (2009).md"
     },
     {
+      "basename": "Standing Up (2013)",
+      "path": "LIFE/movies/Standing Up (2013).md"
+>>>>>>> FETCH_HEAD
+=======
       "basename": "Standing Up (2013)",
       "path": "LIFE/movies/Standing Up (2013).md"
 >>>>>>> FETCH_HEAD

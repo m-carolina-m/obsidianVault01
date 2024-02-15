@@ -1,6 +1,7 @@
 {
-  "showInlineTitle": false,
-  "livePreview": false,
-  "defaultViewMode": "source",
-  "propertiesInDocument": "hidden"
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "propertiesInDocument": "source",
+  "showInlineTitle": false
 }

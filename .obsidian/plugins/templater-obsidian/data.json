@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "SETTINGS\\templates",
+  "templates_folder": "SETTINGS/Templates",
   "templates_pairs": [
     [
       "",
@@ -15,15 +15,17 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
+      "folder": "Journal/Daily",
+      "template": "SETTINGS/Templates/Daily Notes Template.md"
+    },
+    {
       "folder": "",
       "template": ""
     }
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    ""
-  ],
+  "enabled_templates_hotkeys": [],
   "startup_templates": [
     ""
   ],

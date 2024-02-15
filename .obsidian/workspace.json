@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5f398d0369d2e817",
+        "id": "b312227c11dff83a",
         "type": "tabs",
         "children": [
           {
-            "id": "33150429fa18b9ff",
+            "id": "e3f367cd317aeff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2024-02-02.md",
+                "file": "SETTINGS/Templates/Daily Notes Template.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2024-02-02.md",
+                "file": "SETTINGS/Templates/Daily Notes Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily/2024-02-02.md",
+                "file": "SETTINGS/Templates/Daily Notes Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily/2024-02-02.md"
+                "file": "SETTINGS/Templates/Daily Notes Template.md"
               }
             }
           }
@@ -170,47 +170,55 @@
   "left-ribbon": {
     "hiddenItems": {
       "templater-obsidian:Templater": false,
-      "obsidian-book-search-plugin:Create new book note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "33150429fa18b9ff",
+  "active": "e3f367cd317aeff1",
   "lastOpenFiles": [
-    "Journal/Daily/2024-02-01.md",
-    "Journal/Daily/2024-02-02.md",
-    "2024-01-31.md",
-    "SETTINGS/Templates/Daily Notes Template.md",
-    "2024-02.md",
-    "Journal/Daily/2024-02-03.md",
-    "SETTINGS/Templates/New Author Template.md",
-    "SETTINGS/Templates/Monthly Notes Template.md",
-    "SETTINGS/Templates/New Book Template.md",
+    "Journal/Daily/2024/02-February/2024-02-15-Thursday.md",
+    "Journal/Daily/2024/02-February/2024-02-14-Wednesday.md",
+    "Journal/Daily/2024/02-February/2024-02-13-Tuesday.md",
+    "WORK/Farmacias/SENIAT.md",
+    "Journal/Daily/2024/02-February/2024-02-16-Friday.md",
+    "JOURNAL/Daily/2024/02-February/2024-02-16-Friday.md",
+    "JOURNAL/Daily/2024/02-February/2024-02-21-Wednesday.md",
+    "JOURNAL/Daily/2024/02-February/2024-02-15-Thursday.md",
+    "JOURNAL/Daily/2024/02-February/2024-02-14-Wednesday.md",
+    "JOURNAL/Daily/2024/02-February/2024-02-13-Tuesday.md",
+    "JOURNAL/Daily/2024/02-February",
+    "JOURNAL/Daily/2024",
+    "JOURNAL/Daily",
+    "Journal/Daily/2024/02-February/2024-02-21-Wednesday.md",
     "SETTINGS/Templates/New Author Template 1.md",
-    "SETTINGS/Templates/New Series Template 1.md",
-    "SETTINGS/Templates/New Series Template.md",
-    "SETTINGS/Templates/New Movie Template.md",
-    "Journal/Daily/2024-01-05.md",
-    "otra nueva nota.md",
-    "Archivo renombrado.md",
-    "Journal/Weekly/2024-W03.md",
-    "Journal/Daily/2024-02-16.md",
-    "Journal/Daily/2024-02-15.md",
-    "Journal/Daily/2024-02-14.md",
-    "Journal/Daily/2024-02-13.md",
-    "Journal/Daily/2024-02-12.md",
-    "Journal/Daily/2024-02-05.md",
-    "Journal/Daily/2024-02-06.md",
-    "Journal/Daily/2024-02-07.md",
-    "Journal/Daily/2024-02-08.md",
-    "LIFE/Untitled",
-    "LIFE/ZettleKasten",
+    "Journal/Daily/2024/02-February",
+    "Journal/Daily/2024",
+    "Journal/Daily/2024/01-January/2024-01-01-Monday.md",
+    "SETTINGS/Templates/Daily Notes Template.md",
+    "Journal/Daily/2024/01-January/2024-01-05-Friday.md",
+    "JOURNAL/Daily/2024/01-January/2024-01-05-Friday.md",
+    "Journal/Daily/2024/01-January/2024-01-04-Thursday.md",
+    "Journal/Daily/2024/01-January/2024-01-03-Wednesday.md",
+    "Journal/Daily/2024/01-January/2024-01-02-Tuesday.md",
+    "JOURNAL/Daily/2024/01-January/2024-01-04-Thursday.md",
+    "JOURNAL/Daily/2024/01-January/2024-01-03-Wednesday.md",
+    "JOURNAL/Daily/2024/01-January/2024-01-02-Tuesday.md",
+    "Journal/Daily/2024/01-January",
+    "Journal/Daily/2024/02-February/2024-02-03-Saturday.md",
+    "Journal/Daily/2024/02-February/2024-02-02-Friday.md",
+    "Journal/Daily/2024/02-February/2024-02-01-Thursday.md",
+    "Journal/Daily/2024/01-January/2024-01-31-Wednesday.md",
+    "JOURNAL/Daily/2024/01-January",
+    "Daily/2024/02-February",
+    "Daily/2024",
+    "Daily",
     "Images/Pasted image 20240123154331.png",
-    "Images",
-    "LIFE/Administración de empresas",
     "Images/Pasted image 20240123155650.png",
     "Images/Pasted image 20240123155443.png",
     "Images/Pasted image 20240123155421.png",
@@ -219,12 +227,6 @@
     "Images/Pasted image 20240123155119.png",
     "Images/Pasted image 20240123155028.png",
     "Images/Pasted image 20240123154953.png",
-    "Images/Pasted image 20240123154907.png",
-    "IphoneNotes/Note - 2020-08-17 07 46 01 - 1.txt",
-    "IphoneNotes/Note - 2018-11-15 23 37 56 - Ot.txt",
-    "IphoneNotes/Note - 2022-03-25 20 10 59 - -.txt",
-    "IphoneNotes/Note - 2016-05-28 14 19 39 - ACV.txt",
-    "IphoneNotes/Note - 2020-09-04 10 44 07 - Gas.txt",
-    "IphoneNotes/Note - 2015-03-04 18 07 35 - App.txt"
+    "Images/Pasted image 20240123154907.png"
   ]
 }

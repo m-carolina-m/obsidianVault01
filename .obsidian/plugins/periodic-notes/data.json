@@ -3,7 +3,7 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
+    "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd",
     "template": "SETTINGS/Templates/Daily Notes Template.md",
     "folder": "Journal/Daily",
     "enabled": true

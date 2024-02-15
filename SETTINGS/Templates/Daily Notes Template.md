@@ -1,13 +1,11 @@
 ---
 type: daily
-date: <% tp.file.title %>
+date: # <% moment(tp.file.title,'YYYY-MM-DD').format("MM, DD, YYYY") %>
 ---
 
-#<% tp.file.title %>
+# <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
 
-**Prev::** [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title,"YYYY-MM-DD") %>]]
-**Next::** [[<% tp.date.now("YYYY-MM-DD", +1, tp.file.title,"YYYY-MM-DD") %>]]
-**Parent::** [[<% tp.date.now("YYYY-MM", 0, tp.file.title,"YYYY-MM-DD") %>]], [[<% tp.date.now("YYYY-[W]ww", 0, tp.file.title,"YYYY-MM-DD") %>]]
+<< [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').subtract(1, 'd').format('[JOURNAL]/[Daily]/YYYY/MM-MMMM/YYYY-MM-DD-dddd') %>\|Yesterday]] \| [[<% fileDate = moment(tp.file.title, 'YYYY-MM-DD-dddd').add(1, 'd').format('[JOURNAL]/[Daily]/YYYY/MM-MMMM/YYYY-MM-DD-dddd') %>\|Tomorrow]] >>
 
 ## TO DO LIST:
 ```dataviewjs
@@ -15,13 +13,10 @@ dv.taskList(dv.pages().file.tasks
 .where(t=>t.text.includes("{{date:YYYY-MM-DD}}")))
 ```
 
-## MORNING REVIEW:
+## FIRST LIGHT
 
-
-## LOG:
-
-
+<% tp.file.cursor() %>
 ## EXPENSES:
 
 
-## EVEN REVIEW:
+## LAST LIGHT:

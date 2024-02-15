@@ -1,58 +1,18 @@
 {
   "main": {
-    "id": "3956c371a75e7fee",
+    "id": "4fd4d40a9c4e2d71",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-        "id": "b312227c11dff83a",
+        "id": "d3ee1bc49d4cf4df",
         "type": "tabs",
         "children": [
           {
-            "id": "e3f367cd317aeff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SETTINGS/Templates/Daily Notes Template.md",
-                "mode": "source",
-                "source": false
-              }
-=======
-        "id": "d34b48ff3443137b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d65f7519e172c01",
+            "id": "a0771bf7dac5eb68",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
->>>>>>> FETCH_HEAD
-=======
-        "id": "d34b48ff3443137b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d65f7519e172c01",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
->>>>>>> FETCH_HEAD
-=======
-        "id": "d34b48ff3443137b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1d65f7519e172c01",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
->>>>>>> FETCH_HEAD
             }
           }
         ]
@@ -61,16 +21,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b1159a09f172fc08",
+    "id": "8b2e173b70287dab",
     "type": "split",
     "children": [
       {
-        "id": "e753a04860d3e533",
+        "id": "b9f23574cd672222",
         "type": "tabs",
-        "dimension": 72.52747252747253,
         "children": [
           {
-            "id": "4e60d87dbd993444",
+            "id": "67e2c083937875de",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "52b852ca591b16ed",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +47,7 @@
             }
           },
           {
-            "id": "75dc2753bb4de660",
+            "id": "afc9f382b1662ed8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,50 +62,43 @@
             }
           },
           {
-            "id": "bf59e86fd14c6459",
+            "id": "a74a1a8dd1974770",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "64e16472cacdb11a",
-        "type": "tabs",
-        "dimension": 27.47252747252747,
-        "children": [
-          {
-            "id": "b4541b653ae40d78",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 271
+    "width": 300
   },
   "right": {
-    "id": "52c163e49d9509dc",
+    "id": "05297d0248165bff",
     "type": "split",
     "children": [
       {
-        "id": "cf5b38d0f255fc7a",
+        "id": "eb73887d8a5a1236",
         "type": "tabs",
-        "dimension": 56.94635488308115,
         "children": [
           {
-            "id": "4fe0927644cd95f9",
+            "id": "0a3f4c0783417a18",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3d814016d304348",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SETTINGS/Templates/Daily Notes Template.md",
+                "file": "LIFE/Movies/_000 To Watch Movie List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,19 +110,19 @@
             }
           },
           {
-            "id": "2e76cef337a9203d",
+            "id": "b10fd955e28be34b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SETTINGS/Templates/Daily Notes Template.md",
+                "file": "LIFE/Movies/_000 To Watch Movie List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "db71c34301a1568a",
+            "id": "4d529b99ea1c1676",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -173,108 +133,37 @@
             }
           },
           {
-            "id": "bccfb953b110cb78",
+            "id": "eee89a006f439897",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "SETTINGS/Templates/Daily Notes Template.md"
+                "file": "LIFE/Movies/_000 To Watch Movie List.md"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "40df44c81c6f4e0d",
-        "type": "tabs",
-        "dimension": 43.053645116918844,
-        "children": [
-          {
-            "id": "336b51d86580863d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-book-search-plugin:Create new book note": false,
       "periodic-notes:Open today": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "e3f367cd317aeff1",
-=======
-  "active": "4e60d87dbd993444",
->>>>>>> FETCH_HEAD
-=======
-  "active": "4e60d87dbd993444",
->>>>>>> FETCH_HEAD
-=======
-  "active": "4e60d87dbd993444",
->>>>>>> FETCH_HEAD
+  "active": "52b852ca591b16ed",
   "lastOpenFiles": [
-    "Journal/Daily/2024/02-February/2024-02-15-Thursday.md",
-    "Journal/Daily/2024/02-February/2024-02-14-Wednesday.md",
-    "Journal/Daily/2024/02-February/2024-02-13-Tuesday.md",
-    "WORK/Farmacias/SENIAT.md",
-    "Journal/Daily/2024/02-February/2024-02-16-Friday.md",
-    "JOURNAL/Daily/2024/02-February/2024-02-16-Friday.md",
-    "JOURNAL/Daily/2024/02-February/2024-02-21-Wednesday.md",
-    "JOURNAL/Daily/2024/02-February/2024-02-15-Thursday.md",
-    "JOURNAL/Daily/2024/02-February/2024-02-14-Wednesday.md",
-    "JOURNAL/Daily/2024/02-February/2024-02-13-Tuesday.md",
-    "JOURNAL/Daily/2024/02-February",
-    "JOURNAL/Daily/2024",
-    "JOURNAL/Daily",
-    "Journal/Daily/2024/02-February/2024-02-21-Wednesday.md",
-    "SETTINGS/Templates/New Author Template 1.md",
-    "Journal/Daily/2024/02-February",
-    "Journal/Daily/2024",
-    "Journal/Daily/2024/01-January/2024-01-01-Monday.md",
-    "SETTINGS/Templates/Daily Notes Template.md",
-    "Journal/Daily/2024/01-January/2024-01-05-Friday.md",
-    "JOURNAL/Daily/2024/01-January/2024-01-05-Friday.md",
-    "Journal/Daily/2024/01-January/2024-01-04-Thursday.md",
-    "Journal/Daily/2024/01-January/2024-01-03-Wednesday.md",
-    "Journal/Daily/2024/01-January/2024-01-02-Tuesday.md",
-    "JOURNAL/Daily/2024/01-January/2024-01-04-Thursday.md",
-    "JOURNAL/Daily/2024/01-January/2024-01-03-Wednesday.md",
-    "JOURNAL/Daily/2024/01-January/2024-01-02-Tuesday.md",
-    "Journal/Daily/2024/01-January",
-    "Journal/Daily/2024/02-February/2024-02-03-Saturday.md",
-    "Journal/Daily/2024/02-February/2024-02-02-Friday.md",
-    "Journal/Daily/2024/02-February/2024-02-01-Thursday.md",
-    "Journal/Daily/2024/01-January/2024-01-31-Wednesday.md",
-    "JOURNAL/Daily/2024/01-January",
-    "Daily/2024/02-February",
-    "Daily/2024",
-    "Daily",
-    "Images/Pasted image 20240123154331.png",
-    "Images/Pasted image 20240123155650.png",
-    "Images/Pasted image 20240123155443.png",
-    "Images/Pasted image 20240123155421.png",
-    "Images/Pasted image 20240123155146.png",
-    "Images/Pasted image 20240123155145.png",
-    "Images/Pasted image 20240123155119.png",
-    "Images/Pasted image 20240123155028.png",
-    "Images/Pasted image 20240123154953.png",
-    "Images/Pasted image 20240123154907.png"
+    "Journal/Daily/2024/02-February/2024-02-15-Thursday.md"
   ]
 }

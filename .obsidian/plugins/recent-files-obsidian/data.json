@@ -2,7 +2,10 @@
   "recentFiles": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> FETCH_HEAD
       "basename": "Daily Notes Template",
       "path": "SETTINGS/Templates/Daily Notes Template.md"
     },
@@ -45,6 +48,16 @@
     {
       "basename": "2024-01-05-Friday",
       "path": "JOURNAL/Daily/2024/01-January/2024-01-05-Friday.md"
+<<<<<<< HEAD
+    },
+    {
+      "basename": "2024-01-04-Thursday",
+      "path": "JOURNAL/Daily/2024/01-January/2024-01-04-Thursday.md"
+    },
+    {
+      "basename": "2024-01-03-Wednesday",
+      "path": "JOURNAL/Daily/2024/01-January/2024-01-03-Wednesday.md"
+=======
     },
     {
       "basename": "2024-01-04-Thursday",
@@ -133,6 +146,102 @@
     {
       "basename": "2024-02-09",
       "path": "Journal/Daily/2024-02-09.md"
+>>>>>>> FETCH_HEAD
+    },
+    {
+      "basename": "2024-01-02-Tuesday",
+      "path": "JOURNAL/Daily/2024/01-January/2024-01-02-Tuesday.md"
+    },
+    {
+      "basename": "2024-01-29-Monday",
+      "path": "JOURNAL/Daily/2024/01-January/2024-01-29-Monday.md"
+    },
+    {
+      "basename": "2024-01-30-Tuesday",
+      "path": "JOURNAL/Daily/2024/01-January/2024-01-30-Tuesday.md"
+    },
+    {
+<<<<<<< HEAD
+      "basename": "2024-02-07-Wednesday",
+      "path": "JOURNAL/Daily/2024/02-February/2024-02-07-Wednesday.md"
+    },
+    {
+      "basename": "2024-02-06-Tuesday",
+      "path": "JOURNAL/Daily/2024/02-February/2024-02-06-Tuesday.md"
+=======
+      "basename": "Vis a Vis El Oasis (2020)",
+      "path": "LIFE/Series/Vis a Vis El Oasis (2020).md"
+>>>>>>> FETCH_HEAD
+    },
+    {
+      "basename": "2024-02-05-Monday",
+      "path": "2024-02-05-Monday.md"
+    },
+    {
+<<<<<<< HEAD
+      "basename": "2024-02-03-Saturday",
+      "path": "Daily/2024/02-February/2024-02-03-Saturday.md"
+=======
+      "basename": "2024-01-31",
+      "path": "Journal/Daily/2024-01-31.md"
+    },
+    {
+      "basename": "Ally McBeal (1997-2002)",
+      "path": "LIFE/Series/Ally McBeal (1997-2002).md"
+>>>>>>> FETCH_HEAD
+    },
+    {
+      "basename": "2024-02-04-Sunday",
+      "path": "Daily/2024/02-February/2024-02-04-Sunday.md"
+    },
+    {
+      "basename": "New Series Template 1",
+      "path": "SETTINGS/Templates/New Series Template 1.md"
+    },
+    {
+      "basename": "Weekly Notes Template",
+      "path": "SETTINGS/Templates/Weekly Notes Template.md"
+    },
+    {
+      "basename": "May December (2023)",
+      "path": "LIFE/movies/May December (2023).md"
+    },
+    {
+      "basename": "2024-02-16",
+      "path": "Journal/Daily/2024-02-16.md"
+    },
+    {
+      "basename": "2024-02-15",
+      "path": "Journal/Daily/2024-02-15.md"
+    },
+    {
+      "basename": "2024-02-14",
+      "path": "Journal/Daily/2024-02-14.md"
+    },
+    {
+      "basename": "2024-02-13",
+      "path": "Journal/Daily/2024-02-13.md"
+    },
+    {
+      "basename": "2024-02-12",
+      "path": "Journal/Daily/2024-02-12.md"
+    },
+    {
+<<<<<<< HEAD
+      "basename": "2024-02-06",
+      "path": "Journal/Daily/2024-02-06.md"
+    },
+    {
+      "basename": "2024-02-07",
+      "path": "Journal/Daily/2024-02-07.md"
+    },
+    {
+      "basename": "2024-02-08",
+      "path": "Journal/Daily/2024-02-08.md"
+    },
+    {
+      "basename": "2024-02-09",
+      "path": "Journal/Daily/2024-02-09.md"
     },
     {
       "basename": "_000 Currently Watching",
@@ -204,6 +313,10 @@
       "path": "LIFE/Movies/The Hedgehog (2009).md"
     },
     {
+      "basename": "Standing Up (2013)",
+      "path": "LIFE/movies/Standing Up (2013).md"
+>>>>>>> FETCH_HEAD
+=======
       "basename": "Standing Up (2013)",
       "path": "LIFE/movies/Standing Up (2013).md"
 >>>>>>> FETCH_HEAD

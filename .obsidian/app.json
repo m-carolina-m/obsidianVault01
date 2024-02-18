@@ -2,6 +2,9 @@
   "newFileLocation": "root",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "propertiesInDocument": "source",
-  "showInlineTitle": false
+  "propertiesInDocument": "hidden",
+  "showInlineTitle": false,
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "vimMode": false
 }

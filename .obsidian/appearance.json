@@ -1,5 +1,12 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Cybertron"
+  "cssTheme": "Cybertron",
+  "enabledCssSnippets": [
+    "MCL Multi Columns",
+    "MCL Wide Views",
+    "cards",
+    "MCL Gallery Cards"
+  ],
+  "nativeMenus": false
 }

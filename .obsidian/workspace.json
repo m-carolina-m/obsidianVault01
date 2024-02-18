@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "d3ee1bc49d4cf4df",
+        "id": "1d1cd85d6fe36ea4",
         "type": "tabs",
         "children": [
           {
-            "id": "a0771bf7dac5eb68",
+            "id": "9591d37965fac032",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LIFE/Movies/_000 ALL MOVIES CARDS.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "156e14d5e051e33f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp Home Page.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0794f930ebc60036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testing snippets multicolumn.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIFE/Movies/_000 To Watch Movie List.md",
+                "file": "Temp Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIFE/Movies/_000 To Watch Movie List.md",
+                "file": "Temp Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIFE/Movies/_000 To Watch Movie List.md"
+                "file": "Temp Home Page.md"
               }
             }
           }
@@ -162,8 +191,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "52b852ca591b16ed",
+  "active": "0a3f4c0783417a18",
   "lastOpenFiles": [
-    "Journal/Daily/2024/02-February/2024-02-15-Thursday.md"
+    "Journal/Daily/2024/02-February/2024-02-22-Thursday.md",
+    "Journal/Daily/2024/02-February/2024-02-21-Wednesday.md",
+    "Journal/Daily/2024/02-February/2024-02-16-Friday.md",
+    "Journal/Daily/2024/02-February/2024-02-15-Thursday.md",
+    "Journal/Daily/2024/02-February/2024-02-14-Wednesday.md",
+    "Journal/Daily/2024/02-February/2024-02-13-Tuesday.md",
+    "IphoneNotes/Note - 2011-11-12 13 05 30 - Judaísmo-tikkun oLam.md",
+    "Temp Home Page.md",
+    "LIFE/Movies/_000 ALL MOVIES CARDS.md",
+    "testing snippet image gallery.md",
+    "testing snippets Icons.md",
+    "testing snippets multicolumns inside multicolumns.md",
+    "testing snippets multicolumn 1.md",
+    "testing snippets multicolumn.md",
+    "Images/Pasted image 20240123154607.png",
+    "Images/Pasted image 20240123154331.png",
+    "LIFE/Movies/_000 2024 Watched Movies.md",
+    "LIFE/Movies/image galery.md",
+    "LIFE/Movies/_000 2023 Watched Movies.md",
+    "LIFE/Movies/A Christmas Story (1983).md",
+    "LIFE/Movies/One Day (2011).md",
+    "LIFE/Movies/_000 To Watch Movie List.md",
+    "LIFE/Movies/_000 All Times Favorite Movies.md",
+    "LIFE/Movies/Le hérisson (1998).md"
   ]
 }

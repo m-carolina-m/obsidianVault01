@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "93af72247490e3d0",
+        "id": "126d11ac45884638",
         "type": "tabs",
         "children": [
           {
-            "id": "bd0c65ee7a9ac9a0",
+            "id": "3f01cce1570b939c",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "f47ace7a2b0e195f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIFE/Series/The War Next-door (2021).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LIFE/Series/The War Next-door (2021).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LIFE/Series/The War Next-door (2021).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -130,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "LIFE/Series/The War Next-door (2021).md"
-          }
+          "state": {}
         }
       },
       {
@@ -159,10 +142,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f47ace7a2b0e195f",
+  "active": "3f01cce1570b939c",
   "lastOpenFiles": [
-    "Untitled.md",
+    "LIFE/Series/_000 All Times Favorite Series.md",
+    "LIFE/Series/_000 Currently Watching.md",
+    "LIFE/Series/Daughter from Another Mother (2021-2022).md",
     "LIFE/Series/The War Next-door (2021).md",
+    "LIFE/Series/30 Coins (2020-).md",
+    "Untitled.md",
     "2024-02-05-Monday.md",
     "LIFE/Movies/_000 To Watch Movie List.md",
     "LIFE/Movies/Black Bread (2010).md",

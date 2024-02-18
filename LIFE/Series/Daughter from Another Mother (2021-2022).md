@@ -13,12 +13,12 @@ episodes: 10
 language: Spanish
 aka: Madre Solo Hay Dos
 genre: Comedy, Drama
-mycurrentepisode: 03x05
-lastwatched: 2024-02-08
+mycurrentepisode: 03x10
+lastwatched: 2024-02-13
 myrating: 9
 location: Netflix
 type: serie
-status: in progress
+status: completed
 ---
 
 plot:: After finding out their babies were switched at birth, two women develop a plan to adjust to their new lives creating a single and very peculiar family.

@@ -8,8 +8,8 @@ runtime: 1 min
 cast: Elyfer Torres, Alberto Lopez El Real, Mark Tacher 
 director: N/A 
 country: Mexico
-seasons: 1
-episodes: 
+seasons: 02
+episodes: 08
 language: Spanish
 aka: Guerra de Vecinos
 genre: Comedy 
@@ -18,7 +18,7 @@ lastwatched: 18-01-2024
 myrating: 0
 location: Netflix
 type: serie
-status: to watch
+status: in progress
 ---
 
 plot:: After an incident in which Leonor, poor in cash but rich in love, is able to walk away with the tickets for the raffle of a house, her and her family’s life will turn around when she unexpectedly wins.

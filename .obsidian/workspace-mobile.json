@@ -115,7 +115,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Untitled.md"
+          }
         }
       },
       {
@@ -142,8 +144,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bd0c65ee7a9ac9a0",
+  "active": "8a2e98af216887e5",
   "lastOpenFiles": [
+    "2024-02-05-Monday.md",
     "LIFE/Movies/_000 To Watch Movie List.md",
     "LIFE/Movies/Black Bread (2010).md",
     "LIFE/movies",

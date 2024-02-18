@@ -5,6 +5,34 @@
       "path": "Temp Home Page.md"
     },
     {
+      "basename": "_000 Home",
+      "path": "_000 Home.md"
+    },
+    {
+      "basename": "_000 Currently Watching",
+      "path": "LIFE/Series/_000 Currently Watching.md"
+    },
+    {
+      "basename": "_000 To Watch Series",
+      "path": "LIFE/Series/_000 To Watch Series.md"
+    },
+    {
+      "basename": "_000 ALL MOVIES CARDS",
+      "path": "LIFE/Movies/_000 ALL MOVIES CARDS.md"
+    },
+    {
+      "basename": "Light & Magic (2022)",
+      "path": "LIFE/Series/Light & Magic (2022).md"
+    },
+    {
+      "basename": "30 Coins (2020-)",
+      "path": "LIFE/Series/30 Coins (2020-).md"
+    },
+    {
+      "basename": "testing snippets multicolumn",
+      "path": "testing snippets multicolumn.md"
+    },
+    {
       "basename": "2024-02-22-Thursday",
       "path": "Journal/Daily/2024/02-February/2024-02-22-Thursday.md"
     },
@@ -33,10 +61,6 @@
       "path": "IphoneNotes/Note - 2011-11-12 13 05 30 - Judaísmo-tikkun oLam.md"
     },
     {
-      "basename": "_000 ALL MOVIES CARDS",
-      "path": "LIFE/Movies/_000 ALL MOVIES CARDS.md"
-    },
-    {
       "basename": "testing snippet image gallery",
       "path": "testing snippet image gallery.md"
     },
@@ -51,10 +75,6 @@
     {
       "basename": "testing snippets multicolumn 1",
       "path": "testing snippets multicolumn 1.md"
-    },
-    {
-      "basename": "testing snippets multicolumn",
-      "path": "testing snippets multicolumn.md"
     },
     {
       "basename": "Pasted image 20240123154607",
@@ -101,20 +121,12 @@
       "path": "LIFE/Series/_000 All Times Favorite Series.md"
     },
     {
-      "basename": "_000 Currently Watching",
-      "path": "LIFE/Series/_000 Currently Watching.md"
-    },
-    {
       "basename": "Daughter from Another Mother (2021-2022)",
       "path": "LIFE/Series/Daughter from Another Mother (2021-2022).md"
     },
     {
       "basename": "The War Next-door (2021)",
       "path": "LIFE/Series/The War Next-door (2021).md"
-    },
-    {
-      "basename": "30 Coins (2020-)",
-      "path": "LIFE/Series/30 Coins (2020-).md"
     }
   ],
   "omittedPaths": [],

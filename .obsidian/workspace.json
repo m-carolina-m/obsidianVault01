@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1d1cd85d6fe36ea4",
+        "id": "30f1dd363e6dd2a5",
         "type": "tabs",
         "children": [
           {
-            "id": "9591d37965fac032",
+            "id": "77b74af504ac2fbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIFE/Movies/_000 ALL MOVIES CARDS.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "156e14d5e051e33f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp Home Page.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0794f930ebc60036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing snippets multicolumn.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Temp Home Page.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,8 +158,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0a3f4c0783417a18",
+  "active": "77b74af504ac2fbc",
   "lastOpenFiles": [
+    "Temp Home Page.md",
+    "_000 Home.md",
+    "LIFE/Series/_000 Currently Watching.md",
+    "LIFE/Series/_000 To Watch Series.md",
+    "LIFE/Movies/_000 ALL MOVIES CARDS.md",
+    "LIFE/Series/Light & Magic (2022).md",
+    "LIFE/Series/30 Coins (2020-).md",
+    "testing snippets multicolumn.md",
     "Journal/Daily/2024/02-February/2024-02-22-Thursday.md",
     "Journal/Daily/2024/02-February/2024-02-21-Wednesday.md",
     "Journal/Daily/2024/02-February/2024-02-16-Friday.md",
@@ -200,13 +175,10 @@
     "Journal/Daily/2024/02-February/2024-02-14-Wednesday.md",
     "Journal/Daily/2024/02-February/2024-02-13-Tuesday.md",
     "IphoneNotes/Note - 2011-11-12 13 05 30 - Judaísmo-tikkun oLam.md",
-    "Temp Home Page.md",
-    "LIFE/Movies/_000 ALL MOVIES CARDS.md",
     "testing snippet image gallery.md",
     "testing snippets Icons.md",
     "testing snippets multicolumns inside multicolumns.md",
     "testing snippets multicolumn 1.md",
-    "testing snippets multicolumn.md",
     "Images/Pasted image 20240123154607.png",
     "Images/Pasted image 20240123154331.png",
     "LIFE/Movies/_000 2024 Watched Movies.md",
@@ -215,7 +187,6 @@
     "LIFE/Movies/A Christmas Story (1983).md",
     "LIFE/Movies/One Day (2011).md",
     "LIFE/Movies/_000 To Watch Movie List.md",
-    "LIFE/Movies/_000 All Times Favorite Movies.md",
-    "LIFE/Movies/Le hérisson (1998).md"
+    "LIFE/Movies/_000 All Times Favorite Movies.md"
   ]
 }

@@ -1,6 +1,12 @@
 ---
-cssClass: wide-page
+cssClass: wide-page, obsidian-banner
+
 ---
+
+![[Pasted image 20240123155443.png|banner|lower]]
+
+# HOME
+
 `$=moment(dv.current().updated).format("YYYY-MM-DD")`
 >[!multi-column]  
 >  
@@ -28,6 +34,7 @@ cssClass: wide-page
 >> [[Vim mode shortcuts]]  
 
 
+
 ```dataviewjs  
 let nofold = '!"04 Templates'  
 let allFile = dv.pages().file  
@@ -35,15 +42,30 @@ let totalTask = allFile.tasks.length
 let completedTask = allFile.tasks.where(t => !t.completed).length  
 let tasks = "You have completed " + completedTask + " tasks of " + totalTask + " !"  
 let tasksp = Math.round((completedTask / totalTask) * 100)  
-let pb = "![progress]([https://progress-bar.dev/](https://progress-bar.dev/)" + tasksp + "/)"  
 dv.paragraph(  
-tasks + "<br>" + pb  
+tasks + "<br>" + "<progress max=100 value=" + tasksp + "> </progress> " + tasksp + "% </p>"
 )  
 ```
 
 ```dataview  
 table WITHOUT ID (link(file.path, alias)) as Project,  
-"![progress]([https://progress-bar.dev/](https://progress-bar.dev/)" + round((tasksCompleted / projectTasks) * 100) + "/)" AS Progress, status AS Status   
+"<progress max=100 value=" + round((tasksCompleted / projectTasks) * 100) +"> </progress> " + round((tasksCompleted / projectTasks) * 100) + "% </p>" AS Progress, status AS Status   
 from #project/active  
 SORT file.path ASCENDING  
+```
+
+```dataviewjs  
+const Title = dv.current().file.name  
+const kbfile = Title + "-Kanban"  
+const Tasks = dv.page(kbfile).file.tasks  
+let NumberOfTasks = Tasks.length || 1  
+let CompletedTasks = Tasks.where(t => t.completed)  
+dv.span("<progress max=100 value=" + parseInt((CompletedTasks.length / NumberOfTasks) * 100) +"> </progress> " + parseInt((CompletedTasks.length / NumberOfTasks) * 100) + "% </p>")  
+```
+
+```dataview  
+table file.ctime as Created, file.mtime as "Last modified"  
+where file.name != this.file.name  
+sort file.mtime DESC  
+limit 10  
 ```

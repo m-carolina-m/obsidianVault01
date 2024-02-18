@@ -4,7 +4,7 @@
   "promptDelete": false,
   "propertiesInDocument": "hidden",
   "showInlineTitle": false,
-  "livePreview": false,
+  "livePreview": true,
   "defaultViewMode": "source",
   "vimMode": false
 }

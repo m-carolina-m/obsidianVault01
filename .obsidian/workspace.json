@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "30f1dd363e6dd2a5",
+        "id": "e59ce79383ffd314",
         "type": "tabs",
         "children": [
           {
-            "id": "77b74af504ac2fbc",
+            "id": "a0bcb207707d4db6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Temp Home Page.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Temp Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Temp Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Temp Home Page.md"
+              }
             }
           }
         ]
@@ -153,14 +161,17 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templates:Insert template": false
     }
   },
-  "active": "77b74af504ac2fbc",
+  "active": "a0bcb207707d4db6",
   "lastOpenFiles": [
+    "2024-02-18.md",
     "Temp Home Page.md",
+    "SETTINGS/Templates/Daily Notes Template.md",
+    "2024-02-18][Today.md",
     "_000 Home.md",
     "LIFE/Series/_000 Currently Watching.md",
     "LIFE/Series/_000 To Watch Series.md",
@@ -184,9 +195,6 @@
     "LIFE/Movies/_000 2024 Watched Movies.md",
     "LIFE/Movies/image galery.md",
     "LIFE/Movies/_000 2023 Watched Movies.md",
-    "LIFE/Movies/A Christmas Story (1983).md",
-    "LIFE/Movies/One Day (2011).md",
-    "LIFE/Movies/_000 To Watch Movie List.md",
-    "LIFE/Movies/_000 All Times Favorite Movies.md"
+    "LIFE/Movies/A Christmas Story (1983).md"
   ]
 }

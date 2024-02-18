@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52c6b4cae19599cc",
+        "id": "bd56720a8a194f53",
         "type": "tabs",
         "children": [
           {
-            "id": "51b8b2a864109de5",
+            "id": "c10dee8f21ae0701",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,9 +142,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "51b8b2a864109de5",
+  "active": "c10dee8f21ae0701",
   "lastOpenFiles": [
     "LIFE/Movies/_000 To Watch Movie List.md",
+    "LIFE/Movies/Victoria  Abdul (2017).md",
     "LIFE/Movies/One Day (2011).md",
     "LIFE/Series/_000 All Times Favorite Series.md",
     "LIFE/Series/_000 Currently Watching.md",

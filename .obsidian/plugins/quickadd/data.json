@@ -45,7 +45,9 @@
             },
             "folder": {
               "enabled": true,
-              "folders": [],
+              "folders": [
+                "LIFE/Movies"
+              ],
               "chooseWhenCreatingNote": false,
               "createInSameFolderAsActiveFile": false,
               "chooseFromSubfolders": false

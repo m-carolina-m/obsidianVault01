@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "f47ace7a2b0e195f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LIFE/Series/The War Next-door (2021).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "LIFE/Series/The War Next-door (2021).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "LIFE/Series/The War Next-door (2021).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled.md"
+            "file": "LIFE/Series/The War Next-door (2021).md"
           }
         }
       },
@@ -144,8 +159,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8a2e98af216887e5",
+  "active": "f47ace7a2b0e195f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "LIFE/Series/The War Next-door (2021).md",
     "2024-02-05-Monday.md",
     "LIFE/Movies/_000 To Watch Movie List.md",
     "LIFE/Movies/Black Bread (2010).md",

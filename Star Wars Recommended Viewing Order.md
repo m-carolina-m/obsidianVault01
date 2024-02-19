@@ -53,7 +53,7 @@ Year 5 BBY
 	Year in the Star Wars universe: 9 ABY
 		The third season of the Mandalorian picks up with its two stars, Din and Grogu, after their cameo appearances in The Book of Boba Fett 
 25. 2023 Ahsoka
-	Year in the Star Wars universe: 9 ABY
+	Year in the Star Wars universe: 11 ABY
 		Ahsoka stars Rosario Dawson as the titular Jedi, who's on a mission to find her lost friend Ezra Bridger
 26. 2018-2024 Resistance
 27. 2016 Lego Star Wars: The Resistance Rises

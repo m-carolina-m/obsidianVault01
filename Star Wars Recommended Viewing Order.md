@@ -56,8 +56,9 @@ Year 5 BBY
 	Year in the Star Wars universe: 11 ABY
 		Ahsoka stars Rosario Dawson as the titular Jedi, who's on a mission to find her lost friend Ezra Bridger
 26. 2018-2024 Resistance
-27. 2016 Lego Star Wars: The Resistance Rises
-28. 2015 Episode VII: The Force Awakens
+Year 34-35 ABY
+28. 2016 Lego Star Wars: The Resistance Rises
+29. 2015 Episode VII: The Force Awakens
 	Year in the Star Wars universe: 34 ABY
 		Decades after the Rebellion defeated the Empire, a new threat emerges that threatens democracy throughout the Galaxy.
 29. 2017 Episode VIII: The Last Jedi

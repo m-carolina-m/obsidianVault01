@@ -27,7 +27,8 @@
 
 13. 2008-2014 The Clone Wars Season 7
 14. 2021-2024 The Bad Batch
-15. 2022 Obi-Wan Kenobi
+Year 19 BBY
+16. 2022 Obi-Wan Kenobi
 	Year in the Star Wars Universe: 9 BBY
 		Obi-Wan Kenobi is drawn out of hiding to protect a young Princess Leia who's been kidnapped
 16. 2014-2018 Rebels

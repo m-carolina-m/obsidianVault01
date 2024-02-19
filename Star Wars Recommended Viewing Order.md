@@ -24,45 +24,44 @@
 12. 2005 Episode III: Revenge of the Sith
 	Year in the Star Wars Universe: 19 BBY
 		The final act of the prequel trilogy sees Anakin and Obi-Wan face off in one of the best lightsaber duels in Star Wars history
-
-13. 2008-2014 The Clone Wars Season 7
-14. 2021-2024 The Bad Batch
-15. 2022 Obi-Wan Kenobi
+13. 2022 Tales of Jedi
+14. 2008-2014 The Clone Wars Season 7
+15. 2021-2024 The Bad Batch
+16. 2022 Obi-Wan Kenobi
 	Year in the Star Wars Universe: 9 BBY
 		Obi-Wan Kenobi is drawn out of hiding to protect a young Princess Leia who's been kidnapped
-16. 2014-2018 Rebels
-17. 2018 Solo
+17. 2014-2018 Rebels
+18. 2018 Solo
 	Year in the Star Wars Universe: 10 BBY
 		This film shows how Solo befriended Chewbaca and became one of the best smugglers in the galaxy
-18. 1983 Episode VI: Return of the Jedi
+19. 1983 Episode VI: Return of the Jedi
 	Year in the Star Wars Universe: 4 ABY
 		Luke must rescue Han Solo before setting out for a final confrontation with Darth Vader and the Empire
-
-19. 2016-2017 Lego Star Wars: The Freemaker Adventures 
-20. 2015 Lego Star Wars: Droid Tales
-21. 1985-1986 Ewoks
-22. 2019-2020 The Madalorian Season 1 & 2
+20. 2016-2017 Lego Star Wars: The Freemaker Adventures 
+21. 2015 Lego Star Wars: Droid Tales
+22. 1985-1986 Ewoks
+23. 2019-2020 The Madalorian Season 1 & 2
 	Year in the Star Wars universe: 9 ABY
 		A Mandalorian bounty hunter comes across a young child who's a very gifted force user
-23. 2021 The Book of Boba Fett
+24. 2021 The Book of Boba Fett
 	Year in the Star Wars universe: 9 ABY
 		After helping the Mandalorian, famous bounty hunter Boba Fett gets his own series centered around him taking over Jabba the Hutt's criminal empire
-24. 2021 The Mandalorian Season 3
+25. 2021 The Mandalorian Season 3
 	Year in the Star Wars universe: 9 ABY
 		The third season of the Mandalorian picks up with its two stars, Din and Grogu, after their cameo appearances in The Book of Boba Fett 
-25. 2023 Ahsoka
+26. 2023 Ahsoka
 	Year in the Star Wars universe: 9 ABY
 		Ahsoka stars Rosario Dawson as the titular Jedi, who's on a mission to find her lost friend Ezra Bridger
-26. 2018-2024 Resistance
-27. 2016 Lego Star Wars: The Resistance Rises
-28. 2015 Episode VII: The Force Awakens
+27. 2018-2024 Resistance
+28. 2016 Lego Star Wars: The Resistance Rises
+29. 2015 Episode VII: The Force Awakens
 	Year in the Star Wars universe: 34 ABY
 		Decades after the Rebellion defeated the Empire, a new threat emerges that threatens democracy throughout the Galaxy.
-29. 2017 Episode VIII: The Last Jedi
+30. 2017 Episode VIII: The Last Jedi
 	Year in the Star Wars universe: 34 ABY
 		Rey must convince Luke Skywalker to join the fight as The First Order attempts to wipe out the few resistance forces still opposing them
-30. 2019 Episode IX: The rise of Skywalker
+31. 2019 Episode IX: The rise of Skywalker
 	Year in the Star Wars universe: 35 ABY
 		The conclusion of the Skywalker Saga sees Rey and her allies travel to the planet Exegol where they must face-off against Emperor Palpatine
-	
-31. 2017-2024 Forces of Destiny 
+32. 2017-2024 Forces of Destiny 
+33. 2021 Visions

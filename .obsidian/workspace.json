@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "174edfc06dce5bec",
+        "id": "36414863168c4ea0",
         "type": "tabs",
         "children": [
           {
-            "id": "cb172530cfd3e95a",
+            "id": "e50542936ea9d24e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Star Wars Recommended Viewing Order.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Star Wars Recommended Viewing Order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Star Wars Recommended Viewing Order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Star Wars Recommended Viewing Order.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,7 +159,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb172530cfd3e95a",
+  "active": "e50542936ea9d24e",
   "lastOpenFiles": [
     "Star Wars Recommended Viewing Order.md",
     "Temp Home Page.md",

@@ -32,7 +32,8 @@ Year 19 BBY
 	Year in the Star Wars Universe: 9 BBY
 		Obi-Wan Kenobi is drawn out of hiding to protect a young Princess Leia who's been kidnapped
 16. 2014-2018 Rebels
-17. 2018 Solo
+Year 5 BBY
+18. 2018 Solo
 	Year in the Star Wars Universe: 10 BBY
 		This film shows how Solo befriended Chewbaca and became one of the best smugglers in the galaxy
 18. 1983 Episode VI: Return of the Jedi

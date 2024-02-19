@@ -7,10 +7,13 @@ cssClass: wide-page, obsidian-banner
 
 # HOME
 
-`$=moment(dv.current().updated).format("YYYY-MM-DD")`
+moment().
+
 >[!multi-column]  
 >  
->> ## 🗓️Agenda  
+>> ## 🗓️Agenda 
+>> [[moment().format('YYYY-MM-DD')]]  
+>> [[<% tp.date.now(/JOUNAL/Daily/YYYY/MM-MMMM/YYYY-MM-DD-dddd) %>|Today]]
 >> `$= '[['+moment().format("YYYY-MM-DD")+'|Today]]'`  
 >> `$= '[['+moment().format("YYYY-[W]ww")+'|Week]]'`  
 >> `$= '[['+moment().format("YYYY - MM-MMM")+'|Month]]'`  

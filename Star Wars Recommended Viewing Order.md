@@ -64,5 +64,4 @@
 30. 2019 Episode IX: The rise of Skywalker
 	Year in the Star Wars universe: 35 ABY
 		The conclusion of the Skywalker Saga sees Rey and her allies travel to the planet Exegol where they must face-off against Emperor Palpatine
-	
 31. 2017-2024 Forces of Destiny 

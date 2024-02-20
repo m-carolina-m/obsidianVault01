@@ -28,6 +28,7 @@
 13. 2008-2014 The Clone Wars Season 7
 14. 2021-2024 The Bad Batch
 <<<<<<< HEAD
+<<<<<<< HEAD
 Year 19 BBY
 16. 2022 Obi-Wan Kenobi
 	Year in the Star Wars Universe: 9 BBY
@@ -36,11 +37,16 @@ Year 19 BBY
 Year 5 BBY
 18. 2018 Solo
 =======
+=======
+>>>>>>> FETCH_HEAD
 15. 2022 Obi-Wan Kenobi
 	Year in the Star Wars Universe: 9 BBY
 		Obi-Wan Kenobi is drawn out of hiding to protect a young Princess Leia who's been kidnapped
 16. 2014-2018 Rebels
 17. 2018 Solo
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
 	Year in the Star Wars Universe: 10 BBY
 		This film shows how Solo befriended Chewbaca and became one of the best smugglers in the galaxy
@@ -62,6 +68,7 @@ Year 5 BBY
 		The third season of the Mandalorian picks up with its two stars, Din and Grogu, after their cameo appearances in The Book of Boba Fett 
 25. 2023 Ahsoka
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Year in the Star Wars universe: 11 ABY
 		Ahsoka stars Rosario Dawson as the titular Jedi, who's on a mission to find her lost friend Ezra Bridger
 26. 2018-2024 Resistance
@@ -69,11 +76,16 @@ Year 34-35 ABY
 28. 2016 Lego Star Wars: The Resistance Rises
 29. 2015 Episode VII: The Force Awakens
 =======
+=======
+>>>>>>> FETCH_HEAD
 	Year in the Star Wars universe: 9 ABY
 		Ahsoka stars Rosario Dawson as the titular Jedi, who's on a mission to find her lost friend Ezra Bridger
 26. 2018-2024 Resistance
 27. 2016 Lego Star Wars: The Resistance Rises
 28. 2015 Episode VII: The Force Awakens
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
 >>>>>>> FETCH_HEAD
 	Year in the Star Wars universe: 34 ABY
 		Decades after the Rebellion defeated the Empire, a new threat emerges that threatens democracy throughout the Galaxy.
@@ -84,9 +96,14 @@ Year 34-35 ABY
 	Year in the Star Wars universe: 35 ABY
 		The conclusion of the Skywalker Saga sees Rey and her allies travel to the planet Exegol where they must face-off against Emperor Palpatine
 <<<<<<< HEAD
+<<<<<<< HEAD
 31. New Jedi Order 
 Year 50 ABY
 32. 2017-2024 Forces of Destiny 
+=======
+	
+31. 2017-2024 Forces of Destiny 
+>>>>>>> FETCH_HEAD
 =======
 	
 31. 2017-2024 Forces of Destiny 

@@ -9,7 +9,8 @@
 		Rogue One is a direct prequel to A New Hope showing how the Rebel Alliance was able to obtain the Death Star plans.
 4. 1985-1986 Droids
 5. 2012 Lego Star Wars: The Empire Strikes Out
-6. 1980 Episode V: The Empire Strikes Back
+	Year 0 BBY
+1. 1980 Episode V: The Empire Strikes Back
 	Year in the Star Wars Universe: 3 ABY
 		Three years after destroying the Death Star Luke, Han, and Leia are hiding at a Rebel Alliance base on the frozen planet Hoth
 7. 1999 Episode I: The Phantom Menace
@@ -19,9 +20,10 @@
 	Year in the Star Wars Universe: 22 BBY
 		Anakin Skywalker tries to prevent the assassination of Padmé Amidala while Obi-Wan Kenobi uncovers a plot to create a massive army
 9. 2013-2014 Lego Star Wars: The Yoda Chronicles
-10. 2011 Lego Star Wars: The Padawan Menace
-11. 2008-2014 The Clone Wars Season 1-6
-12. 2005 Episode III: Revenge of the Sith
+Year  BBY
+11. 2011 Lego Star Wars: The Padawan Menace
+12. 2008-2014 The Clone Wars Season 1-6
+13. 2005 Episode III: Revenge of the Sith
 	Year in the Star Wars Universe: 19 BBY
 		The final act of the prequel trilogy sees Anakin and Obi-Wan face off in one of the best lightsaber duels in Star Wars history
 13. 2022 Tales of Jedi

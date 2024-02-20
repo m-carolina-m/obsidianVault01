@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d0c13941c020e82",
+        "id": "4796c76bf6d22ef8",
         "type": "tabs",
         "children": [
           {
-            "id": "3d82e5d2dc146153",
+            "id": "b0424b698ed2a4a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Star Wars Recommended Viewing Order.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +91,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Star Wars Recommended Viewing Order.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +107,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Star Wars Recommended Viewing Order.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,9 +117,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Star Wars Recommended Viewing Order.md"
-          }
+          "state": {}
         }
       },
       {
@@ -152,8 +144,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8a2e98af216887e5",
+  "active": "b0424b698ed2a4a1",
   "lastOpenFiles": [
+    "Journal/Daily/2024/02-February/2024-02-20-Tuesday.md",
+    "Star Wars Recommended Viewing Order.md",
+    "Timeline-for-Star-Wars-Canon-Source-https-wwwgizmodocomau-To-maintain-canon.ppm",
     "Temp Home Page.md",
     "testing snippet image gallery.md",
     "testing snippets multicolumn 1.md",
@@ -179,8 +174,6 @@
     "LIFE/Movies/Le hérisson (1998).md",
     "LIFE/Movies/The Road Dance (2021).md",
     "SETTINGS/Templates/New Movie Template.md",
-    "Journal/Daily/2024-02-01.md",
-    "2024-01-31.md",
     "helper.py"
   ]
 }

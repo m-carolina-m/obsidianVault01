@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bd56720a8a194f53",
+        "id": "4d0c13941c020e82",
         "type": "tabs",
         "children": [
           {
-            "id": "c10dee8f21ae0701",
+            "id": "3d82e5d2dc146153",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Star Wars Recommended Viewing Order.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -27,11 +31,13 @@
       {
         "id": "8a2e98af216887e5",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "pinned": true
         }
       },
       {
@@ -89,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Star Wars Recommended Viewing Order.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Star Wars Recommended Viewing Order.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +123,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Star Wars Recommended Viewing Order.md"
+          }
         }
       },
       {
@@ -142,8 +152,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c10dee8f21ae0701",
+  "active": "8a2e98af216887e5",
   "lastOpenFiles": [
+    "Temp Home Page.md",
+    "testing snippet image gallery.md",
+    "testing snippets multicolumn 1.md",
+    "LIFE/Series/Light & Magic (2022).md",
+    "LIFE/Movies/_000 ALL MOVIES CARDS.md",
+    "testing snippets Icons.md",
+    "testing snippets multicolumns inside multicolumns.md",
+    "Journal/Daily/2024/02-February/2024-02-22-Thursday.md",
+    "testing snippets multicolumn.md",
     "LIFE/Movies/_000 To Watch Movie List.md",
     "LIFE/Movies/Victoria  Abdul (2017).md",
     "LIFE/Movies/One Day (2011).md",
@@ -162,14 +181,6 @@
     "SETTINGS/Templates/New Movie Template.md",
     "Journal/Daily/2024-02-01.md",
     "2024-01-31.md",
-    "2024-02.md",
-    "Journal/Daily/2024-02-02.md",
-    "Archivo renombrado.md",
-    "Journal/Daily/2024-01-05.md",
-    "Prueba 4.md",
-    "helper.py",
-    "Prueba 3.md",
-    "Prueba2.md",
-    "Prueba.md"
+    "helper.py"
   ]
 }

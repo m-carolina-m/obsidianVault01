@@ -3,6 +3,11 @@
     {
       "basename": "Star Wars Recommended Viewing Order",
       "path": "Star Wars Recommended Viewing Order.md"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> f513fb06922c50b2c501d28a6ae48c6397974c52
     },
     {
       "basename": "Temp Home Page",
@@ -139,6 +144,7 @@
     {
       "basename": "The War Next-door (2021)",
       "path": "LIFE/Series/The War Next-door (2021).md"
+>>>>>>> FETCH_HEAD
     }
   ],
   "omittedPaths": [],

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f7e903b2d989271b",
+        "id": "152d4fb7f27268b1",
         "type": "tabs",
         "children": [
           {
-            "id": "1beffcabd9bf20bf",
+            "id": "cf51dae42c54057a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LIFE/Movies/_000 2024 Watched Movies.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LIFE/Movies/_000 2024 Watched Movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LIFE/Movies/_000 2024 Watched Movies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LIFE/Movies/_000 2024 Watched Movies.md"
+              }
             }
           }
         ]
@@ -158,8 +166,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1beffcabd9bf20bf",
+  "active": "cf51dae42c54057a",
   "lastOpenFiles": [
+    "LIFE/Movies/Society of the Snow (2023).md",
+    "LIFE/Movies/_000 2024 Watched Movies.md",
+    "LIFE/Movies/Wonka (2023).md",
+    "LIFE/Series/_000 Currently Watching.md",
+    "LIFE/Series/Star Wars Young Jedi Adventures Shorts (2023).md",
+    "Temp Home Page.md",
+    "LIFE/Series/Young Jedi Adventures (2023).md",
+    "LIFE/Series/_000 All Times Favorite Series.md",
+    "LIFE/Series/Light & Magic (2022).md",
+    "WORK/Farmacias/SENIAT.md",
     "Star Wars Recommended Viewing Order.md",
     "LIFE/Movies/Star Wars Episode II - Attack of the Clones (2002).md",
     "LIFE/Movies/Star Wars Episode IV - A New Hope (1977).md",
@@ -167,7 +185,6 @@
     "LIFE/Movies/Andor (2022).md",
     "LIFE/Movies/_000 To Watch Movie List.md",
     "LIFE/Movies/_000 ALL MOVIES CARDS.md",
-    "Untitled.md",
-    "LIFE/Series/Star Wars Young Jedi Adventures Shorts (2023).md"
+    "Untitled.md"
   ]
 }

@@ -13,12 +13,12 @@ episodes: 25
 language: English
 aka: 
 genre: Animation, Action, Sci-Fi 
-mycurrentepisode: 
-lastwatched: 
+mycurrentepisode: 01x01
+lastwatched: 2024-02-21
 myrating: 0
 location: Disney+
 type: serie
-status: to watch
+status: in progress
 collection: Star Wars
 ---
 

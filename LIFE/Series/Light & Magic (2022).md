@@ -13,12 +13,12 @@ episodes: 06
 language: English
 aka: 
 genre: Documentary 
-mycurrentepisode: 01x01
+mycurrentepisode: 01x06
 lastwatched: 2024-02-18
-myrating: 0
+myrating: 8.5
 location: Disney +
 type: serie
-status: in progress
+status: completed
 ---
 
 plot:: Showcasing the people of Industrial Light and Magic, the special effects division of Lucasfilm, this series takes us back in time as they create the effects for some of the biggest and most successful films of the last 45 years.

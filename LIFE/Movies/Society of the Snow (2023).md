@@ -12,9 +12,9 @@ language: Spanish
 aka: La Sociedad De La Nieve
 genre: Adventure, Drama, History 
 dvd: N/A
-watched: 
-myrating: 0
-status: to watch
+watched: 2024-02-18
+myrating: 7.8
+status: completed
 type: movie
 location: Netflix
 ---

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4796c76bf6d22ef8",
+        "id": "61628b56f28f109e",
         "type": "tabs",
         "children": [
           {
-            "id": "b0424b698ed2a4a1",
+            "id": "dbc9ce99232f73e2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -144,8 +144,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b0424b698ed2a4a1",
+  "active": "dbc9ce99232f73e2",
   "lastOpenFiles": [
+    "Inversor.md",
     "Journal/Daily/2024/02-February/2024-02-20-Tuesday.md",
     "Star Wars Recommended Viewing Order.md",
     "Timeline-for-Star-Wars-Canon-Source-https-wwwgizmodocomau-To-maintain-canon.ppm",
@@ -173,7 +174,6 @@
     "LIFE/Movies/A Very Long Engagement (2004).md",
     "LIFE/Movies/Le hérisson (1998).md",
     "LIFE/Movies/The Road Dance (2021).md",
-    "SETTINGS/Templates/New Movie Template.md",
     "helper.py"
   ]
 }

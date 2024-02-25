@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Daily/2024/02-February/2024-02-08-Thursday.md",
-                "mode": "preview",
+                "file": "SETTINGS/Templates/Daily Notes Template.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Daily/2024/02-February/2024-02-08-Thursday.md",
+                "file": "SETTINGS/Templates/Daily Notes Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Daily/2024/02-February/2024-02-08-Thursday.md",
+                "file": "SETTINGS/Templates/Daily Notes Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Daily/2024/02-February/2024-02-08-Thursday.md"
+                "file": "SETTINGS/Templates/Daily Notes Template.md"
               }
             }
           }
@@ -165,7 +165,14 @@
   },
   "active": "5c30836dc853eae0",
   "lastOpenFiles": [
+    "Journal/Daily/2024/02-February/2024-02-22-Thursday.md",
     "SETTINGS/Templates/Daily Notes Template.md",
+    "Journal/Daily/2024/02-February/2024-02-23-Friday.md",
+    "Journal/Daily/2024/02-February/2024-02-24-Saturday.md",
+    "Journal/Daily/2024/02-February/2024-02-25-Sunday.md",
+    "SETTINGS/Templates/Daily Notes Template 1.md",
+    "SETTINGS/Templates/Daily Notes Template 3.md",
+    "SETTINGS/Templates/Daily Notes Template 2.md",
     "Journal/Daily/2024/02-February/2024-02-08-Thursday.md",
     "Journal/Daily/2024/02-February/2024-02-03-Saturday.md",
     "Journal/Daily/2024/02-February/2024-02-02-Friday.md",
@@ -175,9 +182,6 @@
     "Journal/Daily/2024/02-February/2024-02-04-Sunday.md",
     "Journal/Daily/2024/02-February",
     "Journal/Daily/2024/02-February/2024-02-09-Friday.md",
-    "SETTINGS/Templates/Daily Notes Template 2.md",
-    "SETTINGS/Templates/Daily Notes Template 3.md",
-    "SETTINGS/Templates/Daily Notes Template 1.md",
     "Journal/Daily/2024/02-February/2024-02-07-Wednesday.md",
     "JOURNAL/Daily/2024/02-February/2024-02-02-Friday.md",
     "JOURNAL/Daily/2024/01-January/2024-01-31-Wednesday.md",
@@ -186,13 +190,10 @@
     "JOURNAL/Daily/2024/01-January",
     "StarWars/Star Wars Recommended Viewing Order.md",
     "Journal/Daily/2024/02-February/2024-02-26-Monday.md",
-    "Journal/Daily/2024/02-February/2024-02-24-Saturday.md",
-    "Journal/Daily/2024/02-February/2024-02-25-Sunday.md",
     "Journal/Daily/2024/02-February/2024-02-17-Saturday.md",
     "Journal/Daily/2024/02-February/2024-02-16-Friday.md",
     "Journal/Daily/2024/02-February/2024-02-15-Thursday.md",
     "Journal/Daily/2024/02-February/2024-02-14-Wednesday.md",
-    "Journal/Daily/2024/02-February/2024-02-13-Tuesday.md",
     "JOURNAL/Daily/2024/02-February",
     "JOURNAL/Daily/2024",
     "JOURNAL/Daily",

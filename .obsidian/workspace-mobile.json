@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "61628b56f28f109e",
-        "type": "tabs",
+        "id": "9a1d0921aa718243",
+        "type": "split",
         "children": [
           {
-            "id": "dbc9ce99232f73e2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "id": "22bcdaf0139e2f98",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "141e28397e970392",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "7e031c382fc22428",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0418cdbe4c128f01",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Callouts.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -133,8 +158,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -144,8 +167,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dbc9ce99232f73e2",
+  "active": "141e28397e970392",
   "lastOpenFiles": [
+    "Callouts.md",
+    "2024-02-18.md",
     "Inversor.md",
     "Journal/Daily/2024/02-February/2024-02-20-Tuesday.md",
     "Star Wars Recommended Viewing Order.md",
@@ -167,13 +192,11 @@
     "LIFE/Series/Daughter from Another Mother (2021-2022).md",
     "LIFE/Series/The War Next-door (2021).md",
     "LIFE/Series/30 Coins (2020-).md",
-    "Untitled.md",
     "2024-02-05-Monday.md",
     "LIFE/Movies/Black Bread (2010).md",
     "LIFE/movies",
     "LIFE/Movies/A Very Long Engagement (2004).md",
     "LIFE/Movies/Le hérisson (1998).md",
-    "LIFE/Movies/The Road Dance (2021).md",
     "helper.py"
   ]
 }

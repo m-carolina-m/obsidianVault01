@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Callouts",
-      "path": "Callouts.md"
+      "basename": "_000 ALL MOVIES CARDS",
+      "path": "LIFE/Movies/_000 ALL MOVIES CARDS.md"
     },
     {
-      "basename": "2024-02-18",
-      "path": "2024-02-18.md"
+      "basename": "testing snippets multicolumn",
+      "path": "testing snippets multicolumn.md"
     },
     {
       "basename": "Daily Notes Template",
       "path": "SETTINGS/Templates/Daily Notes Template.md"
+    },
+    {
+      "basename": "Callouts",
+      "path": "Callouts.md"
+    },
+    {
+      "basename": "THINGS TO DO",
+      "path": "THINGS TO DO.md"
+    },
+    {
+      "basename": "2024-02-18",
+      "path": "2024-02-18.md"
     },
     {
       "basename": "Daily Notes Template 1",
@@ -107,10 +119,6 @@
     {
       "basename": "_000 To Watch Movie List",
       "path": "LIFE/Movies/_000 To Watch Movie List.md"
-    },
-    {
-      "basename": "_000 ALL MOVIES CARDS",
-      "path": "LIFE/Movies/_000 ALL MOVIES CARDS.md"
     }
   ],
   "omittedPaths": [],

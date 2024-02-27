@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SETTINGS/Templates/Daily Notes Template.md",
+                "file": "LIFE/Movies/_000 ALL MOVIES CARDS.md",
                 "mode": "source",
                 "source": true
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SETTINGS/Templates/Daily Notes Template.md",
+                "file": "LIFE/Movies/_000 ALL MOVIES CARDS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SETTINGS/Templates/Daily Notes Template.md",
+                "file": "LIFE/Movies/_000 ALL MOVIES CARDS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SETTINGS/Templates/Daily Notes Template.md"
+                "file": "LIFE/Movies/_000 ALL MOVIES CARDS.md"
               }
             }
           }
@@ -165,8 +165,11 @@
   },
   "active": "5c30836dc853eae0",
   "lastOpenFiles": [
-    "Journal/Daily/2024/02-February/2024-02-22-Thursday.md",
+    "testing snippets multicolumn.md",
     "SETTINGS/Templates/Daily Notes Template.md",
+    "Callouts.md",
+    "THINGS TO DO.md",
+    "Journal/Daily/2024/02-February/2024-02-22-Thursday.md",
     "Journal/Daily/2024/02-February/2024-02-23-Friday.md",
     "Journal/Daily/2024/02-February/2024-02-24-Saturday.md",
     "Journal/Daily/2024/02-February/2024-02-25-Sunday.md",
@@ -191,9 +194,6 @@
     "StarWars/Star Wars Recommended Viewing Order.md",
     "Journal/Daily/2024/02-February/2024-02-26-Monday.md",
     "Journal/Daily/2024/02-February/2024-02-17-Saturday.md",
-    "Journal/Daily/2024/02-February/2024-02-16-Friday.md",
-    "Journal/Daily/2024/02-February/2024-02-15-Thursday.md",
-    "Journal/Daily/2024/02-February/2024-02-14-Wednesday.md",
     "JOURNAL/Daily/2024/02-February",
     "JOURNAL/Daily/2024",
     "JOURNAL/Daily",

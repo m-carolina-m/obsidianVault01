@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c571758553e73b",
+        "id": "0626d85fde8e1eb2",
         "type": "tabs",
         "children": [
           {
-            "id": "1ddc9cfe52fd1b20",
+            "id": "4960d744b3eb71fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WORK/Farmacias/SENIAT.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f8fdcbd54dd90f14",
@@ -102,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORK/Farmacias/SENIAT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORK/Farmacias/SENIAT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WORK/Farmacias/SENIAT.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,7 +156,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1ddc9cfe52fd1b20",
+  "active": "4960d744b3eb71fb",
   "lastOpenFiles": [
     "WORK/Farmacias/SENIAT.md",
     "LIFE/Movies/_000 ALL MOVIES CARDS.md",

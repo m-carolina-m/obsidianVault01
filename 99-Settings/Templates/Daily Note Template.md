@@ -11,6 +11,28 @@ cssclasses:
 ```calendar-nav
 ```
 
+## First Light 🌞
+#sleep-time:
+#wake-up-time:
+#times-i-woke-up:
+#rested:
+
+**3 things I am grateful for...**
+1.
+2.
+3.
+
+
+**What will I do to make today great?**
+- 
+
+**Daily affirmations**
+-
+
+**Taks for the Day**
+- [ ]
+
+
 ## [[Tasks Dashboard | Tasks]]
 >[!multi-column]
 > >[!Over Due|wide-3 min-0]+ Due before <% today %>
@@ -50,24 +72,17 @@ cssclasses:
 > group by function task.tags.map( (tag) => tag.split('/')[1] ? tag.split('/').slice(0, 2).join('/') : '')
 > ```
 
-## 5 Minute Journal
 
-### 🌞
-**3 things I am grateful for...**
-1. 
-
-**What will I do to make today great?**
-- 
-
-**Daily affirmations**
--
-
-### 🌚
+## Last Light 🌚
 **What were the highlights from your day?**
 1. 
 
 **How could I have made today even better?**
 -
+
+**TASKS for Tomorrow**
+- [ ]
+
 
 
 ## Today's Notes

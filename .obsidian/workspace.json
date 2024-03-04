@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "30823a59a0ebb8b6",
+        "id": "49d6e362599a0875",
         "type": "tabs",
         "children": [
           {
-            "id": "708337de385d61fd",
+            "id": "07be954adf4ef049",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-04.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-04.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,12 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "708337de385d61fd",
+  "active": "07be954adf4ef049",
   "lastOpenFiles": [
-    "01-Journal/01-Daily/2024/03-March/2024-03-03.md",
-    "01-Journal/01-Daily/2024/03-March/2024-03-04.md",
     "99-Settings/Templates/Daily Note Template.md",
     "WORK/Farmacias/SENIAT.md",
+    "01-Journal/01-Daily/2024/03-March/2024-03-04.md",
+    "01-Journal/01-Daily/2024/03-March/2024-03-03.md",
     "LIFE/Movies/_000 2024 Watched Movies.md",
     "LIFE/Movies/_000 All Times Favorite Movies.md",
     "LIFE/Movies/Empire of Dreams The Story of the Star Wars Trilogy (2004).md",

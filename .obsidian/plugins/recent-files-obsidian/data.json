@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Weekly Note Template",
+      "path": "99-Settings/Templates/Weekly Note Template.md"
+    },
+    {
+      "basename": "Yearly Note Template",
+      "path": "99-Settings/Templates/Yearly Note Template.md"
+    },
+    {
+      "basename": "2024-03-04",
+      "path": "01-Journal/01-Daily/2024/03-March/2024-03-04.md"
+    },
+    {
+      "basename": "2024-03-03",
+      "path": "01-Journal/01-Daily/2024/03-March/2024-03-03.md"
+    },
+    {
+      "basename": "2024-03-02",
+      "path": "01-Journal/01-Daily/2024/03-March/2024-03-02.md"
+    },
+    {
+      "basename": "2024-03-01",
+      "path": "01-Journal/01-Daily/2024/03-March/2024-03-01.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "99-Settings/Templates/Daily Note Template.md"
+    },
+    {
       "basename": "2024-03-04",
       "path": "2024-03-04.md"
     },
@@ -9,20 +37,48 @@
       "path": "2024-02-18.md"
     },
     {
+      "basename": "THINGS TO DO",
+      "path": "THINGS TO DO.md"
+    },
+    {
+      "basename": "testing snippets multicolumns inside multicolumns",
+      "path": "testing snippets multicolumns inside multicolumns.md"
+    },
+    {
+      "basename": "testing snippets multicolumn 1",
+      "path": "testing snippets multicolumn 1.md"
+    },
+    {
+      "basename": "testing snippets multicolumn",
+      "path": "testing snippets multicolumn.md"
+    },
+    {
+      "basename": "testing snippets Icons",
+      "path": "testing snippets Icons.md"
+    },
+    {
+      "basename": "testing snippet image gallery",
+      "path": "testing snippet image gallery.md"
+    },
+    {
+      "basename": "Monthly Note Template",
+      "path": "99-Settings/Templates/Monthly Note Template.md"
+    },
+    {
+      "basename": "2024-W09",
+      "path": "01-Journal/02-Weekly/2024/2024-W09.md"
+    },
+    {
+      "basename": "Recurrent TASKS",
+      "path": "LIFE/Tasks/Recurrent TASKS.md"
+    },
+    {
+      "basename": "Recurrent TASKS",
+      "path": "WORK/Farmacias/Recurrent TASKS.md"
+    },
+    {
       "basename": "SENIAT",
       "path": "WORK/Farmacias/SENIAT.md"
-    },
-    {
-      "basename": "2024-03-04",
-      "path": "01-Journal/01-Daily/2024/03-March/2024-03-04.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "99-Settings/Templates/Daily Note Template.md"
-    },
-    {
-      "basename": "2024-03-03",
-      "path": "01-Journal/01-Daily/2024/03-March/2024-03-03.md"
     },
     {
       "basename": "_000 2024 Watched Movies",
@@ -35,10 +91,6 @@
     {
       "basename": "Empire of Dreams The Story of the Star Wars Trilogy (2004)",
       "path": "LIFE/Movies/Empire of Dreams The Story of the Star Wars Trilogy (2004).md"
-    },
-    {
-      "basename": "testing snippets Icons",
-      "path": "testing snippets Icons.md"
     },
     {
       "basename": "_000 To Watch Movie List",
@@ -93,20 +145,8 @@
       "path": "WORK/Farmacias/SENIAT 1 1.md"
     },
     {
-      "basename": "Monthly Note Template",
-      "path": "99-Settings/Templates/Monthly Note Template.md"
-    },
-    {
-      "basename": "Yearly Note Template",
-      "path": "99-Settings/Templates/Yearly Note Template.md"
-    },
-    {
       "basename": "Quarterly Note Template",
       "path": "99-Settings/Templates/Quarterly Note Template.md"
-    },
-    {
-      "basename": "Weekly Note Template",
-      "path": "99-Settings/Templates/Weekly Note Template.md"
     },
     {
       "basename": "New Author Template",
@@ -121,16 +161,8 @@
       "path": "99-Settings/Templates/OLD/Daily Notes Template.md"
     },
     {
-      "basename": "testing snippets multicolumn",
-      "path": "testing snippets multicolumn.md"
-    },
-    {
       "basename": "Callouts",
       "path": "Callouts.md"
-    },
-    {
-      "basename": "THINGS TO DO",
-      "path": "THINGS TO DO.md"
     },
     {
       "basename": "Daily Notes Template 1",
@@ -167,38 +199,6 @@
     {
       "basename": "2024-02-26-Monday",
       "path": "JOURNAL/Daily/2024/02-February/2024-02-26-Monday.md"
-    },
-    {
-      "basename": "Inversor",
-      "path": "Inversor.md"
-    },
-    {
-      "basename": "Society of the Snow (2023)",
-      "path": "LIFE/Movies/Society of the Snow (2023).md"
-    },
-    {
-      "basename": "Wonka (2023)",
-      "path": "LIFE/Movies/Wonka (2023).md"
-    },
-    {
-      "basename": "Star Wars Young Jedi Adventures Shorts (2023)",
-      "path": "LIFE/Series/Star Wars Young Jedi Adventures Shorts (2023).md"
-    },
-    {
-      "basename": "Temp Home Page",
-      "path": "Temp Home Page.md"
-    },
-    {
-      "basename": "Star Wars Episode II - Attack of the Clones (2002)",
-      "path": "LIFE/Movies/Star Wars Episode II - Attack of the Clones (2002).md"
-    },
-    {
-      "basename": "Star Wars Episode IV - A New Hope (1977)",
-      "path": "LIFE/Movies/Star Wars Episode IV - A New Hope (1977).md"
-    },
-    {
-      "basename": "Star Wars Episode I - The Phantom Menace (1999)",
-      "path": "LIFE/Movies/Star Wars Episode I - The Phantom Menace (1999).md"
     }
   ],
   "omittedPaths": [],

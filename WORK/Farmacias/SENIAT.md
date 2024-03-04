@@ -216,27 +216,27 @@ PAGOS PENDIENTES:
 
 **NOVIEMBRE**
 - [ ] BUBUQUI 📅 2024-11-11⏫ #work/taxes/ret_ISLR
-- [ ] BUBUQUI 📅 2024-11-11]⏫ #word/taxes/DGP
+- [ ] BUBUQUI 📅 2024-11-11]⏫ #work/taxes/DGP
 - [ ] BUBUQUI 📅 2024-11-01⏫ #work/taxes/2da/OCT
 - [ ] BUBUQUI 📅 2024-11-19⏫ #work/taxes/1era/NOV
 
 - [ ] PRINCIPAL 📅 2024-11-12⏫ #work/taxes/ret_ISLR
-- [ ] PRINCIPAL 📅 2024-11-12  #word/taxes/DGP
+- [ ] PRINCIPAL 📅 2024-11-12  #work/taxes/DGP
 - [ ] PRINCIPAL 📅 2024-11-07⏫ #work/taxes/2da/OCT
 - [ ] PRINCIPAL 📅 2024-11-20⏫ #work/taxes/1era/NOV
 
 - [ ] TUCANI 📅 2024-11-12⏫ #work/taxes/ret_ISLR
-- [ ] TUCANI 📅 2024-11-12⏫  #word/taxes/DGP
+- [ ] TUCANI 📅 2024-11-12⏫  #work/taxes/DGP
 - [ ] TUCANI 📅 2024-11-12⏫ #work/taxes/2da/OCT
 - [ ] TUCANI 📅 2024-11-28⏫ #work/taxes/1era/NOV
 
 - [ ] TORRE 📅 2024-11-15⏫ #work/taxes/ret_ISLR
-- [ ] TORRE 📅 2024-11-15⏫  #word/taxes/DGP
+- [ ] TORRE 📅 2024-11-15⏫  #work/taxes/DGP
 - [ ] TORRE 📅 2024-11-08⏫ #work/taxes/2da/OCT
 - [ ] TORRE 📅 2024-11-25⏫ #work/taxes/1era/NOV
 
 - [ ] FLEMING 📅 2024-11-14⏫ #work/taxes/ret_ISLR
-- [ ] FLEMING 📅 2024-11-14⏫  #word/taxes/DGP
+- [ ] FLEMING 📅 2024-11-14⏫  #work/taxes/DGP
 - [ ] FLEMING 📅 2024-11-06⏫ #work/taxes/2da/OCT
 - [ ] FLEMING 📅 2024-11-22⏫ #work/taxes/1era/NOV
 

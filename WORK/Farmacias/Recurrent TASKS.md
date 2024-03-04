@@ -1,0 +1,24 @@
+- [ ] Pagar Droguerías 🔁 every weekday 🛫 2024-03-04 #work/payment
+- [ ] Revisar Estatus Saren 🔁 every weekday 🛫 2024-03-04 #work/documents 
+- [ ] Revisar Fonacit 🔁 every weekday 🛫 2024-03-04 📅 2024-03-31 #work/taxes/FONACIT 
+- [ ] Libros de Compra, Venta e IGTF 🔁 every month 🛫 2024-03-16 #work/accounting
+- [ ] Libros de Compra, Venta e IGTF 🔁 every month 🛫 end of next month #work/accounting
+- [ ] Hacer Pedido Mafarta 🔁 every week on Monday 🛫 2024-03-04 #work/procurement 
+- [ ] Hacer Pedido Mafarta 🔁 every week on Friday 🛫 2024-03-08 #work/procurement 
+- [ ] Hacer Pedido Nena 🔁 every week on Sunday 🛫 2024-03-10 #work/procurement 
+- [ ] Pagar CANTV 🔁 every month 🛫 2024-03-05 #work/services
+- [ ] Revisar Correos y borrar innecesarios 🔁 every weekday 🛫 2024-03-04 #work/maintenance
+- [ ] Hacer Reporte Trimestral 🔁 every quarter 🛫 2024-01-03 #work/reports
+- [ ] Revisar Compromisos Pendientes SENIAT 🔁 every week on Friday 🛫 2024-03-08 #work/maintenance 
+- [ ] Recepcionar Guías de Movilización 🔁 every week on Friday 🛫 2024-03-08 #work/maintenance 
+- [ ] Pagar CORPOELEC #work/services
+- [ ] Pagar Aguas de Merida #work/services
+- [ ] Pagar SAMAT 🔁 every month 🛫 2024-03-10 #work/taxes/SAMAT
+- [ ] Actualizar Carpeta de IVSS 🔁 every month 🛫 2024-03-05 #work/reports 
+- [ ] Actualizar la Cartelera 🔁 every month 🛫 2024-03-04 #work/reports 
+
+- [ ] Programa de Seguridad #work/security
+- [ ] Rupdae Torre y Ppal #work/reports
+- [ ] Terminar Dashboard en EXCEL #work/reports
+- [ ] Hacer Acta de Aumento de capital Tucani #work/documents 
+- [ ] Hacer Actas de Principal #work/documents 

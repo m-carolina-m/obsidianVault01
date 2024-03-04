@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "49d6e362599a0875",
+        "id": "a897d1824973c752",
         "type": "tabs",
         "children": [
           {
-            "id": "07be954adf4ef049",
+            "id": "e3a6baa2bebf5522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-18.md",
+                "file": "99-Settings/Templates/Weekly Note Template.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "cbd6e9a1b0e95b91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-04.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f8fdcbd54dd90f14",
@@ -102,20 +90,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c279803ab86fed4a",
-            "type": "leaf",
-            "state": {
-              "type": "journal-calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "5d8f034b0b0975d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-04.md",
+                "file": "99-Settings/Templates/Weekly Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-04.md",
+                "file": "99-Settings/Templates/Weekly Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,17 +135,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-04.md"
+                "file": "99-Settings/Templates/Weekly Note Template.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "3073dfd4c6686ef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c279803ab86fed4a",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,43 +170,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbd6e9a1b0e95b91",
+  "active": "e3a6baa2bebf5522",
   "lastOpenFiles": [
-    "2024-02-18.md",
-    "2024-03-04.md",
-    "WORK/Farmacias/SENIAT.md",
+    "99-Settings/Templates/Yearly Note Template.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-04.md",
-    "99-Settings/Templates/Daily Note Template.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-03.md",
+    "01-Journal/01-Daily/2024/03-March/2024-03-02.md",
+    "01-Journal/01-Daily/2024/03-March/2024-03-01.md",
+    "99-Settings/Templates/Daily Note Template.md",
+    "99-Settings/Templates/Weekly Note Template.md",
+    "2024-03-04.md",
+    "2024-02-18.md",
+    "THINGS TO DO.md",
+    "testing snippets multicolumns inside multicolumns.md",
+    "testing snippets multicolumn 1.md",
+    "testing snippets multicolumn.md",
+    "testing snippets Icons.md",
+    "testing snippet image gallery.md",
+    "99-Settings/Templates/Monthly Note Template.md",
+    "01-Journal/02-Weekly/2024/2024-W09.md",
+    "01-Journal/02-Weekly/2024",
+    "LIFE/Tasks/Recurrent TASKS.md",
+    "01-Journal/01-Daily/2024/03-March/2024-03-05.md",
+    "WORK/Farmacias/Recurrent TASKS.md",
+    "WORK/Farmacias/SENIAT.md",
     "LIFE/Movies/_000 2024 Watched Movies.md",
     "LIFE/Movies/_000 All Times Favorite Movies.md",
     "LIFE/Movies/Empire of Dreams The Story of the Star Wars Trilogy (2004).md",
-    "testing snippets Icons.md",
     "LIFE/Movies/_000 To Watch Movie List.md",
     "SETTINGS",
     "LIFE/Movies/_000 ALL MOVIES CARDS.md",
-    "LIFE/Series/_000 Currently Watching.md",
-    "LIFE/Series/_000 To Watch Series.md",
-    "LIFE/Series/_000 All Times Favorite Series.md",
-    "LIFE/Series/Light & Magic (2022).md",
-    "LIFE/Series/30 Coins (2020-).md",
-    "LIFE/Movies/_000 2023 Watched Movies.md",
-    "99-Settings/Templates/OLD/New Author Template 1.md",
-    "99-Settings/Templates/OLD/New Book Template 1.md",
-    "99-Settings/Templates/OLD/New Movie Template 1.md",
-    "99-Settings/Templates/OLD/Weekly Notes Template.md",
-    "WORK/Farmacias/SENIAT 1 1.md",
     "01-Journal/01-Daily/2024/03-March",
     "01-Journal/01-Daily/2024",
-    "99-Settings/Templates/Yearly Note Template.md",
-    "99-Settings/Templates/Quarterly Note Template.md",
-    "99-Settings/Templates/Monthly Note Template.md",
     "01-Journal/05-Yearly",
     "01-Journal/04-Quarterly",
     "01-Journal/03-Mothly",
     "01-Journal/02-Weekly",
     "01-Journal/01-Daily",
-    "99-Settings/Templates/OLD",
-    "Journal/Daily/2024/02-February"
+    "99-Settings/Templates/OLD"
   ]
 }

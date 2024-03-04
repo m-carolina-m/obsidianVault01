@@ -6,10 +6,15 @@ cssclasses:
 ```calendar-nav
 ```
 
-> ## Yearly Goals
-> 1.
-> 2.
-> 3.
+## My Weeks in Color
+```dataview
+table aliases, enjoyment, why
+from "01-Journal/02-Weekly"
+```
 
-> ## Yearly Gratitud
-> 
+## Yearly Goals
+1.
+2.
+3.
+
+## Yearly Gratitud

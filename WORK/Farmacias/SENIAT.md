@@ -57,9 +57,9 @@ PAGOS PENDIENTES:
 - [ ] TUCANI 📅 2024-03-13⏫ #work/taxes/2da/FEB
 - [ ] TUCANI 📅 2024-03-19⏫ #work/taxes/1era/MAR
 
-- [ ] TORRE 📅 2024-03-04⏫ #work/taxes/ISLR
+- [x] TORRE #work/taxes/ISLR ⏫ 📅 2024-03-04 ✅ 2024-03-04
 - [ ] TORRE 📅 2024-03-14⏫ #work/taxes/ret_ISLR
-- [ ] TORRE 📅 2024-03-07⏫ #work/taxes/2da/FEB
+- [ ] TORRE #work/taxes/2da/FEB ⏫ 📅 2024-03-07
 - [ ] TORRE 📅 2024-03-26⏫ #work/taxes/1era/MAR
 
 - [ ] FLEMING 📅 2024-03-12 #work/taxes/ISLR

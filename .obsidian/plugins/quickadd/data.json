@@ -23,8 +23,8 @@
         {
           "name": "movies",
           "type": "UserScript",
-          "id": "d6c1e481-3358-4111-b218-f420813efd9b",
-          "path": "SETTINGS/Scripts/movies.js",
+          "id": "a1d2c47d-d9c0-45e9-b4c2-68ea7a4d34b1",
+          "path": "movies.js",
           "settings": {
             "OMDb API Key": "55e2b123"
           }
@@ -38,7 +38,7 @@
             "name": "Movies Template",
             "type": "Template",
             "command": false,
-            "templatePath": "SETTINGS/Templates/New Movie Template.md",
+            "templatePath": "99-Settings/Templates/New Movie Template.md",
             "fileNameFormat": {
               "enabled": true,
               "format": "{{VALUE:fileName}} ({{VALUE:year}})"
@@ -74,8 +74,8 @@
         {
           "name": "movies",
           "type": "UserScript",
-          "id": "a47d845b-3a85-4fee-b03f-9b56eb332665",
-          "path": "SETTINGS/Scripts/movies.js",
+          "id": "89bdffe0-f16b-48dc-9c0e-7fad7a3c934f",
+          "path": "movies.js",
           "settings": {
             "OMDb API Key": "55e2b123"
           }
@@ -89,7 +89,7 @@
             "name": "Series Template",
             "type": "Template",
             "command": false,
-            "templatePath": "SETTINGS/Templates/New Series Template.md",
+            "templatePath": "99-Settings/Templates/New Series Template.md",
             "fileNameFormat": {
               "enabled": true,
               "format": "{{VALUE:fileName}} ({{VALUE:year}})"

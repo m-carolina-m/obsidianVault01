@@ -1,32 +1,124 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-03-04",
+      "path": "01-Journal/01-Daily/2024/03-March/2024-03-04.md"
+    },
+    {
+      "basename": "2024-03-03",
+      "path": "01-Journal/01-Daily/2024/03-March/2024-03-03.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "99-Settings/Templates/Daily Note Template.md"
+    },
+    {
       "basename": "SENIAT",
       "path": "WORK/Farmacias/SENIAT.md"
+    },
+    {
+      "basename": "_000 2024 Watched Movies",
+      "path": "LIFE/Movies/_000 2024 Watched Movies.md"
+    },
+    {
+      "basename": "_000 All Times Favorite Movies",
+      "path": "LIFE/Movies/_000 All Times Favorite Movies.md"
+    },
+    {
+      "basename": "Empire of Dreams The Story of the Star Wars Trilogy (2004)",
+      "path": "LIFE/Movies/Empire of Dreams The Story of the Star Wars Trilogy (2004).md"
+    },
+    {
+      "basename": "testing snippets Icons",
+      "path": "testing snippets Icons.md"
+    },
+    {
+      "basename": "_000 To Watch Movie List",
+      "path": "LIFE/Movies/_000 To Watch Movie List.md"
     },
     {
       "basename": "_000 ALL MOVIES CARDS",
       "path": "LIFE/Movies/_000 ALL MOVIES CARDS.md"
     },
     {
-      "basename": "Callouts",
-      "path": "Callouts.md"
+      "basename": "_000 Currently Watching",
+      "path": "LIFE/Series/_000 Currently Watching.md"
     },
     {
-      "basename": "2024-02-04-Sunday",
-      "path": "Daily/2024/02-February/2024-02-04-Sunday.md"
+      "basename": "_000 To Watch Series",
+      "path": "LIFE/Series/_000 To Watch Series.md"
     },
     {
-      "basename": "2024-02-03-Saturday",
-      "path": "Daily/2024/02-February/2024-02-03-Saturday.md"
+      "basename": "_000 All Times Favorite Series",
+      "path": "LIFE/Series/_000 All Times Favorite Series.md"
+    },
+    {
+      "basename": "Light & Magic (2022)",
+      "path": "LIFE/Series/Light & Magic (2022).md"
+    },
+    {
+      "basename": "30 Coins (2020-)",
+      "path": "LIFE/Series/30 Coins (2020-).md"
+    },
+    {
+      "basename": "_000 2023 Watched Movies",
+      "path": "LIFE/Movies/_000 2023 Watched Movies.md"
+    },
+    {
+      "basename": "New Author Template 1",
+      "path": "99-Settings/Templates/OLD/New Author Template 1.md"
+    },
+    {
+      "basename": "New Book Template 1",
+      "path": "99-Settings/Templates/OLD/New Book Template 1.md"
+    },
+    {
+      "basename": "New Movie Template 1",
+      "path": "99-Settings/Templates/OLD/New Movie Template 1.md"
+    },
+    {
+      "basename": "Weekly Notes Template",
+      "path": "99-Settings/Templates/OLD/Weekly Notes Template.md"
+    },
+    {
+      "basename": "SENIAT 1 1",
+      "path": "WORK/Farmacias/SENIAT 1 1.md"
+    },
+    {
+      "basename": "Monthly Note Template",
+      "path": "99-Settings/Templates/Monthly Note Template.md"
+    },
+    {
+      "basename": "Yearly Note Template",
+      "path": "99-Settings/Templates/Yearly Note Template.md"
+    },
+    {
+      "basename": "Quarterly Note Template",
+      "path": "99-Settings/Templates/Quarterly Note Template.md"
+    },
+    {
+      "basename": "Weekly Note Template",
+      "path": "99-Settings/Templates/Weekly Note Template.md"
+    },
+    {
+      "basename": "New Author Template",
+      "path": "99-Settings/Templates/New Author Template.md"
+    },
+    {
+      "basename": "New Series Template 1",
+      "path": "99-Settings/Templates/OLD/New Series Template 1.md"
+    },
+    {
+      "basename": "Daily Notes Template",
+      "path": "99-Settings/Templates/OLD/Daily Notes Template.md"
     },
     {
       "basename": "testing snippets multicolumn",
       "path": "testing snippets multicolumn.md"
     },
     {
-      "basename": "Daily Notes Template",
-      "path": "SETTINGS/Templates/Daily Notes Template.md"
+      "basename": "Callouts",
+      "path": "Callouts.md"
     },
     {
       "basename": "THINGS TO DO",
@@ -38,15 +130,15 @@
     },
     {
       "basename": "Daily Notes Template 1",
-      "path": "SETTINGS/Templates/Daily Notes Template 1.md"
+      "path": "99-Settings/Templates/OLD/Daily Notes Template 1.md"
     },
     {
       "basename": "Daily Notes Template 3",
-      "path": "SETTINGS/Templates/Daily Notes Template 3.md"
+      "path": "99-Settings/Templates/OLD/Daily Notes Template 3.md"
     },
     {
       "basename": "Daily Notes Template 2",
-      "path": "SETTINGS/Templates/Daily Notes Template 2.md"
+      "path": "99-Settings/Templates/OLD/Daily Notes Template 2.md"
     },
     {
       "basename": "2024-02-02-Friday",
@@ -59,10 +151,6 @@
     {
       "basename": "Star Wars Recommended Viewing Order",
       "path": "StarWars/Star Wars Recommended Viewing Order.md"
-    },
-    {
-      "basename": "Monthly Notes Template",
-      "path": "SETTINGS/Templates/Monthly Notes Template.md"
     },
     {
       "basename": "Untitled 1",
@@ -81,10 +169,6 @@
       "path": "Inversor.md"
     },
     {
-      "basename": "_000 2024 Watched Movies",
-      "path": "LIFE/Movies/_000 2024 Watched Movies.md"
-    },
-    {
       "basename": "Society of the Snow (2023)",
       "path": "LIFE/Movies/Society of the Snow (2023).md"
     },
@@ -93,24 +177,12 @@
       "path": "LIFE/Movies/Wonka (2023).md"
     },
     {
-      "basename": "_000 Currently Watching",
-      "path": "LIFE/Series/_000 Currently Watching.md"
-    },
-    {
       "basename": "Star Wars Young Jedi Adventures Shorts (2023)",
       "path": "LIFE/Series/Star Wars Young Jedi Adventures Shorts (2023).md"
     },
     {
       "basename": "Temp Home Page",
       "path": "Temp Home Page.md"
-    },
-    {
-      "basename": "_000 All Times Favorite Series",
-      "path": "LIFE/Series/_000 All Times Favorite Series.md"
-    },
-    {
-      "basename": "Light & Magic (2022)",
-      "path": "LIFE/Series/Light & Magic (2022).md"
     },
     {
       "basename": "Star Wars Episode II - Attack of the Clones (2002)",
@@ -123,10 +195,6 @@
     {
       "basename": "Star Wars Episode I - The Phantom Menace (1999)",
       "path": "LIFE/Movies/Star Wars Episode I - The Phantom Menace (1999).md"
-    },
-    {
-      "basename": "_000 To Watch Movie List",
-      "path": "LIFE/Movies/_000 To Watch Movie List.md"
     }
   ],
   "omittedPaths": [],

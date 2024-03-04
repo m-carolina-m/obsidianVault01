@@ -2,263 +2,263 @@
 
 PAGOS PENDIENTES:
 **ENERO**
-- [x] BUBUQUI RET ISLR [due::2024-01-05]
-- [x] BUBUQUI [due::2024-01-10] 2DA QUINCENA DIC
-- [x] BUBUQUI [due::2024-01-31] 1ERA QUINCENA ENE
+- [x] BUBUQUI 📅 2024-01-05⏫ #work/taxes/ret_ISLR
+- [x] BUBUQUI 📅 2024-01-10⏫ #work/taxes/2da/DIC
+- [x] BUBUQUI 📅 2024-01-31⏫ #work/taxes/1era/ENE
 
-- [x] PRINCIPAL RET ISLR [due::2024-01-11]
-- [x] PRINCIPAL [due::2024-01-11] 2DA QUINCENA DIC
-- [x] PRINCIPAL [due::2024-01-25] 1ERA QUINCENA ENE
+- [x] PRINCIPAL 📅 2024-01-11⏫ #work/taxes/ret_ISLR
+- [x] PRINCIPAL 📅 2024-01-11⏫ #work/taxes/2da/DIC
+- [x] PRINCIPAL 📅 2024-01-25⏫ #work/taxes/1era/ENE
 
-- [x] TUCANI RET ISLR [due::2024-01-11]
-- [x] TUCANI [due::2024-01-04] 2DA QUINCENA DIC
-- [x] TUCANI [due::2024-01-19] 1ERA QUINCENA ENE
+- [x] TUCANI 📅 2024-01-11⏫ #work/taxes/ret_ISLR
+- [x] TUCANI 📅 2024-01-04⏫ #work/taxes/2da/DIC
+- [x] TUCANI 📅 2024-01-19⏫ #work/taxes/1era/ENE
 
-- [x] TORRE RET ISLR [due::2024-01-15]
-- [x] TORRE [due::2024-01-15] 2DA QUINCENA DIC
-- [x] TORRE [due::2024-01-30] 1ERA QUINCENA ENE
+- [x] TORRE 📅 2024-01-15⏫ #work/taxes/ret_ISLR
+- [x] TORRE 📅 2024-01-15⏫ #work/taxes/2da/DIC
+- [x] TORRE 📅 2024-01-30⏫ #work/taxes/1era/ENE
 
-- [x] FLEMING RET ISLR [due::2024-01-12]
-- [x] FLEMING [due::2024-01-12] 2DA QUINCENA DIC
-- [x] FLEMING [due::2024-01-29] 1ERA QUINCENA ENE
+- [x] FLEMING 📅 2024-01-12⏫ #work/taxes/ret_ISLR
+- [x] FLEMING 📅 2024-01-12⏫ #work/taxes/2da/DIC
+- [x] FLEMING 📅 2024-01-29⏫ #work/taxes/1era/ENE
 
 **FEBRERO**
-- [x] BUBUQUI RET ISLR [due::2024-02-06]
-- [x] BUBUQUI [due::2024-02-15] 2DA QUINCENA ENE
-- [x] BUBUQUI [due::2024-02-26] 1ERA QUINCENA FEB
+- [x] BUBUQUI 📅 2024-02-06⏫ #work/taxes/ret_ISLR
+- [x] BUBUQUI 📅 2024-02-15⏫ #work/taxes/2da/ENE
+- [x] BUBUQUI 📅 2024-02-26⏫ #work/taxes/1era/FEB
 
-- [x] PRINCIPAL RET ISLR [due::2024-02-14]
-- [x] PRINCIPAL [due::2024-02-01] 2DA QUINCENA ENE
-- [x] PRINCIPAL [due::2024-02-21] 1ERA QUINCENA FEB
+- [x] PRINCIPAL 📅 2024-02-14⏫ #work/taxes/ret_ISLR
+- [x] PRINCIPAL 📅 2024-02-01⏫ #work/taxes/2da/ENE
+- [x] PRINCIPAL 📅 2024-02-21⏫ #work/taxes/1era/FEB
 
-- [x] TUCANI RET ISLR [due::2024-02-14]
-- [x] TUCANI [due::2024-02-14] 2DA QUINCENA ENE
-- [x] TUCANI [due::2024-02-29] 1ERA QUINCENA FEB
-- [x] TUCANI ISLR [due::2024-02-29]
+- [x] TUCANI 📅 2024-02-14⏫ #work/taxes/ret_ISLR
+- [x] TUCANI 📅 2024-02-14⏫ #work/taxes/2da/ENE
+- [x] TUCANI 📅 2024-02-29⏫ #work/taxes/1era/FEB
+- [x] TUCANI 📅 2024-02-29⏫ #work/taxes/ISLR
 
-- [x] TORRE RET ISLR [due::2024-02-08]
-- [x] TORRE [due::2024-02-02] 2DA QUINCENA ENE
-- [x] TORRE [due::2024-02-28] 1ERA QUINCENA FEB
+- [x] TORRE 📅 2024-02-08⏫ #work/taxes/ret_ISLR
+- [x] TORRE 📅 2024-02-02⏫ #work/taxes/2da/ENE
+- [x] TORRE 📅 2024-02-28⏫ #work/taxes/1era/FEB
 
-- [x] FLEMING RET ISLR [due::2024-02-09]
-- [x] FLEMING [due::2024-02-09] 2DA QUINCENA ENE
-- [x] FLEMING [due::2024-02-27] 1ERA QUINCENA FEB
+- [x] FLEMING 📅 2024-02-09⏫ #work/taxes/ret_ISLR
+- [x] FLEMING 📅 2024-02-09⏫ #work/taxes/2da/ENE
+- [x] FLEMING 📅 2024-02-27⏫ #work/taxes/1era/FEB
 
 **MARZO**
-- [ ] BUBUQUI RET ISLR [due::2024-03-08]
-- [ ] BUBUQUI [due::2024-03-08] 2DA QUINCENA FEB
-- [ ] BUBUQUI [due::2024-03-25] 1ERA QUINCENA MAR
+- [ ] BUBUQUI 📅 2024-03-08⏫ #work/taxes/ret_ISLR
+- [ ] BUBUQUI 📅 2024-03-08⏫ #work/taxes/2da/FEB
+- [ ] BUBUQUI 📅 2024-03-25⏫ #work/taxes/1era/MAR
 
-- [ ] PRINCIPAL RET ISLR [due::2024-03-13]
-- [ ] PRINCIPAL [due::2024-03-06] 2DA QUINCENA FEB
-- [ ] PRINCIPAL [due::2024-03-21] 1ERA QUINCENA MAR
+- [ ] PRINCIPAL 📅 2024-03-13⏫ #work/taxes/ret_ISLR
+- [ ] PRINCIPAL 📅 2024-03-06⏫ #work/taxes/2da/FEB
+- [ ] PRINCIPAL 📅 2024-03-21⏫ #work/taxes/1era/MAR
 
-- [ ] TUCANI RET ISLR [due::2024-03-13]
-- [ ] TUCANI [due::2024-03-13] 2DA QUINCENA FEB
-- [ ] TUCANI [due::2024-03-19] 1ERA QUINCENA MAR
+- [ ] TUCANI 📅 2024-03-13⏫ #work/taxes/ret_ISLR
+- [ ] TUCANI 📅 2024-03-13⏫ #work/taxes/2da/FEB
+- [ ] TUCANI 📅 2024-03-19⏫ #work/taxes/1era/MAR
 
-- [ ] TORRE ISLR [due::2024-03-04]
-- [ ] TORRE RET ISLR [due::2024-03-14]
-- [ ] TORRE [due::2024-03-07] 2DA QUINCENA FEB
-- [ ] TORRE [due::2024-03-26] 1ERA QUINCENA MAR
+- [ ] TORRE 📅 2024-03-04⏫ #work/taxes/ISLR
+- [ ] TORRE 📅 2024-03-14⏫ #work/taxes/ret_ISLR
+- [ ] TORRE 📅 2024-03-07⏫ #work/taxes/2da/FEB
+- [ ] TORRE 📅 2024-03-26⏫ #work/taxes/1era/MAR
 
-- [ ] FLEMING ISLR [due::2024-03-12]
-- [ ] FLEMING RET ISLR [due::2024-03-12]
-- [ ] FLEMING [due::2024-03-12] 2DA QUINCENA FEB
-- [ ] FLEMING [due::2024-03-27] 1ERA QUINCENA MAR
+- [ ] FLEMING 📅 2024-03-12 #work/taxes/ISLR
+- [ ] FLEMING 📅 2024-03-12⏫ #work/taxes/ret_ISLR
+- [ ] FLEMING 📅 2024-03-12⏫ #work/taxes/2da/FEB
+- [ ] FLEMING 📅 2024-03-27⏫ #work/taxes/1era/MAR
 
 **ABRIL**
-- [ ] BUBUQUI RET ISLR [due::2024-04-08]
-- [ ] BUBUQUI [due::2024-04-02] 2DA QUINCENA MAR
-- [ ] BUBUQUI [due::2024-04-17] 1ERA QUINCENA ABR
+- [ ] BUBUQUI 📅 2024-04-08⏫ #work/taxes/ret_ISLR
+- [ ] BUBUQUI 📅 2024-04-02⏫ #work/taxes/2da/MAR
+- [ ] BUBUQUI 📅 2024-04-17⏫ #work/taxes/1era/ABR
 
-- [ ] PRINCIPAL RET ISLR [due::2024-04-09]
-- [ ] PRINCIPAL [due::2024-04-15] 2DA QUINCENA MAR
-- [ ] PRINCIPAL [due::2024-04-18] 1ERA QUINCENA ABR
+- [ ] PRINCIPAL 📅 2024-04-09⏫ #work/taxes/ret_ISLR
+- [ ] PRINCIPAL 📅 2024-04-15⏫ #work/taxes/2da/MAR
+- [ ] PRINCIPAL 📅 2024-04-18⏫ #work/taxes/1era/ABR
 
-- [ ] TUCANI RET ISLR [due::2024-04-09]
-- [ ] TUCANI [due::2024-04-09] 2DA QUINCENA MAR
-- [ ] TUCANI [due::2024-04-16] 1ERA QUINCENA ABR
+- [ ] TUCANI 📅 2024-04-09⏫ #work/taxes/ret_ISLR
+- [ ] TUCANI 📅 2024-04-09⏫ #work/taxes/2da/MAR
+- [ ] TUCANI 📅 2024-04-16⏫ #work/taxes/1era/ABR
 
-- [ ] TORRE RET ISLR [due::2024-04-10]
-- [ ] TORRE [due::2024-04-10] 2DA QUINCENA MAR
-- [ ] TORRE [due::2024-04-22] 1ERA QUINCENA ABR
+- [ ] TORRE 📅 2024-04-10⏫ #work/taxes/ret_ISLR
+- [ ] TORRE 📅 2024-04-10⏫ #work/taxes/2da/MAR
+- [ ] TORRE 📅 2024-04-22⏫ #work/taxes/1era/ABR
 
-- [ ] FLEMING RET ISLR [due::2024-04-12]
-- [ ] FLEMING [due::2024-04-05] 2DA QUINCENA MAR
-- [ ] FLEMING [due::2024-04-24] 1ERA QUINCENA ABR
+- [ ] FLEMING 📅 2024-04-12⏫ #work/taxes/ret_ISLR
+- [ ] FLEMING 📅 2024-04-05⏫ #work/taxes/2da/MAR
+- [ ] FLEMING 📅 2024-04-24⏫ #work/taxes/1era/ABR
 
 **MAYO**
-- [ ] BUBUQUI RET ISLR [due::2024-05-07]
-- [ ] BUBUQUI [due::2024-05-15] 2DA QUINCENA ABR
-- [ ] BUBUQUI [due::2024-05-22] 1ERA QUINCENA MAY
+- [ ] BUBUQUI 📅 2024-05-07⏫ #work/taxes/ret_ISLR
+- [ ] BUBUQUI 📅 2024-05-15⏫ #work/taxes/2da/ABR
+- [ ] BUBUQUI 📅 2024-05-22⏫ #work/taxes/1era/MAY
 
-- [ ] PRINCIPAL RET ISLR [due::2024-05-16]
-- [ ] PRINCIPAL [due::2024-05-06] 2DA QUINCENA ABR
-- [ ] PRINCIPAL [due::2024-05-30] 1ERA QUINCENA MAY
+- [ ] PRINCIPAL 📅 2024-05-16⏫ #work/taxes/ret_ISLR
+- [ ] PRINCIPAL 📅 2024-05-06⏫ #work/taxes/2da/ABR
+- [ ] PRINCIPAL 📅 2024-05-30⏫ #work/taxes/1era/MAY
 
-- [ ] TUCANI RET ISLR [due::2024-05-16]
-- [ ] TUCANI [due::2024-05-08] 2DA QUINCENA ABR
-- [ ] TUCANI [due::2024-05-23] 1ERA QUINCENA MAY
+- [ ] TUCANI 📅 2024-05-16⏫ #work/taxes/ret_ISLR
+- [ ] TUCANI 📅 2024-05-08⏫ #work/taxes/2da/ABR
+- [ ] TUCANI 📅 2024-05-23⏫ #work/taxes/1era/MAY
 
-- [ ] TORRE RET ISLR [due::2024-05-10]
-- [ ] TORRE [due::2024-05-13] 2DA QUINCENA ABR
-- [ ] TORRE [due::2024-05-20] 1ERA QUINCENA MAY
+- [ ] TORRE 📅 2024-05-10⏫ #work/taxes/ret_ISLR
+- [ ] TORRE 📅 2024-05-13⏫ #work/taxes/2da/ABR
+- [ ] TORRE 📅 2024-05-20⏫ #work/taxes/1era/MAY
 
-- [ ] FLEMING RET ISLR [due::2024-05-14]
-- [ ] FLEMING [due::2024-05-02] 2DA QUINCENA ABR
-- [ ] FLEMING [due::2024-05-21] 1ERA QUINCENA MAY
+- [ ] FLEMING 📅 2024-05-14⏫ #work/taxes/ret_ISLR
+- [ ] FLEMING 📅 2024-05-02⏫ #work/taxes/2da/ABR
+- [ ] FLEMING 📅 2024-05-21⏫ #work/taxes/1era/MAY
 
 **JUNIO**
-- [ ] BUBUQUI RET ISLR [due::2024-06-12]
-- [ ] BUBUQUI [due::2024-06-06] 2DA QUINCENA MAY
-- [ ] BUBUQUI [due::2024-06-20] 1ERA QUINCENA JUN
+- [ ] BUBUQUI 📅 2024-06-12⏫ #work/taxes/ret_ISLR
+- [ ] BUBUQUI 📅 2024-06-06⏫ #work/taxes/2da/MAY
+- [ ] BUBUQUI 📅 2024-06-20⏫ #work/taxes/1era/JUN
 
-- [ ] PRINCIPAL RET ISLR [due::2024-06-11]
-- [ ] PRINCIPAL [due::2024-06-11] 2DA QUINCENA MAY
-- [ ] PRINCIPAL [due::2024-06-28] 1ERA QUINCENA JUN
+- [ ] PRINCIPAL 📅 2024-06-11⏫ #work/taxes/ret_ISLR
+- [ ] PRINCIPAL 📅 2024-06-11⏫ #work/taxes/2da/MAY
+- [ ] PRINCIPAL 📅 2024-06-28⏫ #work/taxes/1era/JUN
 
-- [ ] TUCANI RET ISLR [due::2024-06-11]
-- [ ] TUCANI [due::2024-06-03] 2DA QUINCENA MAY
-- [ ] TUCANI [due::2024-06-19] 1ERA QUINCENA JUN
+- [ ] TUCANI 📅 2024-06-11⏫ #work/taxes/ret_ISLR
+- [ ] TUCANI 📅 2024-06-03⏫ #work/taxes/2da/MAY
+- [ ] TUCANI 📅 2024-06-19⏫ #work/taxes/1era/JUN
 
-- [ ] TORRE RET ISLR [due::2024-06-14]
-- [ ] TORRE [due::2024-06-14] 2DA QUINCENA MAY
-- [ ] TORRE [due::2024-06-25] 1ERA QUINCENA JUN
+- [ ] TORRE 📅 2024-06-14⏫ #work/taxes/ret_ISLR
+- [ ] TORRE 📅 2024-06-14⏫ #work/taxes/2da/MAY
+- [ ] TORRE 📅 2024-06-25⏫ #work/taxes/1era/JUN
 
-- [ ] FLEMING RET ISLR [due::2024-06-13]
-- [ ] FLEMING [due::2024-06-13] 2DA QUINCENA MAY
-- [ ] FLEMING [due::2024-06-21] 1ERA QUINCENA JUN
+- [ ] FLEMING 📅 2024-06-13⏫ #work/taxes/ret_ISLR
+- [ ] FLEMING 📅 2024-06-13⏫ #work/taxes/2da/MAY
+- [ ] FLEMING 📅 2024-06-21⏫ #work/taxes/1era/JUN
 
 **JULIO**
-- [ ] BUBUQUI RET ISLR [due::2024-07-08]
-- [ ] BUBUQUI [due::2024-07-15] 2DA QUINCENA JUN
-- [ ] BUBUQUI [due::2024-07-30]  1ERA QUINCENA JUL
+- [ ] BUBUQUI 📅 2024-07-08⏫ #work/taxes/ret_ISLR
+- [ ] BUBUQUI 📅 2024-07-15⏫ #work/taxes/2da/JUN
+- [ ] BUBUQUI 📅 2024-07-30⏫ #work/taxes/1era/JUL
 
-- [ ] PRINCIPAL RET ISLR [due::2024-07-12]
-- [ ] PRINCIPAL [due::2024-07-12] 2DA QUINCENA JUN
-- [ ] PRINCIPAL [due::2024-07-23] 1ERA QUINCENA JUL
+- [ ] PRINCIPAL 📅 2024-07-12⏫ #work/taxes/ret_ISLR
+- [ ] PRINCIPAL 📅 2024-07-12⏫ #work/taxes/2da/JUN
+- [ ] PRINCIPAL 📅 2024-07-23⏫ #work/taxes/1era/JUL
 
-- [ ] TUCANI RET ISLR [due::2024-07-12]
-- [ ] TUCANI [due::2024-07-04] 2DA QUINCENA JUN
-- [ ] TUCANI [due::2024-07-17] 1ERA QUINCENA JUL
+- [ ] TUCANI 📅 2024-07-12⏫ #work/taxes/ret_ISLR
+- [ ] TUCANI 📅 2024-07-04⏫ #work/taxes/2da/JUN
+- [ ] TUCANI 📅 2024-07-17⏫ #work/taxes/1era/JUL
 
-- [ ] TORRE RET ISLR [due::2024-07-09]
-- [ ] TORRE [due::2024-07-09] 2DA QUINCENA JUN
-- [ ] TORRE [due::2024-07-26] 1ERA QUINCENA JUL
+- [ ] TORRE 📅 2024-07-09 #work/taxes/ret_ISLR
+- [ ] TORRE 📅 2024-07-09⏫ #work/taxes/2da/JUN
+- [ ] TORRE 📅 2024-07-26⏫ #work/taxes/1era/JUL
 
-- [ ] FLEMING RET ISLR [due::2024-07-11]
-- [ ] FLEMING [due::2024-07-11] 2DA QUINCENA JUN
-- [ ] FLEMING [due::2024-07-31] 1ERA QUINCENA JUL
+- [ ] FLEMING 📅 2024-07-11⏫ #work/taxes/ret_ISLR
+- [ ] FLEMING 📅 2024-07-11⏫ #work/taxes/2da/JUN
+- [ ] FLEMING 📅 2024-07-31⏫ #work/taxes/1era/JUL
 
 **AGOSTO**
-- [ ] BUBUQUI RET ISLR [due::2024-08-12]
-- [ ] BUBUQUI [due::2024-08-12] 2DA QUINCENA JUL
-- [ ] BUBUQUI [due::2024-08-27]  1ERA QUINCENA AGO
+- [ ] BUBUQUI 📅 2024-08-12⏫ #work/taxes/ret_ISLR
+- [ ] BUBUQUI 📅 2024-08-12⏫ #work/taxes/2da/JUL
+- [ ] BUBUQUI 📅 2024-08-27⏫ #work/taxes/1era/AGO
 
-- [ ] PRINCIPAL RET ISLR [due::2024-08-09]
-- [ ] PRINCIPAL [due::2024-08-09] 2DA QUINCENA JUL
-- [ ] PRINCIPAL [due::2024-08-21] 1ERA QUINCENA AGO
+- [ ] PRINCIPAL 📅 2024-08-09⏫ #work/taxes/ret_ISLR
+- [ ] PRINCIPAL 📅 2024-08-09⏫ #work/taxes/2da/JUL
+- [ ] PRINCIPAL 📅 2024-08-21⏫ #work/taxes/1era/AGO
 
-- [ ] TUCANI RET ISLR [due::2024-08-09]
-- [ ] TUCANI [due::2024-08-15] 2DA QUINCENA JUL
-- [ ] TUCANI [due::2024-08-29] 1ERA QUINCENA AGO
+- [ ] TUCANI 📅 2024-08-09⏫ #work/taxes/ret_ISLR
+- [ ] TUCANI 📅 2024-08-15⏫ #work/taxes/2da/JUL
+- [ ] TUCANI 📅 2024-08-29⏫ #work/taxes/1era/AGO
 
-- [ ] TORRE RET ISLR [due::2024-08-14]
-- [ ] TORRE [due::2024-08-07] 2DA QUINCENA JUL
-- [ ] TORRE [due::2024-08-26] 1ERA QUINCENA AGO
+- [ ] TORRE 📅 2024-08-14⏫ #work/taxes/ret_ISLR
+- [ ] TORRE 📅 2024-08-07⏫ #work/taxes/2da/JUL
+- [ ] TORRE 📅 2024-08-26⏫ #work/taxes/1era/AGO
 
-- [ ] FLEMING RET ISLR [due::2024-08-13]
-- [ ] FLEMING [due::2024-08-13] 2DA QUINCENA JUL
-- [ ] FLEMING [due::2024-08-28] 1ERA QUINCENA AGO
+- [ ] FLEMING 📅 2024-08-13⏫ #work/taxes/ret_ISLR
+- [ ] FLEMING 📅 2024-08-13⏫ #work/taxes/2da/JUL
+- [ ] FLEMING 📅 2024-08-28⏫ #work/taxes/1era/AGO
 
 **SEPTIEMBRE**
-- [ ] BUBUQUI RET ISLR [due::2024-09-11]
-- [ ] BUBUQUI [due::2024-09-11] 2DA QUINCENA AGO
-- [ ] BUBUQUI [due::2024-09-26]  1ERA QUINCENA SEP
+- [ ] BUBUQUI 📅 2024-09-11⏫ #work/taxes/ret_ISLR
+- [ ] BUBUQUI 📅 2024-09-11⏫ #work/taxes/2da/AGO
+- [ ] BUBUQUI 📅 2024-09-26⏫ #work/taxes/1era/SEP
 
-- [ ] PRINCIPAL RET ISLR [due::2024-09-13]
-- [ ] PRINCIPAL [due::2024-09-13] 2DA QUINCENA AGO
-- [ ] PRINCIPAL [due::2024-09-27] 1ERA QUINCENA SEP
+- [ ] PRINCIPAL 📅 2024-09-13 #work/taxes/ret_ISLR
+- [ ] PRINCIPAL 📅 2024-09-13⏫ #work/taxes/2da/AGO
+- [ ] PRINCIPAL 📅 2024-09-27⏫ #work/taxes/1era/SEP
 
-- [ ] TUCANI RET ISLR [due::2024-09-13]
-- [ ] TUCANI [due::2024-09-06] 2DA QUINCENA AGO
-- [ ] TUCANI [due::2024-09-24] 1ERA QUINCENA SEP
+- [ ] TUCANI 📅 2024-09-13⏫ #work/taxes/ret_ISLR
+- [ ] TUCANI 📅 2024-09-06⏫ #work/taxes/2da/AGO
+- [ ] TUCANI 📅 2024-09-24⏫ #work/taxes/1era/SEP
 
-- [ ] TORRE RET ISLR [due::2024-09-09]
-- [ ] TORRE [due::2024-09-02] 2DA QUINCENA AGO
-- [ ] TORRE [due::2024-09-17] 1ERA QUINCENA SEP
+- [ ] TORRE 📅 2024-09-09⏫ #work/taxes/ret_ISLR
+- [ ] TORRE 📅 2024-09-02⏫ #work/taxes/2da/AGO
+- [ ] TORRE 📅 2024-09-17⏫ #work/taxes/1era/SEP
 
-- [ ] FLEMING RET ISLR [due::2024-09-10]
-- [ ] FLEMING [due::2024-09-03] 2DA QUINCENA AGO
-- [ ] FLEMING [due::2024-09-19] 1ERA QUINCENA SEP
+- [ ] FLEMING 📅 2024-09-10⏫ #work/taxes/ret_ISLR
+- [ ] FLEMING 📅 2024-09-03⏫ #work/taxes/2da/AGO
+- [ ] FLEMING 📅 2024-09-19⏫ #work/taxes/1era/SEP
 
 **OCTUBRE**
-- [ ] BUBUQUI RET ISLR [due::2024-10-07]
-- [ ] BUBUQUI [due::2024-10-14] 2DA QUINCENA SEP
-- [ ] BUBUQUI [due::2024-10-29]  1ERA QUINCENA OCT
+- [ ] BUBUQUI 📅 2024-10-07⏫ #work/taxes/ret_ISLR
+- [ ] BUBUQUI 📅 2024-10-14⏫ #work/taxes/2da/SEP
+- [ ] BUBUQUI 📅 2024-10-29⏫ #work/taxes/1era/OCT
 
-- [ ] PRINCIPAL RET ISLR [due::2024-10-08]
-- [ ] PRINCIPAL [due::2024-10-15] 2DA QUINCENA SEP
-- [ ] PRINCIPAL [due::2024-10-30] 1ERA QUINCENA OCT
+- [ ] PRINCIPAL 📅 2024-10-08⏫ #work/taxes/ret_ISLR
+- [ ] PRINCIPAL 📅 2024-10-15⏫ #work/taxes/2da/SEP
+- [ ] PRINCIPAL 📅 2024-10-30⏫ #work/taxes/1era/OCT
 
-- [ ] TUCANI RET ISLR [due::2024-10-08]
-- [ ] TUCANI [due::2024-10-08] 2DA QUINCENA SEP
-- [ ] TUCANI [due::2024-10-17] 1ERA QUINCENA OCT
+- [ ] TUCANI 📅 2024-10-08⏫ #work/taxes/ret_ISLR
+- [ ] TUCANI 📅 2024-10-08⏫ #work/taxes/2da/SEP
+- [ ] TUCANI 📅 2024-10-17⏫ #work/taxes/1era/OCT
 
-- [ ] TORRE RET ISLR [due::2024-10-09]
-- [ ] TORRE [due::2024-10-09] 2DA QUINCENA SEP
-- [ ] TORRE [due::2024-10-31] 1ERA QUINCENA OCT
+- [ ] TORRE 📅 2024-10-09⏫ #work/taxes/ret_ISLR
+- [ ] TORRE 📅 2024-10-09⏫ #work/taxes/2da/SEP
+- [ ] TORRE 📅 2024-10-31⏫ #work/taxes/1era/OCT
 
-- [ ] FLEMING RET ISLR [due::2024-10-11]
-- [ ] FLEMING [due::2024-10-11] 2DA QUINCENA SEP
-- [ ] FLEMING [due::2024-10-28] 1ERA QUINCENA OCT
+- [ ] FLEMING 📅 2024-10-11⏫ #work/taxes/ret_ISLR
+- [ ] FLEMING 📅 2024-10-11⏫ #work/taxes/2da/SEP
+- [ ] FLEMING 📅 2024-10-28⏫ #work/taxes/1era/OCT
 
 **NOVIEMBRE**
-- [ ] BUBUQUI RET ISLR [due::2024-11-11]
-- [ ] BUBUQUI DECLARACION GRANDES PATRIMONIOS [due::2024-11-11]
-- [ ] BUBUQUI [due::2024-11-01] 2DA QUINCENA OCT
-- [ ] BUBUQUI [due::2024-11-19] 1ERA QUINCENA NOV
+- [ ] BUBUQUI 📅 2024-11-11⏫ #work/taxes/ret_ISLR
+- [ ] BUBUQUI 📅 2024-11-11]⏫ #word/taxes/DGP
+- [ ] BUBUQUI 📅 2024-11-01⏫ #work/taxes/2da/OCT
+- [ ] BUBUQUI 📅 2024-11-19⏫ #work/taxes/1era/NOV
 
-- [ ] PRINCIPAL RET ISLR [due::2024-11-12]
-- [ ] PRINCIPAL DECLARACION GRANDES PATRIMONIOS [due::2024-11-12]
-- [ ] PRINCIPAL [due::2024-11-07] 2DA QUINCENA OCT
-- [ ] PRINCIPAL [due::2024-11-20] 1ERA QUINCENA NOV
+- [ ] PRINCIPAL 📅 2024-11-12⏫ #work/taxes/ret_ISLR
+- [ ] PRINCIPAL 📅 2024-11-12  #word/taxes/DGP
+- [ ] PRINCIPAL 📅 2024-11-07⏫ #work/taxes/2da/OCT
+- [ ] PRINCIPAL 📅 2024-11-20⏫ #work/taxes/1era/NOV
 
-- [ ] TUCANI RET ISLR [due::2024-11-12]
-- [ ] TUCANI DECLARACION GRANDES PATRIMONIOS [due::2024-11-12]
-- [ ] TUCANI [due::2024-11-12] 2DA QUINCENA OCT
-- [ ] TUCANI [due::2024-11-28] 1ERA QUINCENA NOV
+- [ ] TUCANI 📅 2024-11-12⏫ #work/taxes/ret_ISLR
+- [ ] TUCANI 📅 2024-11-12⏫  #word/taxes/DGP
+- [ ] TUCANI 📅 2024-11-12⏫ #work/taxes/2da/OCT
+- [ ] TUCANI 📅 2024-11-28⏫ #work/taxes/1era/NOV
 
-- [ ] TORRE RET ISLR [due::2024-11-15]
-- [ ] TORRE DECLARACION GRANDES PATRIMONIOS [due::2024-11-15]
-- [ ] TORRE [due::2024-11-08] 2DA QUINCENA OCT
-- [ ] TORRE [due::2024-11-25] 1ERA QUINCENA NOV
+- [ ] TORRE 📅 2024-11-15⏫ #work/taxes/ret_ISLR
+- [ ] TORRE 📅 2024-11-15⏫  #word/taxes/DGP
+- [ ] TORRE 📅 2024-11-08⏫ #work/taxes/2da/OCT
+- [ ] TORRE 📅 2024-11-25⏫ #work/taxes/1era/NOV
 
-- [ ] FLEMING RET ISLR [due::2024-11-14]
-- [ ] FLEMING DECLARACION GRANDES PATRIMONIOS [due::2024-11-14]
-- [ ] FLEMING [due::2024-11-06] 2DA QUINCENA OCT
-- [ ] FLEMING [due::2024-11-22] 1ERA QUINCENA NOV
+- [ ] FLEMING 📅 2024-11-14⏫ #work/taxes/ret_ISLR
+- [ ] FLEMING 📅 2024-11-14⏫  #word/taxes/DGP
+- [ ] FLEMING 📅 2024-11-06⏫ #work/taxes/2da/OCT
+- [ ] FLEMING 📅 2024-11-22⏫ #work/taxes/1era/NOV
 
 **DICIEMBRE**
-- [ ] BUBUQUI RET ISLR [due::2024-12-05]
-- [ ] BUBUQUI [due::2024-12-12] 2DA QUINCENA NOV
-- [ ] BUBUQUI [due::2024-12-20]  1ERA QUINCENA DIC
-- [ ] BUBUQUI ISLR [due::2024-12-20]
+- [ ] BUBUQUI 📅 2024-12-05⏫ #work/taxes/ret_ISLR
+- [ ] BUBUQUI 📅 2024-12-12⏫ #work/taxes/2da/NOV
+- [ ] BUBUQUI 📅 2024-12-20⏫ #work/taxes/1era/DIC
+- [ ] BUBUQUI 📅 2024-12-20⏫ #work/taxes/ISLR
 
-- [ ] PRINCIPAL RET ISLR [due::2024-12-10]
-- [ ] PRINCIPAL [due::2024-12-10] 2DA QUINCENA NOV
-- [ ] PRINCIPAL [due::2024-12-16] 1ERA QUINCENA DIC
-- [ ] PRINCIPAL ISLR [due::2024-12-18]
+- [ ] PRINCIPAL 📅 2024-12-10⏫ #work/taxes/ret_ISLR
+- [ ] PRINCIPAL 📅 2024-12-10⏫ #work/taxes/2da/NOV
+- [ ] PRINCIPAL 📅 2024-12-16⏫ #work/taxes/1era/DIC
+- [ ] PRINCIPAL 📅 2024-12-18 #work/taxes/ISLR
 
-- [ ] TUCANI RET ISLR [due::2024-12-10]
-- [ ] TUCANI [due::2024-12-02] 2DA QUINCENA NOV
-- [ ] TUCANI [due::2024-12-18] 1ERA QUINCENA DIC
+- [ ] TUCANI 📅 2024-12-10⏫ #work/taxes/ret_ISLR
+- [ ] TUCANI 📅 2024-12-02⏫ #work/taxes/2da/NOV
+- [ ] TUCANI 📅 2024-12-18⏫ #work/taxes/1era/DIC
 
-- [ ] TORRE RET ISLR [due::2024-12-09]
-- [ ] TORRE [due::2024-12-04] 2DA QUINCENA NOV
-- [ ] TORRE [due::2024-12-17] 1ERA QUINCENA DIC
+- [ ] TORRE 📅 2024-12-09⏫ #work/taxes/ret_ISLR
+- [ ] TORRE 📅 2024-12-04⏫ #work/taxes/2da/NOV
+- [ ] TORRE 📅 2024-12-17⏫ #work/taxes/1era/DIC
 
-- [ ] FLEMING RET ISLR [due::2024-12-13]
-- [ ] FLEMING [due::2024-12-06] 2DA QUINCENA NOV
-- [ ] FLEMING [due::2024-12-23] 1ERA QUINCENA DIC
+- [ ] FLEMING 📅 2024-12-13⏫ #work/taxes/ret_ISLR
+- [ ] FLEMING 📅 2024-12-06⏫ #work/taxes/2da/NOV
+- [ ] FLEMING 📅 2024-12-23⏫ #work/taxes/1era/DIC

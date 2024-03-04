@@ -7,7 +7,9 @@
     "MCL Wide Views",
     "cards",
     "MCL Gallery Cards",
-    "banner"
+    "banner",
+    "callouts",
+    "metadata-callouts"
   ],
   "nativeMenus": false
 }

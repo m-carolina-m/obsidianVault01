@@ -1,0 +1,44 @@
+.callout[data-callout="overdue"] {
+  --callout-color: 255, 215, 0;
+  --callout-icon: alarm-clock;
+}
+
+.callout[data-callout="due-today"] {
+  --callout-color: 12, 248, 161;
+  --callout-icon: check-square;
+}
+
+.callout[data-callout="coming-soon"] {
+  --callout-color: 37, 202, 227;
+  --callout-icon: timer;
+}
+
+.callout[data-callout="next-two-weeks"] {
+  --callout-color: 42, 165, 227;
+  --callout-icon: hourglass;
+}
+
+.callout[data-callout="later"] {
+  --callout-color: 127, 128, 222;
+  --callout-icon: calendar;
+}
+
+.callout[data-callout="no-date"] {
+  --callout-color: 163, 80, 250;
+  --callout-icon: calendar-off;
+}
+
+.callout[data-callout="recurring"] {
+  --callout-color: 216, 191, 216;
+  --callout-icon: repeat;
+}
+
+.callout[data-callout="personal"] {
+  --callout-color: 240, 240, 240;
+  --callout-icon: user;
+}
+
+.callout[data-callout="work"] {
+  --callout-color: 240, 240, 240;
+  --callout-icon: briefcase;
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK/Farmacias/Recurrent TASKS.md",
+                "file": "LIFE/Tasks/Recurrent TASKS.md",
                 "mode": "source",
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORK/Farmacias/Recurrent TASKS.md",
+                "file": "LIFE/Tasks/Recurrent TASKS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORK/Farmacias/Recurrent TASKS.md",
+                "file": "LIFE/Tasks/Recurrent TASKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,11 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORK/Farmacias/Recurrent TASKS.md"
+                "file": "LIFE/Tasks/Recurrent TASKS.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3073dfd4c6686ef1",
@@ -170,6 +171,7 @@
   },
   "active": "01dfafc434317d6f",
   "lastOpenFiles": [
+    "WORK/Farmacias/Recurrent TASKS.md",
     "_000 Home.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-05.md",
     "99-Settings/Templates/Daily Note Template.md",
@@ -195,7 +197,6 @@
     "01-Journal/02-Weekly/2024/2024-W09.md",
     "01-Journal/02-Weekly/2024",
     "LIFE/Tasks/Recurrent TASKS.md",
-    "WORK/Farmacias/Recurrent TASKS.md",
     "WORK/Farmacias/SENIAT.md",
     "SETTINGS",
     "01-Journal/01-Daily/2024/03-March",

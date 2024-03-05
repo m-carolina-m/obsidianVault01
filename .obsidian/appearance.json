@@ -11,5 +11,6 @@
     "callouts",
     "metadata-callouts"
   ],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 15
 }

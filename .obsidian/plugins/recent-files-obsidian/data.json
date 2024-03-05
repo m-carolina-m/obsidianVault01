@@ -5,6 +5,7 @@
       "path": "01-Journal/01-Daily/2024/03-March/2024-03-05.md"
     },
     {
+<<<<<<< HEAD
       "basename": "Daily Note Template",
       "path": "99-Settings/Templates/Daily Note Template.md"
     },
@@ -15,6 +16,10 @@
     {
       "basename": "2024-03-07",
       "path": "01-Journal/01-Daily/2024/03-March/2024-03-07.md"
+=======
+      "basename": "_000 ALL MOVIES CARDS",
+      "path": "LIFE/Movies/_000 ALL MOVIES CARDS.md"
+>>>>>>> 73f6a8f221706d2fa9f6ba841622b48020e24051
     },
     {
       "basename": "2024-03-06",

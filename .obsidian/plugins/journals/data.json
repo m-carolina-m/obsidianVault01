@@ -22,12 +22,21 @@
         "createOnStartup": false
       },
       "week": {
+<<<<<<< HEAD
         "enabled": true,
         "openMode": "active",
         "nameTemplate": "",
         "dateFormat": "YYYY/YYYY-[W]ww",
         "folder": "02-Weekly",
         "template": "99-Settings/Templates/Weekly Note Template.md",
+=======
+        "enabled": false,
+        "openMode": "active",
+        "nameTemplate": "",
+        "dateFormat": "",
+        "folder": "",
+        "template": "",
+>>>>>>> 73f6a8f221706d2fa9f6ba841622b48020e24051
         "ribbon": {
           "show": false,
           "icon": "",

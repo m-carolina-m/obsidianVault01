@@ -16,6 +16,9 @@
 - [ ] Pagar SAMAT 🔁 every month 🛫 2024-03-10 #work/taxes/SAMAT
 - [ ] Actualizar Carpeta de IVSS 🔁 every month 🛫 2024-03-05 #work/reports 
 - [ ] Actualizar la Cartelera 🔁 every month 🛫 2024-03-04 #work/reports 
+- [ ] Generar Planillas del IVSS y FAOV 🔁 every month 🛫 2024-03-05 #work/work_commitments
+- [ ] Pagar IVSS 🔁 every month 🛫 2024-03-05 #work/work_commitments
+- [ ] Pagar FAOV 🔁 every month 🛫 2024-03-05 #work/work_commitments
 
 - [ ] Programa de Seguridad #work/security
 - [ ] Rupdae Torre y Ppal #work/reports

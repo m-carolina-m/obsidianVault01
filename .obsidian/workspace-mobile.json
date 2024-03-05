@@ -127,6 +127,14 @@
           "type": "calendar",
           "state": {}
         }
+      },
+      {
+        "id": "0157299959f1cebc",
+        "type": "leaf",
+        "state": {
+          "type": "journal-calendar",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -138,8 +146,7 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "periodic-notes:Open today": false
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
   "active": "958d90ffcaaf5125",

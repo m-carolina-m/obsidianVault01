@@ -4,7 +4,7 @@ cssclasses:
 sleep-time: 10:30pm
 wake-up-time: 06:00am
 times-i-woke-up: 0
-rested: /10
+rested: 0-10
 exercise: 0
 arms: 0
 core: 0
@@ -13,6 +13,8 @@ glutes: 0
 weights: 0
 cardio: 0
 weight: 95
+water: 0-8
+mood: 0-5
 ---
 
 <%*

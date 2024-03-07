@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e92ca4d8b7c1a175",
+        "id": "bdcd575b1fcd911a",
         "type": "tabs",
         "children": [
           {
-            "id": "54b651fead2b0bed",
+            "id": "61ccdac0416fa8a1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54b651fead2b0bed",
+  "active": "61ccdac0416fa8a1",
   "lastOpenFiles": [
+    "DR Bayter Comer Para Sanar.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-07.md",
     "2024-03-06.md",
     "99-Settings/Templates/Weekly Note Template.md",
@@ -189,7 +190,6 @@
     "testing snippet image gallery.md",
     "01-Journal/02-Weekly/2024/2024-W09.md",
     "01-Journal/02-Weekly/2024",
-    "WORK/Farmacias/SENIAT.md",
     "SETTINGS",
     "01-Journal/01-Daily/2024/03-March",
     "01-Journal/01-Daily/2024",

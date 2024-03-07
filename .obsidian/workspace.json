@@ -11,8 +11,12 @@
             "id": "53fc0d717505a1dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01-Journal/01-Daily/2024/03-March/2024-03-07.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-Journal/01-Daily/2024/03-March/2024-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01-Journal/01-Daily/2024/03-March/2024-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01-Journal/01-Daily/2024/03-March/2024-03-07.md"
+              }
             }
           }
         ],
@@ -163,10 +171,10 @@
   },
   "active": "53fc0d717505a1dd",
   "lastOpenFiles": [
+    "2024-03-06.md",
     "99-Settings/Templates/Weekly Note Template.md",
     "99-Settings/Templates/Daily Note Template.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-07.md",
-    "01-Journal/01-Daily/2024/03-March/2024-03-06.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-05.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-04.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-03.md",

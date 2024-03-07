@@ -50,7 +50,7 @@ PAGOS PENDIENTES:
 - [ ] BUBUQUI 📅 2024-03-25⏫ #work/taxes/1era/MAR
 
 - [ ] PRINCIPAL 📅 2024-03-13⏫ #work/taxes/ret_ISLR
-- [ ] PRINCIPAL 📅 2024-03-06⏫ #work/taxes/2da/FEB
+- [x] PRINCIPAL #work/taxes/2da/FEB ⏫ 📅 2024-03-06 ✅ 2024-03-07
 - [ ] PRINCIPAL 📅 2024-03-21⏫ #work/taxes/1era/MAR
 
 - [ ] TUCANI 📅 2024-03-13⏫ #work/taxes/ret_ISLR

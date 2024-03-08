@@ -1,28 +1,3 @@
----
-cssclasses:
-  - wide-page
-aliases: the one where/when ....
-enjoyment: /10
-why: 
----
-
-```calendar-nav
-```
-
-
-## What is worth remembering about this week?
-
-## What did I accomplish this week?
-
-## What could I have done better this week?
-
-## What am I grateful for this week, and what am I thinking of?
-
-## What did I set to achieves this week?
-
-## What do I want to achieve next week?
-
-## Sweat Tracker
 ```tracker
 searchType: frontmatter
 searchTarget: exercise
@@ -55,10 +30,6 @@ summary:
 	template: "Longest Streak: {{maxStreak()}} day(s)\\nLongest Break: {{maxBreaks()}} day(s) \\nLast Streak: {{currentStreak()}} day(s)"
 ```
 
-startDate: 2024-02-26
-endDate: 2024-03-03
-
-## Weight
 
 ## Water
 ```tracker
@@ -103,4 +74,31 @@ line:
 	yAxisLabel: Weight, "Mood (0 Bad-5 Great)"
 	showLegend: True
 	
+```
+
+
+```tracker
+searchType: frontmatter
+searchTarget: exercise
+folder: 01-Journal/01-Daily
+datasetName: Exercise
+month:
+	startWeekOn: 'Mon'
+	color: steelblue
+```
+
+```tracker
+searchType: frontmatter
+searchTarget: exercise
+folder: 01-Journal/01-Daily
+datasetName: Exercise
+summary:
+	template: "Longest Streak: {{maxStreak()}} day(s)\\nLongest Break: {{maxBreaks()}} day(s) \\nLast Streak: {{currentStreak()}} day(s)"
+```
+
+
+## My Weeks in Color
+```dataview
+table aliases, enjoyment, why
+from "01-Journal/02-Weekly"
 ```

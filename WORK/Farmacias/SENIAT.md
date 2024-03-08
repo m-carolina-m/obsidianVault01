@@ -45,8 +45,8 @@ PAGOS PENDIENTES:
 - [x] FLEMING 📅 2024-02-27⏫ #work/taxes/1era/FEB
 
 **MARZO**
-- [ ] BUBUQUI 📅 2024-03-08⏫ #work/taxes/ret_ISLR
-- [ ] BUBUQUI 📅 2024-03-08⏫ #work/taxes/2da/FEB
+- [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-03-08 ✅ 2024-03-08
+- [x] BUBUQUI #work/taxes/2da/FEB ⏫ 📅 2024-03-08 ✅ 2024-03-08
 - [ ] BUBUQUI 📅 2024-03-25⏫ #work/taxes/1era/MAR
 
 - [ ] PRINCIPAL 📅 2024-03-13⏫ #work/taxes/ret_ISLR
@@ -59,7 +59,7 @@ PAGOS PENDIENTES:
 
 - [x] TORRE #work/taxes/ISLR ⏫ 📅 2024-03-04 ✅ 2024-03-04
 - [ ] TORRE 📅 2024-03-14⏫ #work/taxes/ret_ISLR
-- [ ] TORRE #work/taxes/2da/FEB ⏫ 📅 2024-03-07
+- [x] TORRE #work/taxes/2da/FEB ⏫ 📅 2024-03-07 ✅ 2024-03-08
 - [ ] TORRE 📅 2024-03-26⏫ #work/taxes/1era/MAR
 
 - [ ] FLEMING 📅 2024-03-12 #work/taxes/ISLR

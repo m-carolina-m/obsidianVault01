@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c320e85ac8ee7a2",
+        "id": "2b543606042c06e4",
         "type": "tabs",
         "children": [
           {
-            "id": "958d90ffcaaf5125",
+            "id": "c02cd2f6e121bd25",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -149,8 +149,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "958d90ffcaaf5125",
+  "active": "c02cd2f6e121bd25",
   "lastOpenFiles": [
+    "LIFE/Movies/_000 2024 Watched Movies.md",
+    "LIFE/Movies/Nyad (2023).md",
     "Callouts.md",
     "Daily/2024/02-February/2024-02-04-Sunday.md",
     "Daily/2024/02-February/2024-02-03-Saturday.md",
@@ -176,8 +178,6 @@
     "LIFE/Series/Daughter from Another Mother (2021-2022).md",
     "LIFE/Series/The War Next-door (2021).md",
     "LIFE/Series/30 Coins (2020-).md",
-    "2024-02-05-Monday.md",
-    "LIFE/Movies/Black Bread (2010).md",
     "LIFE/movies",
     "helper.py"
   ]

@@ -33,3 +33,12 @@ datasetName: Exercise
 summary:
 	template: "Longest Streak: {{maxStreak()}} day(s)\\nLongest Break: {{maxBreaks()}} day(s) \\nLast Streak: {{currentStreak()}} day(s)"
 ```
+
+
+Dates | Day |  higlight |  3 habits (Sleep hours, exercise, water)
+
+Books Read
+
+Movies Watched
+
+Series Watched

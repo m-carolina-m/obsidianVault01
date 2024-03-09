@@ -18,3 +18,17 @@ from "01-Journal/02-Weekly"
 3.
 
 ## Yearly Gratitud
+
+
+
+
+Dates | month |  higlight |  3 habits (Sleep hours, exercise, water)
+
+Books Read how many
+link to the year note
+
+Movies Watched how many
+link to the year note
+
+Series Watched how many
+link to the year note

@@ -39,7 +39,7 @@ mood: 0-5
 - 
 
 **Daily affirmations**
--
+affirmations:: 
 
 **Taks for the Day**
 - [ ]
@@ -95,7 +95,7 @@ mood: 0-5
 **TASKS for Tomorrow**
 - [ ]
 
-
+Highlights::
 
 ## Today's Notes
 > [!note]+ On This Day

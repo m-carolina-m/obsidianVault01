@@ -89,7 +89,8 @@ line:
 	lineColor: "#d65d0e"
 ```
 
-Combined:
+
+## Combined:
 
 ```tracker
 searchType: frontmatter
@@ -104,3 +105,15 @@ line:
 	showLegend: True
 	
 ```
+
+## Sleep tracker 
+Bar graph y axis de time vs x axis day 
+
+-------
+Dates | Day |  higlight |  3 habits (Sleep hours, exercise, water)
+
+Books Read
+
+Movies Watched
+
+Series Watched

@@ -1,3 +1,4 @@
+Calendar View
 ```tracker
 searchType: frontmatter
 searchTarget: exercise
@@ -8,6 +9,9 @@ month:
 	color: steelblue
 ```
 
+searchType can be dvField for a tag inside de text of the note 
+
+Calendar View with zoom and annotation 
 ```tracker
 searchType: frontmatter
 searchTarget: exercise
@@ -30,6 +34,10 @@ summary:
 	template: "Longest Streak: {{maxStreak()}} day(s)\\nLongest Break: {{maxBreaks()}} day(s) \\nLast Streak: {{currentStreak()}} day(s)"
 ```
 
+threshold: 7 
+circleColorByValue: true
+todayRingColor: white
+selectedRingColor: steelblue
 
 ## Water
 ```tracker
@@ -101,4 +109,13 @@ summary:
 ```dataview
 table aliases, enjoyment, why
 from "01-Journal/02-Weekly"
+```
+
+
+TOTAL
+```tracker
+searchType: task.done, task.all
+searchTarget: work, work
+summary:
+	template: "tasks - {{sum(dataset(0))/sum(dataset(1))*100}}% - {{sum(dataset(0))}}/{{sum(dataset(1))}} Days Completed"
 ```

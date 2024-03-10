@@ -9,20 +9,20 @@ rested: 0-10
 exercise: 0
 arms: 0
 core: 0
-legs: 0
+legs: 0 
 glutes: 0
 weights: 0
 cardio: 0
 weight: 95
 water: 0-8
 mood: 0-5
-journal: Life
-journal-start-date: 2024-03-08
-journal-end-date: 2024-03-08
-journal-section: day
 ---
 
-
+<%*
+  let today     = tp.date.now("YYYY-MM-DD",  0, tp.file.title, "YYYY-MM-DD")
+  let tomorrow  = tp.date.now("YYYY-MM-DD",  1, tp.file.title, "YYYY-MM-DD")
+  let soon      = tp.date.now("YYYY-MM-DD",  4, tp.file.title, "YYYY-MM-DD")
+%>
 
 
 ```calendar-nav
@@ -47,37 +47,37 @@ affirmations::
 
 ## [[Tasks Dashboard | Tasks]]
 >[!multi-column]
-> >[!Over Due]+ Due before 2024-03-08
+> >[!Over Due]+ Due before <% today %>
 >> ```tasks
 >> not done
->> due before 2024-03-08
+>> due before <% today %>
 >> hide tags
 >> hide task count 
 >> group by function task.tags
 >> ```
 > 
->>[!Due Today|purple]+ Due 2024-03-08
+>>[!Due Today|purple]+ Due <% today %>
 >> ```tasks
 >> not done
->> due on 2024-03-08
+>> due on <% today %>
 >> hide tags
 >> hide task count 
 >> group by function task.tags
 >> ```
 > 
->> [!coming-soon]+ Due soon after 2024-03-08
+>> [!coming-soon]+ Due soon after <% today %>
 >>```tasks
 >> not done
->> due after 2024-03-08
->> due before 2024-03-12
+>> due after <% today %>
+>> due before <% soon %>
 >> hide tags
 >> hide task count
 >> group by function task.tags
 >> ```
 
-> [!success]+ Completed 2024-03-08
+> [!success]+ Completed <% today %>
 > ```tasks
-> done 2024-03-08
+> done <% today %>
 > hide task count
 > hide tags
 > short mode
@@ -102,31 +102,31 @@ Highlights::
 > ```dataview
 > TABLE dateformat(journal-start-date, "yyyy-MM-dd") AS "Created"
 > FROM "01-Journal/01-Daily"
-> WHERE journal-start-date = date(2024-03-08) - dur(12 months) OR
-> journal-start-date = date(2024-03-08) - dur(24 months) OR
-> journal-start-date =  date(2024-03-08) - dur(36 months) OR
-> journal-start-date =  date(2024-03-08) - dur(48 months)
+> WHERE journal-start-date = date(<% today %>) - dur(12 months) OR
+> journal-start-date = date(<% today %>) - dur(24 months) OR
+> journal-start-date =  date(<% today %>) - dur(36 months) OR
+> journal-start-date =  date(<% today %>) - dur(48 months)
 > SORT journal-start-date DESC
 > ```
 
-> [!warning]+ Files Created (2024-03-08)
+> [!warning]+ Files Created (<% today %>)
 >  ```dataview
 >  table without id
 >  file.link as Note,
 >  file.folder as Folder,
 >  file.ctime as "Created"
 >  FROM ""
->  where file.ctime >= date(2024-03-08) AND file.ctime <= date(2024-03-09) AND file.path != this.file.path
+>  where file.ctime >= date(<% today %>) AND file.ctime <= date(<% tomorrow %>) AND file.path != this.file.path
 >  sort file.ctime desc
 >   ```
 
-> [!summary]+  Files Modified (2024-03-08)
+> [!summary]+  Files Modified (<% today %>)
 >  ```dataview
 > table without id
 > file.link as Note,
 > file.folder as Folder,
 > file.mtime as "Last Modified"
 > FROM ""
-> where file.mtime >= date(2024-03-08) AND file.mtime <= date(2024-03-09) AND file.path != this.file.path
+> where file.mtime >= date(<% today %>) AND file.mtime <= date(<% tomorrow %>) AND file.path != this.file.path
 > sort file.mtime desc
 >  ```

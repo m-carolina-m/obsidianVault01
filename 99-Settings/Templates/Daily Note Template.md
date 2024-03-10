@@ -16,6 +16,7 @@ cardio: 0
 weight: 95
 water: 0-8
 mood: 0-5
+why:
 ---
 
 <%*
@@ -99,18 +100,15 @@ Highlights::
 
 ## Today's Notes
 > [!note]+ On This Day
->  ```dataview
-> List 
->  From "01-Journal/01-Daily"
-> Where file.ctime >= date(<% today %>) AND file.ctime <= date(<% tomorrow %>)
->  ```
-
-Prueba
-```dataview
-LIST
-FROM "01-Journal/Daily"
-WHERE dateformat(file.day, "MM-dd") = dateformat(this.file.day, "MM-dd")
-```
+> ```dataview
+> TABLE dateformat(journal-start-date, "yyyy-MM-dd") AS "Created"
+> FROM "01-Journal/01-Daily"
+> WHERE journal-start-date = date(<% today %>) - dur(12 months) OR
+> journal-start-date = date(<% today %>) - dur(24 months) OR
+> journal-start-date =  date(<% today %>) - dur(36 months) OR
+> journal-start-date =  date(<% today %>) - dur(48 months)
+> SORT journal-start-date DESC
+> ```
 
 > [!warning]+ Files Created (<% today %>)
 >  ```dataview

@@ -5,6 +5,9 @@ aliases: the one where/when ....
 enjoyment: /10
 why: 
 ---
+<%*
+  let weeknumber = tp.file.title.slice(6,8)
+%>
 
 ```calendar-nav
 ```
@@ -117,3 +120,12 @@ Books Read
 Movies Watched
 
 Series Watched
+
+
+## This Week Notes
+```dataview
+TABLE fileWeek 
+FROM "01-Journal/01-Daily" 
+WHERE fileWeek > journal-start-date AND
+filewwek < journal-end-date
+```

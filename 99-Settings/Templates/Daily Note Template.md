@@ -45,6 +45,11 @@ affirmations::
 **Taks for the Day**
 - [ ]
 
+```dataview
+TASK FROM "01-Journal" 
+WHERE !completed AND !checked 
+SORT file.name asc
+```
 
 ## [[Tasks Dashboard | Tasks]]
 >[!multi-column]

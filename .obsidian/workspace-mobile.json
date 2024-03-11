@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b543606042c06e4",
+        "id": "df5689f4cefc7826",
         "type": "tabs",
         "children": [
           {
-            "id": "c02cd2f6e121bd25",
+            "id": "43a150c28c1ff05f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -141,6 +141,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "journals:Open today's note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -149,8 +150,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c02cd2f6e121bd25",
+  "active": "43a150c28c1ff05f",
   "lastOpenFiles": [
+    "01-Journal/01-Daily/2024/03-March/2024-03-11.md",
     "LIFE/Movies/_000 2024 Watched Movies.md",
     "LIFE/Movies/Nyad (2023).md",
     "Callouts.md",
@@ -177,7 +179,6 @@
     "LIFE/Series/_000 Currently Watching.md",
     "LIFE/Series/Daughter from Another Mother (2021-2022).md",
     "LIFE/Series/The War Next-door (2021).md",
-    "LIFE/Series/30 Coins (2020-).md",
     "LIFE/movies",
     "helper.py"
   ]

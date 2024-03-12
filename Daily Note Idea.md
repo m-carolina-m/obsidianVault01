@@ -1,4 +1,8 @@
-
+```dataview
+TASK FROM "01-Journal" 
+WHERE !completed AND !checked 
+SORT file.name asc
+```
 ## On This Day...
 
 ```dataview

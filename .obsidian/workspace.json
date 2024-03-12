@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f4cc49f0f768dbe7",
+        "id": "7a2033d78488cdf0",
         "type": "tabs",
         "children": [
           {
-            "id": "08ad61bbfdcd448e",
+            "id": "2093f986a0dfe2df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-08.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-08.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,17 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08ad61bbfdcd448e",
+  "active": "2093f986a0dfe2df",
   "lastOpenFiles": [
-    "01-Journal/01-Daily/2024/03-March/2024-03-11.md",
+    "LIFE/Movies/The Power of the Dog (2021).md",
+    "01-Journal/01-Daily/2024/03-March/2024-03-12.md",
+    "Daily Note Idea.md",
+    "99-Settings/Templates/Daily Note Template.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-08.md",
+    "01-Journal/01-Daily/2024/03-March/2024-03-11.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-05.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-04.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-03.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-02.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-01.md",
-    "01-Journal/01-Daily/2024/03-March/2024-03-12.md",
-    "99-Settings/Templates/Daily Note Template.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-09.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-10.md",
     "LIFE/Movies/_000 2024 Watched Movies.md",
@@ -196,8 +190,6 @@
     "Weekly Notes Ideas.md",
     "01-Journal/02-Weekly/2023/2023-W11.md",
     "99-Settings/Templates/Weekly Note Template.md",
-    "01-Journal/02-Weekly/2023/2023-W09.md",
-    "01-Journal/02-Weekly/2023/2023-W10.md",
     "01-Journal/02-Weekly/2023",
     "01-Journal/02-Weekly/2022",
     "01-Journal/01-Daily/2022/03-March",

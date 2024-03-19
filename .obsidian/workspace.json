@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2033d78488cdf0",
+        "id": "b28f4a2ee731e690",
         "type": "tabs",
         "children": [
           {
-            "id": "2093f986a0dfe2df",
+            "id": "2305923fce3249a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LIFE/Series/_000 All Times Favorite Series.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LIFE/Series/_000 All Times Favorite Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LIFE/Series/_000 All Times Favorite Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LIFE/Series/_000 All Times Favorite Series.md"
+              }
             }
           }
         ],
@@ -162,8 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2093f986a0dfe2df",
+  "active": "2305923fce3249a3",
   "lastOpenFiles": [
+    "LIFE/Series/_000 Currently Watching.md",
+    "LIFE/Series/The War Next-door (2021).md",
+    "01-Journal/01-Daily/2024/03-March/2024-03-19.md",
+    "LIFE/Series/Crash Landing on You (2019).md",
     "LIFE/Movies/The Power of the Dog (2021).md",
     "01-Journal/01-Daily/2024/03-March/2024-03-12.md",
     "Daily Note Idea.md",
@@ -186,10 +198,6 @@
     "LIFE/Movies/The Swan (2023).md",
     "LIFE/Movies/The Bridge on the River Kwai (1957).md",
     "LIFE/Movies/Spaceman (2024).md",
-    "LIFE/Movies/Maestro (2023)1.md",
-    "Weekly Notes Ideas.md",
-    "01-Journal/02-Weekly/2023/2023-W11.md",
-    "99-Settings/Templates/Weekly Note Template.md",
     "01-Journal/02-Weekly/2023",
     "01-Journal/02-Weekly/2022",
     "01-Journal/01-Daily/2022/03-March",

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "081da22f953d0c8a",
+        "id": "c1e2a90d184e617b",
         "type": "tabs",
         "children": [
           {
-            "id": "c45029d232b09435",
+            "id": "dec66c16b50ac257",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-21.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-21.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,15 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c45029d232b09435",
+  "active": "dec66c16b50ac257",
   "lastOpenFiles": [
+    "LIFE/Series/Crash Landing on You (2019).md",
+    "01-Journal/01-Daily/2024/03-March/2024-03-22.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-21.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-20.md",
     "LIFE/Series/_000 All Times Favorite Series.md",
     "LIFE/Series/_000 Currently Watching.md",
     "LIFE/Series/The War Next-door (2021).md",
     "01-Journal/01-Daily/2024/03-March/2024-03-19.md",
-    "LIFE/Series/Crash Landing on You (2019).md",
     "LIFE/Movies/The Power of the Dog (2021).md",
     "01-Journal/01-Daily/2024/03-March/2024-03-12.md",
     "Daily Note Idea.md",
@@ -197,7 +190,6 @@
     "LIFE/Movies/_000 To Watch Movie List.md",
     "LIFE/Movies/Killers of the Flower Moon (2023).md",
     "LIFE/Movies/Poison (2023).md",
-    "LIFE/Movies/The Rat Catcher (2023).md",
     "01-Journal/02-Weekly/2023",
     "01-Journal/02-Weekly/2022",
     "01-Journal/01-Daily/2022/03-March",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1e2a90d184e617b",
+        "id": "bd858f383f5d2403",
         "type": "tabs",
         "children": [
           {
-            "id": "dec66c16b50ac257",
+            "id": "d61126a1a81572c4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,20 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dec66c16b50ac257",
+  "active": "d61126a1a81572c4",
   "lastOpenFiles": [
+    "99-Settings/Templates/Daily Note Template.md",
+    "01-Journal/01-Daily/2024/03-March/2024-03-25.md",
+    "LIFE/Series/_000 Currently Watching.md",
     "LIFE/Series/Crash Landing on You (2019).md",
     "01-Journal/01-Daily/2024/03-March/2024-03-22.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-21.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-20.md",
     "LIFE/Series/_000 All Times Favorite Series.md",
-    "LIFE/Series/_000 Currently Watching.md",
     "LIFE/Series/The War Next-door (2021).md",
     "01-Journal/01-Daily/2024/03-March/2024-03-19.md",
     "LIFE/Movies/The Power of the Dog (2021).md",
     "01-Journal/01-Daily/2024/03-March/2024-03-12.md",
     "Daily Note Idea.md",
-    "99-Settings/Templates/Daily Note Template.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-08.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-11.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-05.md",
@@ -189,7 +190,6 @@
     "LIFE/Movies/Maestro (2023).md",
     "LIFE/Movies/_000 To Watch Movie List.md",
     "LIFE/Movies/Killers of the Flower Moon (2023).md",
-    "LIFE/Movies/Poison (2023).md",
     "01-Journal/02-Weekly/2023",
     "01-Journal/02-Weekly/2022",
     "01-Journal/01-Daily/2022/03-March",

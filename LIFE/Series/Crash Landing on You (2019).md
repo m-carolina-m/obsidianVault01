@@ -13,9 +13,9 @@ episodes: 16
 language: Korean
 aka: 
 genre: Adventure, Comedy, Romance
-mycurrentepisode: 01x04
-lastwatched: 2024-03-22
-myrating: 0
+mycurrentepisode: 01x09
+lastwatched: 2024-03-25
+myrating: 9
 location: Netflix
 type: serie
 status: in progress

@@ -11,8 +11,12 @@
             "id": "d61126a1a81572c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01-Journal/01-Daily/2024/03-March/2024-03-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-Journal/01-Daily/2024/03-March/2024-03-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01-Journal/01-Daily/2024/03-March/2024-03-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01-Journal/01-Daily/2024/03-March/2024-03-26.md"
+              }
             }
           }
         ],
@@ -164,6 +172,7 @@
   },
   "active": "d61126a1a81572c4",
   "lastOpenFiles": [
+    "01-Journal/01-Daily/2024/03-March/2024-03-26.md",
     "99-Settings/Templates/Daily Note Template.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-25.md",
     "LIFE/Series/_000 Currently Watching.md",
@@ -189,7 +198,6 @@
     "LIFE/Movies/_000 2024 Watched Movies.md",
     "LIFE/Movies/Maestro (2023).md",
     "LIFE/Movies/_000 To Watch Movie List.md",
-    "LIFE/Movies/Killers of the Flower Moon (2023).md",
     "01-Journal/02-Weekly/2023",
     "01-Journal/02-Weekly/2022",
     "01-Journal/01-Daily/2022/03-March",

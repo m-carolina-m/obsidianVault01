@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-26.md",
+                "file": "LIFE/Superación Personal/Eneagrama.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f8fdcbd54dd90f14",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-26.md",
+                "file": "LIFE/Superación Personal/Eneagrama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-26.md",
+                "file": "LIFE/Superación Personal/Eneagrama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Journal/01-Daily/2024/03-March/2024-03-26.md"
+                "file": "LIFE/Superación Personal/Eneagrama.md"
               }
             }
           }
@@ -157,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +174,10 @@
   },
   "active": "d61126a1a81572c4",
   "lastOpenFiles": [
+    "01-Journal/01-Daily/2022/03-March/2022-03-10.md",
+    "LIFE/Superación Personal/Eneagrama.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-26.md",
+    "LIFE/Superación Personal",
     "99-Settings/Templates/Daily Note Template.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-25.md",
     "LIFE/Series/_000 Currently Watching.md",
@@ -196,8 +201,6 @@
     "01-Journal/01-Daily/2024/03-March/2024-03-09.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-10.md",
     "LIFE/Movies/_000 2024 Watched Movies.md",
-    "LIFE/Movies/Maestro (2023).md",
-    "LIFE/Movies/_000 To Watch Movie List.md",
     "01-Journal/02-Weekly/2023",
     "01-Journal/02-Weekly/2022",
     "01-Journal/01-Daily/2022/03-March",
@@ -206,7 +209,6 @@
     "01-Journal/01-Daily/2023",
     "01-Journal/01-Daily/2020/03-March",
     "01-Journal/01-Daily/2020",
-    "01-Journal/01-Daily/2021/03-March",
-    "01-Journal/01-Daily/2021"
+    "01-Journal/01-Daily/2021/03-March"
   ]
 }

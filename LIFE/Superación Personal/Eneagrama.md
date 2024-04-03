@@ -16,13 +16,13 @@ https://www.youtube.com/@borjavilaseca/videos
 ## Enegrama
 
 ### Eneatipos
-Eneatipo 1: El que quiere ser perfecto
-Herida=Sentirse imperfecto (insuficiencia) y reprimir su parte instintiva.
+**Eneatipo 1 El que quiere ser perfecto**
+**Herida** Sentirse imperfecto (insuficiencia) y reprimir su parte instintiva.
 La herida de esta personalidad radica en la no aceptación de sí mismo. Se percibe como alguien imperfecto y crea un ideal sobre cómo debería ser. Al no poder cumplir su propia expectativa de perfección se critica, juzga y exige, a sí mismo y a los demás.
-Vicio/Pasión (tendencia emocional): La ira 
-Fijación (pauta fija de pensamiento): La perfección (corrección).
-Mecanismo de defensa: Actitud reactiva + Insatisfacción
-Virtud: Serenidad
+**Vicio/Pasión** (tendencia emocional): La ira 
+**Fijación (pauta fija de pensamiento)** La perfección (corrección).
+**Mecanismo de defensa** Actitud reactiva + Insatisfacción
+**Virtud** Serenidad
 https://www.youtube.com/watch?v=Ksv4l4mOeK4
 
 Eneatipo 2: El que necesita amor

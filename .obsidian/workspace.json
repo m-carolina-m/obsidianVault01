@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "824c811d407c8480",
+        "id": "e61de947d8a7d1b5",
         "type": "tabs",
         "children": [
           {
-            "id": "8d36773d35b08151",
+            "id": "2944694f00216e2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f8fdcbd54dd90f14",
@@ -172,14 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d36773d35b08151",
+  "active": "2944694f00216e2c",
   "lastOpenFiles": [
+    "01-Journal/01-Daily/2024/04-April/2024-04-03.md",
+    "LIFE/Superación Personal/Eneagrama.md",
+    "01-Journal/01-Daily/2024/04-April",
     "Pasted image 20240327130239.png",
     "Pasted image 20240327125009.png",
     "Pasted image 20240327124242.png",
     "Pasted image 20240327123518.png",
     "01-Journal/01-Daily/2024/03-March/2024-03-27.md",
-    "LIFE/Superación Personal/Eneagrama.md",
     "01-Journal/01-Daily/2022/03-March/2022-03-10.md",
     "01-Journal/01-Daily/2024/03-March/2024-03-26.md",
     "LIFE/Superación Personal",
@@ -211,7 +212,6 @@
     "01-Journal/01-Daily/2023/03-March",
     "01-Journal/01-Daily/2023",
     "01-Journal/01-Daily/2020/03-March",
-    "01-Journal/01-Daily/2020",
-    "01-Journal/01-Daily/2021/03-March"
+    "01-Journal/01-Daily/2020"
   ]
 }

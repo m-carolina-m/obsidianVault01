@@ -69,7 +69,7 @@ PAGOS PENDIENTES:
 
 **ABRIL**
 - [ ] BUBUQUI 📅 2024-04-08⏫ #work/taxes/ret_ISLR
-- [ ] BUBUQUI 📅 2024-04-02⏫ #work/taxes/2da/MAR
+- [x] BUBUQUI #work/taxes/2da/MAR ⏫ 📅 2024-04-02 ✅ 2024-04-03
 - [ ] BUBUQUI 📅 2024-04-17⏫ #work/taxes/1era/ABR
 
 - [ ] PRINCIPAL 📅 2024-04-09⏫ #work/taxes/ret_ISLR

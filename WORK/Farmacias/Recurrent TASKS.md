@@ -1,7 +1,7 @@
  - [ ] Hacer la nomina y cesta tickets 🔁 every month 🛫 2024-03-28 #work/work_commitments 
  - [ ] Pagar Droguerías 🔁 every weekday 🛫 2024-03-04 #work/payment
 - [ ] Revisar Estatus Saren 🔁 every weekday 🛫 2024-03-04 #work/documents 
-- [ ] Revisar Fonacit 🔁 every weekday 🛫 2024-03-04 📅 2024-03-31 #work/taxes/FONACIT 
+- [ ] Revisar Fonacit #work/taxes/FONACIT 🔁 every weekday 🛫 2024-03-05 📅 2024-04-01
 - [ ] Libros de Compra, Venta e IGTF 🔁 every month 🛫 2024-03-16 #work/accounting
 - [ ] Libros de Compra, Venta e IGTF 🔁 every month 🛫 end of next month #work/accounting
 - [ ] Hacer Pedido Mafarta 🔁 every week on Monday 🛫 2024-03-04 #work/procurement 

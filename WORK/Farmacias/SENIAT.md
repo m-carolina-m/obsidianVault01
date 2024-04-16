@@ -73,12 +73,12 @@ PAGOS PENDIENTES:
 - [ ] BUBUQUI 📅 2024-04-17⏫ #work/taxes/1era/ABR
 
 - [x] PRINCIPAL #work/taxes/ret_ISLR ⏫ 📅 2024-04-09 ✅ 2024-04-10
-- [ ] PRINCIPAL 📅 2024-04-15⏫ #work/taxes/2da/MAR
+- [x] PRINCIPAL #work/taxes/2da/MAR ⏫ 📅 2024-04-15 ✅ 2024-04-16
 - [ ] PRINCIPAL 📅 2024-04-18⏫ #work/taxes/1era/ABR
 
 - [x] TUCANI #work/taxes/ret_ISLR ⏫ 📅 2024-04-09 ✅ 2024-04-09
 - [x] TUCANI #work/taxes/2da/MAR ⏫ 📅 2024-04-09 ✅ 2024-04-09
-- [ ] TUCANI 📅 2024-04-16⏫ #work/taxes/1era/ABR
+- [x] TUCANI #work/taxes/1era/ABR ⏫ 📅 2024-04-16 ✅ 2024-04-16
 
 - [x] TORRE #work/taxes/ret_ISLR ⏫ 📅 2024-04-10 ✅ 2024-04-09
 - [x] TORRE #work/taxes/2da/MAR ⏫ 📅 2024-04-10 ✅ 2024-04-09

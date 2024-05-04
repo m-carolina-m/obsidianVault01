@@ -7,7 +7,7 @@ cssclasses:
 | ---- | ---- | ---- |
 | PARIS/BLANCO/WHITE BUTTON | AGARICUS BISPORUS | 0.240 |
 | PORTOBELLO | AGARICUS BRUNNESCEN | 0.319 |
-| CREMINI |  | 0.428 |
+| CRIMINI |  | 0.428 |
 | SHITAKE | LENTINULA EDODES | 0.680 |
 | OSTRA/OYSTER | PLEUROTUS OSTREAUTUS | 0.935 |
 | KING OYSTER | PLEUROTUS ERYNGII |  |
@@ -25,16 +25,16 @@ cssclasses:
 
 ### COMPOSTAJE
 Tiempo aproximado= 2-3 semanas
-
+**Concentración de CO<sub>2</sub> recomendado=** 12000-15000ppm 
 Se elimina si se compran bolsas de compost preparados
 
 ### INCUBACION
-**Tiempo aproximado=** 21 días (3 semanas)
+**Tiempo aproximado=** 15-24 días (3 semanas)
 **Temperatura recomendada=** 23 ± 1 º C
-**Humedad relativa recomendada=**
-**Concentración de CO<sub>2</sub> recomendado=** 12000-15000ppm
+**Humedad relativa recomendada=** 90%
+**Concentración de CO<sub>2</sub> recomendado=** 5000-10000ppm
 
-El proceso de Incubación puede tomar hasta 4 semanas dependiendo de las condiciones. El proceso culmina cuando el micelio haya cubierto completamente el sustrato. Deben aparecer unos filamentos blancos similares a una telaraña. A medida que avanza la incubacion el compostaje ira cambiando de color y tornandose mas claro.
+El proceso de Incubación puede tomar hasta 4 semanas dependiendo de las condiciones. El proceso debe llevarse a cabo en oscuridad. Temperaturas pueden estar entre 21-26º C (optimo 23º C).  El proceso culmina cuando el micelio haya cubierto completamente el sustrato. Deben aparecer unos filamentos blancos similares a una telaraña. A medida que avanza la incubacion el compostaje ira cambiando de color y tornandose mas claro.
 
 
 ![[Pasted image 20240504144838.png]]
@@ -45,7 +45,9 @@ El proceso de Incubación puede tomar hasta 4 semanas dependiendo de las condici
 **HR=** 95 %
 **CO<sub>2</sub>=** >7500 ppm
 
+Debe contener turba, Corteza de pino, fibra de coco, restos post cultivo, debe agregarse para hacer una capa de aproximadamente 4 cm de espesor. pH alrededor de 7-7.5. Su misión es mantener la humedad, proveer espacio para algunos microorganismos y permitir la aireación. Debe estar pasteurizada 5-6 horas a temperatura de 60-65 º C. Las bolsas se deberán dejar cerradas pero seguir evaluando la humedad. La etapa culmina con la aparición de primordios (primeros filamentos de hongos).
 
+![[Pasted image 20240504150818.png]]
 
 
 ### RAYADO
@@ -54,14 +56,19 @@ El proceso de Incubación puede tomar hasta 4 semanas dependiendo de las condici
 **HR=** 85 %
 **CO<sub>2</sub>=** 800-1000ppm (6 cambios de aire 10-15 min/día)
 
+Comienza la etapa mas delicada, se deben bajar las temperaturas, abrir las bolsas y limpiarlas, a partir de aqui se dejaran abiertas y comenzara el riesgo por nebulización o aspersion.
+
 ![[Pasted image 20240504141920.png]]
 ### FRUCTIFICACION
 **Tiempo aprox=** 21 días (3 semanas)
-**T=** 16 ± 1 º C
-**HR=** 75-80 %
-**CO<sub>2</sub>=** 500-800ppm
+**T=** 18 ± 1 º C
+**HR=** 75-85 %
+**CO<sub>2</sub>=** 500-800ppm (<1000ppm)
+Eficiencia Biologica: 25-80%
 
-Los champiñones saldrán en grupos en serie de oleadas de floraciones cada 1 o 2 semanas. El sustrato se agotará después de 5 o 6 floraciones. El sustrato agotado se puede utilizar como futura tierra de cobertura. El champiñon se deberá recolectar cuando el sombrero alcance un tamaño de aprox 5 cm y justo antes de que el anillo debajo del sombrero se rompa.
+Los champiñones saldrán en grupos en serie de oleadas de floraciones (1 semana de latencia). La temperatura puede subir un poco 16-20 º C Se deben hacer riegos breves y más continuos para evitar acumulación y filtración. Si al final de cada semana hay champiñones que no han alcanzado su tamaño igual retirarlos pues no van a crecer. El sustrato se agotará después de 5 o 6 floraciones. El sustrato agotado se puede utilizar como futura tierra de cobertura. El champiñon se deberá recolectar cuando el sombrero alcance un tamaño de aprox 5 cm y justo antes de que el anillo debajo del sombrero se rompa.
+
+EB=PFH/PSS= peso fresco hongo/peso sustrato seco=4Kg/10Kg 
 
 ![[Pasted image 20240504141943.png]]
 
@@ -90,6 +97,7 @@ Las plagas más conocidas son ciertos ácaros, algunos nematodos y varios insect
 - **Escarabajos:** producen pequeños orificios ovales sobre el sombrero
 - **Nemátodos:** destruyen el micelio del hongo
 
+Se suelen poner trampas atrapa moscas 
 ## ENFERMEDADES
 Las enfermedades mas comunes son:
 - **Mancha bacteriana o "Gota":** provoca manchas amarillentas en el sombrero, de aspecto pegajoso y en formas de gotitas

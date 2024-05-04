@@ -3,16 +3,17 @@ cssclasses:
   - wide-page
 ---
 ## VARIEDADES DE CHAMPIÑONES
-| NOMBRE COMUN | NOMBRE CIENTIFICO |ACIDO GLUTAMICO |
+| NOMBRE COMUN | NOMBRE CIENTIFICO | ACIDO GLUTAMICO |
 | ---- | ---- | ---- |
 | PARIS/BLANCO/WHITE BUTTON | AGARICUS BISPORUS | 0.240 |
 | PORTOBELLO | AGARICUS BRUNNESCEN | 0.319 |
 | CREMINI |  | 0.428 |
-| SHITAKE |  | 0.680 |
-| OYSTER |  | 0.935 |
+| SHITAKE | LENTINULA EDODES | 0.680 |
+| OSTRA/OYSTER | PLEUROTUS OSTREAUTUS | 0.935 |
 | KING OYSTER | PLEUROTUS ERYNGII |  |
 | MAITAKE/HEN OF THE WOODS |  |  |
 | PORCINI | BOLETUS EDULIS |  |
+|  |  |  |
 
 ## PARTES DEL CHAMPIÑON
 
@@ -23,7 +24,7 @@ cssclasses:
 ## ETAPAS DEL CULTIVO
 
 ### COMPOSTAJE
-Tiempo aproximado= 2 semanas
+Tiempo aproximado= 2-3 semanas
 
 Se elimina si se compran bolsas de compost preparados
 
@@ -33,12 +34,19 @@ Se elimina si se compran bolsas de compost preparados
 **Humedad relativa recomendada=**
 **Concentración de CO<sub>2</sub> recomendado=** 12000-15000ppm
 
-El proceso de Incubación puede tomar hasta 4 semanas dependiendo de las condiciones. El proceso culmina cuando el micelio haya cubierto completamente el sustrato. Deben aparecer unos filamentos blancos similares a una telaraña.
+El proceso de Incubación puede tomar hasta 4 semanas dependiendo de las condiciones. El proceso culmina cuando el micelio haya cubierto completamente el sustrato. Deben aparecer unos filamentos blancos similares a una telaraña. A medida que avanza la incubacion el compostaje ira cambiando de color y tornandose mas claro.
+
+
+![[Pasted image 20240504144838.png]]
+
 ### COBERTURA
 **Tiempo aprox=** 10-15 días (1-2 semana)
 **T=** 24 ± 1 º C
 **HR=** 95 %
 **CO<sub>2</sub>=** >7500 ppm
+
+
+
 
 ### RAYADO
 **Tiempo aprox=** 10 días (1 semana)
@@ -46,6 +54,7 @@ El proceso de Incubación puede tomar hasta 4 semanas dependiendo de las condici
 **HR=** 85 %
 **CO<sub>2</sub>=** 800-1000ppm (6 cambios de aire 10-15 min/día)
 
+![[Pasted image 20240504141920.png]]
 ### FRUCTIFICACION
 **Tiempo aprox=** 21 días (3 semanas)
 **T=** 16 ± 1 º C
@@ -54,6 +63,9 @@ El proceso de Incubación puede tomar hasta 4 semanas dependiendo de las condici
 
 Los champiñones saldrán en grupos en serie de oleadas de floraciones cada 1 o 2 semanas. El sustrato se agotará después de 5 o 6 floraciones. El sustrato agotado se puede utilizar como futura tierra de cobertura. El champiñon se deberá recolectar cuando el sombrero alcance un tamaño de aprox 5 cm y justo antes de que el anillo debajo del sombrero se rompa.
 
+![[Pasted image 20240504141943.png]]
+
+![[Pasted image 20240504142226.png]]
 
 
 ## FACTORES IMPORTANTES

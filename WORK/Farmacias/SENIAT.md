@@ -89,12 +89,12 @@ PAGOS PENDIENTES:
 - [x] FLEMING #work/taxes/1era/ABR ⏫ 📅 2024-04-24 ✅ 2024-05-04
 
 **MAYO**
-- [ ] BUBUQUI 📅 2024-05-07⏫ #work/taxes/ret_ISLR
+- [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-05-07 ✅ 2024-05-07
 - [ ] BUBUQUI 📅 2024-05-15⏫ #work/taxes/2da/ABR
 - [ ] BUBUQUI 📅 2024-05-22⏫ #work/taxes/1era/MAY
 
 - [ ] PRINCIPAL 📅 2024-05-16⏫ #work/taxes/ret_ISLR
-- [ ] PRINCIPAL 📅 2024-05-06⏫ #work/taxes/2da/ABR
+- [x] PRINCIPAL #work/taxes/2da/ABR ⏫ 📅 2024-05-06 ✅ 2024-05-07
 - [ ] PRINCIPAL 📅 2024-05-30⏫ #work/taxes/1era/MAY
 
 - [ ] TUCANI 📅 2024-05-16⏫ #work/taxes/ret_ISLR

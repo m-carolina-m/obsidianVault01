@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "96eede419245cc11",
+        "id": "34c2efe1e05fafe7",
         "type": "tabs",
         "children": [
           {
-            "id": "4244ca171c9654a9",
+            "id": "003a6a466f9df4fe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240504150818.png"
+                "file": "01-Journal/01-Daily/2024/05-May/2024-05-14.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240504150818.png",
+                "file": "01-Journal/01-Daily/2024/05-May/2024-05-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240504150818.png",
+                "file": "01-Journal/01-Daily/2024/05-May/2024-05-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240504150818.png"
+                "file": "01-Journal/01-Daily/2024/05-May/2024-05-14.md"
               }
             }
           }
@@ -168,8 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4244ca171c9654a9",
+  "active": "003a6a466f9df4fe",
   "lastOpenFiles": [
+    "01-Journal/01-Daily/2024/05-May/2024-05-14.md",
+    "Pasted image 20240504150818.png",
     "Pasted image 20240504144838.png",
     "Pasted image 20240504142226.png",
     "Pasted image 20240504142001.png",
@@ -184,7 +188,6 @@
     "01-Journal/01-Daily/2024/05-May/2024-05-13.md",
     "01-Journal/01-Daily/2024/05-May/2024-05-07.md",
     "LIFE/Projects/Mushrooms/Mushrooms.md",
-    "Pasted image 20240504150818.png",
     "01-Journal/01-Daily/2024/05-May/2024-05-04.md",
     "Obsidian Shortcuts.md",
     "99-Settings/Templates/Daily Note Template.md",
@@ -204,7 +207,6 @@
     "99-Settings/Templates/OLD/New Author Template 1.md",
     "99-Settings/Templates/OLD/Daily Notes Template 3.md",
     "99-Settings/Templates/OLD/Daily Notes Template 2.md",
-    "99-Settings/Templates/OLD/Daily Notes Template 1.md",
     "LIFE/Projects/Mushrooms",
     "LIFE/Projects",
     "01-Journal/01-Daily/2024/05-May",

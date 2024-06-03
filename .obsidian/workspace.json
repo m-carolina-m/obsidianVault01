@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b2bda474aa13d5",
+        "id": "7946a2626fffa2f1",
         "type": "tabs",
         "children": [
           {
-            "id": "ae1ccc7a0bb09af0",
+            "id": "bdd14239394af18f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae1ccc7a0bb09af0",
+  "active": "bdd14239394af18f",
   "lastOpenFiles": [
+    "01-Journal/01-Daily/2024/06-June/2024-06-03.md",
+    "01-Journal/01-Daily/2024/06-June",
     "01-Journal/01-Daily/2024/05-May/2024-05-30.md",
     "01-Journal/01-Daily/2024/05-May/2024-05-21.md",
     "01-Journal/01-Daily/2024/05-May/2024-05-16.md",
@@ -199,7 +201,6 @@
     "99-Settings/Templates/OLD/New Series Template 1.md",
     "99-Settings/Templates/OLD/New Movie Template 1.md",
     "99-Settings/Templates/OLD/New Book Template 1.md",
-    "99-Settings/Templates/OLD/New Author Template 1.md",
     "LIFE/Projects/Mushrooms",
     "LIFE/Projects",
     "01-Journal/01-Daily/2024/05-May",
@@ -208,7 +209,6 @@
     "01-Journal/02-Weekly/2023",
     "01-Journal/02-Weekly/2022",
     "01-Journal/01-Daily/2022/03-March",
-    "01-Journal/01-Daily/2022",
-    "01-Journal/01-Daily/2023/03-March"
+    "01-Journal/01-Daily/2022"
   ]
 }

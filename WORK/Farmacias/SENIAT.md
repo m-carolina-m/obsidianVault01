@@ -119,7 +119,7 @@ PAGOS PENDIENTES:
 - [ ] PRINCIPAL 📅 2024-06-28⏫ #work/taxes/1era/JUN
 
 - [ ] TUCANI 📅 2024-06-11⏫ #work/taxes/ret_ISLR
-- [ ] TUCANI 📅 2024-06-03⏫ #work/taxes/2da/MAY
+- [x] TUCANI #work/taxes/2da/MAY ⏫ 📅 2024-06-03 ✅ 2024-06-03
 - [ ] TUCANI 📅 2024-06-19⏫ #work/taxes/1era/JUN
 
 - [ ] TORRE 📅 2024-06-14⏫ #work/taxes/ret_ISLR

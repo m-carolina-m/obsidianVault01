@@ -11,8 +11,12 @@
             "id": "bdd14239394af18f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-04.md"
+              }
             }
           }
         ],
@@ -164,6 +172,7 @@
   },
   "active": "bdd14239394af18f",
   "lastOpenFiles": [
+    "01-Journal/01-Daily/2024/06-June/2024-06-04.md",
     "01-Journal/01-Daily/2024/06-June/2024-06-03.md",
     "01-Journal/01-Daily/2024/06-June",
     "01-Journal/01-Daily/2024/05-May/2024-05-30.md",
@@ -200,7 +209,6 @@
     "99-Settings/Templates/OLD/Weekly Notes Template.md",
     "99-Settings/Templates/OLD/New Series Template 1.md",
     "99-Settings/Templates/OLD/New Movie Template 1.md",
-    "99-Settings/Templates/OLD/New Book Template 1.md",
     "LIFE/Projects/Mushrooms",
     "LIFE/Projects",
     "01-Journal/01-Daily/2024/05-May",

@@ -95,7 +95,7 @@ PAGOS PENDIENTES:
 
 - [x] PRINCIPAL #work/taxes/ret_ISLR ⏫ 📅 2024-05-16 ✅ 2024-05-21
 - [x] PRINCIPAL #work/taxes/2da/ABR ⏫ 📅 2024-05-06 ✅ 2024-05-07
-- [ ] PRINCIPAL 📅 2024-05-30⏫ #work/taxes/1era/MAY
+- [x] PRINCIPAL #work/taxes/1era/MAY ⏫ 📅 2024-05-30 ✅ 2024-06-04
 
 - [x] TUCANI #work/taxes/ret_ISLR ⏫ 📅 2024-05-16 ✅ 2024-05-21
 - [x] TUCANI #work/taxes/2da/ABR ⏫ 📅 2024-05-08 ✅ 2024-05-13

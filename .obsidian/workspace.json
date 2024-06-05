@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7946a2626fffa2f1",
+        "id": "d3e4ba78f2c84ca7",
         "type": "tabs",
         "children": [
           {
-            "id": "bdd14239394af18f",
+            "id": "5e8aeac1de60d7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Journal/01-Daily/2024/06-June/2024-06-04.md",
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/06-June/2024-06-04.md",
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/06-June/2024-06-04.md",
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Journal/01-Daily/2024/06-June/2024-06-04.md"
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-05.md"
               }
             }
           }
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdd14239394af18f",
+  "active": "5e8aeac1de60d7b8",
   "lastOpenFiles": [
+    "LIFE/Projects/Emprendimiento de comida/Ideas.md",
+    "Pasted image 20240605121120.png",
+    "Pasted image 20240605120122.png",
+    "Pasted image 20240605115226.png",
+    "Pasted image 20240605110607.png",
+    "01-Journal/01-Daily/2024/06-June/2024-06-05.md",
+    "LIFE/Projects/Emprendimiento de comida",
     "01-Journal/01-Daily/2024/06-June/2024-06-04.md",
     "01-Journal/01-Daily/2024/06-June/2024-06-03.md",
     "01-Journal/01-Daily/2024/06-June",
@@ -185,10 +193,6 @@
     "Pasted image 20240504142001.png",
     "Pasted image 20240504141943.png",
     "Pasted image 20240504141920.png",
-    "Pasted image 20240327130239.png",
-    "Pasted image 20240327125009.png",
-    "Pasted image 20240327124242.png",
-    "Pasted image 20240327123518.png",
     "01-Journal/01-Daily/2024/04-April/2024-04-27.md",
     "01-Journal/01-Daily/2024/05-May/2024-05-10.md",
     "01-Journal/01-Daily/2024/05-May/2024-05-13.md",
@@ -206,9 +210,6 @@
     "99-Settings/Templates/New Author Template.md",
     "99-Settings/Templates/Monthly Note Template.md",
     "99-Settings/Templates/Daily Note Template+.md",
-    "99-Settings/Templates/OLD/Weekly Notes Template.md",
-    "99-Settings/Templates/OLD/New Series Template 1.md",
-    "99-Settings/Templates/OLD/New Movie Template 1.md",
     "LIFE/Projects/Mushrooms",
     "LIFE/Projects",
     "01-Journal/01-Daily/2024/05-May",
@@ -216,7 +217,6 @@
     "LIFE/Superación Personal",
     "01-Journal/02-Weekly/2023",
     "01-Journal/02-Weekly/2022",
-    "01-Journal/01-Daily/2022/03-March",
-    "01-Journal/01-Daily/2022"
+    "01-Journal/01-Daily/2022/03-March"
   ]
 }

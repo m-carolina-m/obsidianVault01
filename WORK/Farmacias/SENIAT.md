@@ -111,7 +111,7 @@ PAGOS PENDIENTES:
 
 **JUNIO**
 - [ ] BUBUQUI 📅 2024-06-12⏫ #work/taxes/ret_ISLR
-- [ ] BUBUQUI 📅 2024-06-06⏫ #work/taxes/2da/MAY
+- [x] BUBUQUI #work/taxes/2da/MAY ⏫ 📅 2024-06-06 ✅ 2024-06-06
 - [ ] BUBUQUI 📅 2024-06-20⏫ #work/taxes/1era/JUN
 
 - [ ] PRINCIPAL 📅 2024-06-11⏫ #work/taxes/ret_ISLR

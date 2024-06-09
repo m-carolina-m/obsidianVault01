@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-06-09",
+      "path": "01-Journal/01-Daily/2024/06-June/2024-06-09.md"
+    },
+    {
       "basename": "2024-06-06",
       "path": "01-Journal/01-Daily/2024/06-June/2024-06-06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "testing snippets multicolumn",
       "path": "testing snippets multicolumn.md"
-    },
-    {
-      "basename": "2024-04-17",
-      "path": "01-Journal/01-Daily/2024/04-April/2024-04-17.md"
     }
   ],
   "omittedPaths": [],

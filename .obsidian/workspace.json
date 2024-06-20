@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Journal/01-Daily/2024/06-June/2024-06-09.md",
-                "mode": "source",
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-20.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#work/taxes/FONACIT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/06-June/2024-06-09.md",
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/06-June/2024-06-09.md",
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Journal/01-Daily/2024/06-June/2024-06-09.md"
+                "file": "01-Journal/01-Daily/2024/06-June/2024-06-20.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "5e8aeac1de60d7b8",
   "lastOpenFiles": [
-    "01-Journal/01-Daily/2024/06-June/2024-06-06.md",
     "01-Journal/01-Daily/2024/06-June/2024-06-09.md",
+    "01-Journal/01-Daily/2024/06-June/2024-06-20.md",
+    "01-Journal/01-Daily/2024/06-June/2024-06-06.md",
     "01-Journal/01-Daily/2024/06-June/2024-06-05.md",
     "LIFE/Projects/Emprendimiento de comida/Ideas.md",
     "Pasted image 20240605121120.png",
@@ -210,7 +211,6 @@
     "99-Settings/Templates/New Movie Template.md",
     "99-Settings/Templates/New Book Template.md",
     "99-Settings/Templates/New Author Template.md",
-    "99-Settings/Templates/Monthly Note Template.md",
     "LIFE/Projects/Mushrooms",
     "LIFE/Projects",
     "01-Journal/01-Daily/2024/05-May",

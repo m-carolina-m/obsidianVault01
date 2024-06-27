@@ -124,7 +124,7 @@ PAGOS PENDIENTES:
 
 - [x] TORRE #work/taxes/ret_ISLR ⏫ 📅 2024-06-14 ✅ 2024-06-20
 - [x] TORRE #work/taxes/2da/MAY ⏫ 📅 2024-06-14 ✅ 2024-06-20
-- [ ] TORRE 📅 2024-06-25⏫ #work/taxes/1era/JUN
+- [x] TORRE #work/taxes/1era/JUN ⏫ 📅 2024-06-25 ✅ 2024-06-27
 
 - [x] FLEMING #work/taxes/ret_ISLR ⏫ 📅 2024-06-13 ✅ 2024-06-20
 - [x] FLEMING #work/taxes/2da/MAY ⏫ 📅 2024-06-13 ✅ 2024-06-20

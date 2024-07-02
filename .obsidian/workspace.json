@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Journal/01-Daily/2024/07-July/2024-07-01.md",
+                "file": "01-Journal/01-Daily/2024/07-July/2024-07-02.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/07-July/2024-07-01.md",
+                "file": "01-Journal/01-Daily/2024/07-July/2024-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/07-July/2024-07-01.md",
+                "file": "01-Journal/01-Daily/2024/07-July/2024-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Journal/01-Daily/2024/07-July/2024-07-01.md"
+                "file": "01-Journal/01-Daily/2024/07-July/2024-07-02.md"
               }
             }
           }
@@ -173,8 +173,9 @@
   },
   "active": "5e8aeac1de60d7b8",
   "lastOpenFiles": [
-    "01-Journal/01-Daily/2024/06-June/2024-06-27.md",
     "01-Journal/01-Daily/2024/07-July/2024-07-01.md",
+    "01-Journal/01-Daily/2024/07-July/2024-07-02.md",
+    "01-Journal/01-Daily/2024/06-June/2024-06-27.md",
     "01-Journal/01-Daily/2024/07-July",
     "01-Journal/01-Daily/2024/06-June/2024-06-22.md",
     "01-Journal/01-Daily/2024/06-June/2024-06-21.md",
@@ -211,7 +212,6 @@
     "99-Settings/Templates/Daily Note Template.md",
     "99-Settings/Templates/Yearly Note Template.md",
     "99-Settings/Templates/Weekly Note Template.md",
-    "99-Settings/Templates/Quarterly Note Template.md",
     "LIFE/Projects/Mushrooms",
     "LIFE/Projects",
     "01-Journal/01-Daily/2024/05-May",

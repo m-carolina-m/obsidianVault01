@@ -116,7 +116,7 @@ PAGOS PENDIENTES:
 
 - [x] PRINCIPAL #work/taxes/ret_ISLR ⏫ 📅 2024-06-11 ✅ 2024-06-20
 - [x] PRINCIPAL #work/taxes/2da/MAY ⏫ 📅 2024-06-11 ✅ 2024-06-20
-- [ ] PRINCIPAL 📅 2024-06-28⏫ #work/taxes/1era/JUN
+- [x] PRINCIPAL #work/taxes/1era/JUN ⏫ 📅 2024-06-28 ✅ 2024-07-29
 
 - [x] TUCANI #work/taxes/ret_ISLR ⏫ 📅 2024-06-11 ✅ 2024-06-20
 - [x] TUCANI #work/taxes/2da/MAY ⏫ 📅 2024-06-03 ✅ 2024-06-03
@@ -131,24 +131,24 @@ PAGOS PENDIENTES:
 - [x] FLEMING #work/taxes/1era/JUN ⏫ 📅 2024-06-21 ✅ 2024-06-21
 
 **JULIO**
-- [ ] BUBUQUI 📅 2024-07-08⏫ #work/taxes/ret_ISLR
-- [ ] BUBUQUI 📅 2024-07-15⏫ #work/taxes/2da/JUN
-- [ ] BUBUQUI 📅 2024-07-30⏫ #work/taxes/1era/JUL
+- [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-07-08 ✅ 2024-07-29
+- [x] BUBUQUI #work/taxes/2da/JUN ⏫ 📅 2024-07-15 ✅ 2024-07-29
+- [x] BUBUQUI #work/taxes/1era/JUL ⏫ 📅 2024-07-30 ✅ 2024-07-29
 
-- [ ] PRINCIPAL 📅 2024-07-12⏫ #work/taxes/ret_ISLR
-- [ ] PRINCIPAL 📅 2024-07-12⏫ #work/taxes/2da/JUN
-- [ ] PRINCIPAL 📅 2024-07-23⏫ #work/taxes/1era/JUL
+- [x] PRINCIPAL #work/taxes/ret_ISLR ⏫ 📅 2024-07-12 ✅ 2024-07-29
+- [x] PRINCIPAL #work/taxes/2da/JUN ⏫ 📅 2024-07-12 ✅ 2024-07-29
+- [x] PRINCIPAL #work/taxes/1era/JUL ⏫ 📅 2024-07-23 ✅ 2024-07-29
 
-- [ ] TUCANI 📅 2024-07-12⏫ #work/taxes/ret_ISLR
-- [ ] TUCANI 📅 2024-07-04⏫ #work/taxes/2da/JUN
-- [ ] TUCANI 📅 2024-07-17⏫ #work/taxes/1era/JUL
+- [x] TUCANI #work/taxes/ret_ISLR ⏫ 📅 2024-07-12 ✅ 2024-07-29
+- [x] TUCANI #work/taxes/2da/JUN ⏫ 📅 2024-07-04 ✅ 2024-07-29
+- [x] TUCANI #work/taxes/1era/JUL ⏫ 📅 2024-07-17 ✅ 2024-07-29
 
-- [ ] TORRE 📅 2024-07-09 #work/taxes/ret_ISLR
-- [ ] TORRE 📅 2024-07-09⏫ #work/taxes/2da/JUN
-- [ ] TORRE 📅 2024-07-26⏫ #work/taxes/1era/JUL
+- [x] TORRE #work/taxes/ret_ISLR 📅 2024-07-09 ✅ 2024-07-29
+- [x] TORRE #work/taxes/2da/JUN ⏫ 📅 2024-07-09 ✅ 2024-07-29
+- [x] TORRE #work/taxes/1era/JUL ⏫ 📅 2024-07-26 ✅ 2024-07-29
 
-- [ ] FLEMING 📅 2024-07-11⏫ #work/taxes/ret_ISLR
-- [ ] FLEMING 📅 2024-07-11⏫ #work/taxes/2da/JUN
+- [x] FLEMING #work/taxes/ret_ISLR ⏫ 📅 2024-07-11 ✅ 2024-07-29
+- [x] FLEMING #work/taxes/2da/JUN ⏫ 📅 2024-07-11 ✅ 2024-07-29
 - [ ] FLEMING 📅 2024-07-31⏫ #work/taxes/1era/JUL
 
 **AGOSTO**

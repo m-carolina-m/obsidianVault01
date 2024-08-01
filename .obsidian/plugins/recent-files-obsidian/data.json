@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-01",
+      "path": "01-Journal/01-Daily/2024/08-August/2024-08-01.md"
+    },
+    {
+      "basename": "SENIAT",
+      "path": "WORK/Farmacias/SENIAT.md"
+    },
+    {
+      "basename": "SENIAT 1 1",
+      "path": "WORK/Farmacias/SENIAT 1 1.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "99-Settings/Templates/Daily Note Template.md"
+    },
+    {
+      "basename": "testing snippets multicolumn",
+      "path": "testing snippets multicolumn.md"
+    },
+    {
+      "basename": "testing snippets Icons",
+      "path": "testing snippets Icons.md"
+    },
+    {
       "basename": "2024-07-29",
       "path": "01-Journal/01-Daily/2024/07-July/2024-07-29.md"
     },
@@ -137,10 +161,6 @@
       "path": "Obsidian Shortcuts.md"
     },
     {
-      "basename": "Daily Note Template",
-      "path": "99-Settings/Templates/Daily Note Template.md"
-    },
-    {
       "basename": "Yearly Note Template",
       "path": "99-Settings/Templates/Yearly Note Template.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Weekly Notes Template",
       "path": "99-Settings/Templates/OLD/Weekly Notes Template.md"
-    },
-    {
-      "basename": "New Series Template 1",
-      "path": "99-Settings/Templates/OLD/New Series Template 1.md"
-    },
-    {
-      "basename": "New Movie Template 1",
-      "path": "99-Settings/Templates/OLD/New Movie Template 1.md"
-    },
-    {
-      "basename": "New Book Template 1",
-      "path": "99-Settings/Templates/OLD/New Book Template 1.md"
-    },
-    {
-      "basename": "New Author Template 1",
-      "path": "99-Settings/Templates/OLD/New Author Template 1.md"
-    },
-    {
-      "basename": "Daily Notes Template 3",
-      "path": "99-Settings/Templates/OLD/Daily Notes Template 3.md"
     }
   ],
   "omittedPaths": [],

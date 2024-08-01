@@ -1,7 +1,11 @@
-**J-09018464-3**
+**BBQ       J-09018464-3
+PPAL      J-09017925-9
+TUCA     J-31439483-5
+TOR       J-30716298-8
+FLEM     J-30351642-4 **
 
 PAGOS PENDIENTES:
-**ENERO**
+## **ENERO**
 - [x] BUBUQUI 📅 2024-01-05⏫ #work/taxes/ret_ISLR
 - [x] BUBUQUI 📅 2024-01-10⏫ #work/taxes/2da/DIC
 - [x] BUBUQUI 📅 2024-01-31⏫ #work/taxes/1era/ENE
@@ -22,7 +26,7 @@ PAGOS PENDIENTES:
 - [x] FLEMING 📅 2024-01-12⏫ #work/taxes/2da/DIC
 - [x] FLEMING 📅 2024-01-29⏫ #work/taxes/1era/ENE
 
-**FEBRERO**
+## **FEBRERO**
 - [x] BUBUQUI 📅 2024-02-06⏫ #work/taxes/ret_ISLR
 - [x] BUBUQUI 📅 2024-02-15⏫ #work/taxes/2da/ENE
 - [x] BUBUQUI 📅 2024-02-26⏫ #work/taxes/1era/FEB
@@ -44,7 +48,7 @@ PAGOS PENDIENTES:
 - [x] FLEMING 📅 2024-02-09⏫ #work/taxes/2da/ENE
 - [x] FLEMING 📅 2024-02-27⏫ #work/taxes/1era/FEB
 
-**MARZO**
+## **MARZO**
 - [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-03-08 ✅ 2024-03-08
 - [x] BUBUQUI #work/taxes/2da/FEB ⏫ 📅 2024-03-08 ✅ 2024-03-08
 - [x] BUBUQUI #work/taxes/1era/MAR ⏫ 📅 2024-03-25 ✅ 2024-03-25
@@ -67,7 +71,7 @@ PAGOS PENDIENTES:
 - [x] FLEMING #work/taxes/2da/FEB ⏫ 📅 2024-03-12 ✅ 2024-03-12
 - [x] FLEMING #work/taxes/1era/MAR ⏫ 📅 2024-03-27 ✅ 2024-03-25
 
-**ABRIL**
+## **ABRIL**
 - [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-04-08 ✅ 2024-04-09
 - [x] BUBUQUI #work/taxes/2da/MAR ⏫ 📅 2024-04-02 ✅ 2024-04-03
 - [x] BUBUQUI #work/taxes/1era/ABR ⏫ 📅 2024-04-17 ✅ 2024-04-17
@@ -88,7 +92,7 @@ PAGOS PENDIENTES:
 - [x] FLEMING #work/taxes/2da/MAR ⏫ 📅 2024-04-05 ✅ 2024-04-06
 - [x] FLEMING #work/taxes/1era/ABR ⏫ 📅 2024-04-24 ✅ 2024-05-04
 
-**MAYO**
+## **MAYO**
 - [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-05-07 ✅ 2024-05-07
 - [x] BUBUQUI #work/taxes/2da/ABR ⏫ 📅 2024-05-15 ✅ 2024-05-14
 - [x] BUBUQUI #work/taxes/1era/MAY ⏫ 📅 2024-05-22 ✅ 2024-05-21
@@ -109,7 +113,7 @@ PAGOS PENDIENTES:
 - [x] FLEMING #work/taxes/2da/ABR ⏫ 📅 2024-05-02 ✅ 2024-05-04
 - [x] FLEMING #work/taxes/1era/MAY ⏫ 📅 2024-05-21 ✅ 2024-05-21
 
-**JUNIO**
+## **JUNIO**
 - [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-06-12 ✅ 2024-06-20
 - [x] BUBUQUI #work/taxes/2da/MAY ⏫ 📅 2024-06-06 ✅ 2024-06-06
 - [x] BUBUQUI #work/taxes/1era/JUN ⏫ 📅 2024-06-20 ✅ 2024-06-20
@@ -130,7 +134,7 @@ PAGOS PENDIENTES:
 - [x] FLEMING #work/taxes/2da/MAY ⏫ 📅 2024-06-13 ✅ 2024-06-20
 - [x] FLEMING #work/taxes/1era/JUN ⏫ 📅 2024-06-21 ✅ 2024-06-21
 
-**JULIO**
+## **JULIO**
 - [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-07-08 ✅ 2024-07-29
 - [x] BUBUQUI #work/taxes/2da/JUN ⏫ 📅 2024-07-15 ✅ 2024-07-29
 - [x] BUBUQUI #work/taxes/1era/JUL ⏫ 📅 2024-07-30 ✅ 2024-07-29
@@ -149,9 +153,9 @@ PAGOS PENDIENTES:
 
 - [x] FLEMING #work/taxes/ret_ISLR ⏫ 📅 2024-07-11 ✅ 2024-07-29
 - [x] FLEMING #work/taxes/2da/JUN ⏫ 📅 2024-07-11 ✅ 2024-07-29
-- [ ] FLEMING 📅 2024-07-31⏫ #work/taxes/1era/JUL
+- [x] FLEMING #work/taxes/1era/JUL ⏫ 📅 2024-07-31 ✅ 2024-08-01
 
-**AGOSTO**
+## **AGOSTO**
 - [ ] BUBUQUI 📅 2024-08-12⏫ #work/taxes/ret_ISLR
 - [ ] BUBUQUI 📅 2024-08-12⏫ #work/taxes/2da/JUL
 - [ ] BUBUQUI 📅 2024-08-27⏫ #work/taxes/1era/AGO
@@ -172,7 +176,7 @@ PAGOS PENDIENTES:
 - [ ] FLEMING 📅 2024-08-13⏫ #work/taxes/2da/JUL
 - [ ] FLEMING 📅 2024-08-28⏫ #work/taxes/1era/AGO
 
-**SEPTIEMBRE**
+## **SEPTIEMBRE**
 - [ ] BUBUQUI 📅 2024-09-11⏫ #work/taxes/ret_ISLR
 - [ ] BUBUQUI 📅 2024-09-11⏫ #work/taxes/2da/AGO
 - [ ] BUBUQUI 📅 2024-09-26⏫ #work/taxes/1era/SEP
@@ -193,7 +197,7 @@ PAGOS PENDIENTES:
 - [ ] FLEMING 📅 2024-09-03⏫ #work/taxes/2da/AGO
 - [ ] FLEMING 📅 2024-09-19⏫ #work/taxes/1era/SEP
 
-**OCTUBRE**
+## **OCTUBRE**
 - [ ] BUBUQUI 📅 2024-10-07⏫ #work/taxes/ret_ISLR
 - [ ] BUBUQUI 📅 2024-10-14⏫ #work/taxes/2da/SEP
 - [ ] BUBUQUI 📅 2024-10-29⏫ #work/taxes/1era/OCT
@@ -214,7 +218,7 @@ PAGOS PENDIENTES:
 - [ ] FLEMING 📅 2024-10-11⏫ #work/taxes/2da/SEP
 - [ ] FLEMING 📅 2024-10-28⏫ #work/taxes/1era/OCT
 
-**NOVIEMBRE**
+## **NOVIEMBRE**
 - [ ] BUBUQUI 📅 2024-11-11⏫ #work/taxes/ret_ISLR
 - [ ] BUBUQUI 📅 2024-11-11]⏫ #work/taxes/DGP
 - [ ] BUBUQUI 📅 2024-11-01⏫ #work/taxes/2da/OCT
@@ -240,7 +244,7 @@ PAGOS PENDIENTES:
 - [ ] FLEMING 📅 2024-11-06⏫ #work/taxes/2da/OCT
 - [ ] FLEMING 📅 2024-11-22⏫ #work/taxes/1era/NOV
 
-**DICIEMBRE**
+## **DICIEMBRE**
 - [ ] BUBUQUI 📅 2024-12-05⏫ #work/taxes/ret_ISLR
 - [ ] BUBUQUI 📅 2024-12-12⏫ #work/taxes/2da/NOV
 - [ ] BUBUQUI 📅 2024-12-20⏫ #work/taxes/1era/DIC

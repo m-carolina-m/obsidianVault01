@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d3e4ba78f2c84ca7",
+        "id": "1333b7de57e37132",
         "type": "tabs",
         "children": [
           {
-            "id": "5e8aeac1de60d7b8",
+            "id": "935bc8fc9f9ffae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Journal/01-Daily/2024/07-July/2024-07-29.md",
-                "mode": "preview",
+                "file": "01-Journal/01-Daily/2024/08-August/2024-08-01.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#work/taxes/FONACIT",
+                "query": "seniat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/07-July/2024-07-29.md",
+                "file": "01-Journal/01-Daily/2024/08-August/2024-08-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/07-July/2024-07-29.md",
+                "file": "01-Journal/01-Daily/2024/08-August/2024-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Journal/01-Daily/2024/07-July/2024-07-29.md"
+                "file": "01-Journal/01-Daily/2024/08-August/2024-08-01.md"
               }
             }
           }
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,10 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e8aeac1de60d7b8",
+  "active": "935bc8fc9f9ffae2",
   "lastOpenFiles": [
-    "01-Journal/01-Daily/2024/07-July/2024-07-02.md",
+    "WORK/Farmacias/SENIAT.md",
+    "WORK/Farmacias/SENIAT 1 1.md",
+    "99-Settings/Templates/Daily Note Template.md",
+    "testing snippets multicolumn.md",
+    "testing snippets Icons.md",
+    "01-Journal/01-Daily/2024/08-August/2024-08-01.md",
     "01-Journal/01-Daily/2024/07-July/2024-07-29.md",
+    "01-Journal/01-Daily/2024/08-August",
+    "01-Journal/01-Daily/2024/07-July/2024-07-02.md",
     "01-Journal/01-Daily/2024/07-July/2024-07-01.md",
     "01-Journal/01-Daily/2024/06-June/2024-06-27.md",
     "01-Journal/01-Daily/2024/07-July",
@@ -206,18 +212,11 @@
     "01-Journal/01-Daily/2024/04-April/2024-04-27.md",
     "01-Journal/01-Daily/2024/05-May/2024-05-10.md",
     "01-Journal/01-Daily/2024/05-May/2024-05-13.md",
-    "01-Journal/01-Daily/2024/05-May/2024-05-07.md",
-    "LIFE/Projects/Mushrooms/Mushrooms.md",
-    "01-Journal/01-Daily/2024/05-May/2024-05-04.md",
-    "Obsidian Shortcuts.md",
-    "99-Settings/Templates/Daily Note Template.md",
-    "99-Settings/Templates/Yearly Note Template.md",
     "LIFE/Projects/Mushrooms",
     "LIFE/Projects",
     "01-Journal/01-Daily/2024/05-May",
     "01-Journal/01-Daily/2024/04-April",
     "LIFE/Superación Personal",
-    "01-Journal/02-Weekly/2023",
-    "01-Journal/02-Weekly/2022"
+    "01-Journal/02-Weekly/2023"
   ]
 }

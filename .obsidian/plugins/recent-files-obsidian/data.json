@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-08-06",
+      "path": "01-Journal/01-Daily/2024/08-August/2024-08-06.md"
+    },
+    {
       "basename": "2024-08-01",
       "path": "01-Journal/01-Daily/2024/08-August/2024-08-01.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Daily Note Template+",
       "path": "99-Settings/Templates/Daily Note Template+.md"
-    },
-    {
-      "basename": "Weekly Notes Template",
-      "path": "99-Settings/Templates/OLD/Weekly Notes Template.md"
     }
   ],
   "omittedPaths": [],

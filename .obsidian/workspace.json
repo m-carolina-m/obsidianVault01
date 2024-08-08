@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Journal/01-Daily/2024/08-August/2024-08-06.md",
+                "file": "01-Journal/01-Daily/2024/08-August/2024-08-08.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/08-August/2024-08-06.md",
+                "file": "01-Journal/01-Daily/2024/08-August/2024-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/08-August/2024-08-06.md",
+                "file": "01-Journal/01-Daily/2024/08-August/2024-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Journal/01-Daily/2024/08-August/2024-08-06.md"
+                "file": "01-Journal/01-Daily/2024/08-August/2024-08-08.md"
               }
             }
           }
@@ -172,8 +172,9 @@
   },
   "active": "935bc8fc9f9ffae2",
   "lastOpenFiles": [
-    "01-Journal/01-Daily/2024/08-August/2024-08-01.md",
     "01-Journal/01-Daily/2024/08-August/2024-08-06.md",
+    "01-Journal/01-Daily/2024/08-August/2024-08-08.md",
+    "01-Journal/01-Daily/2024/08-August/2024-08-01.md",
     "WORK/Farmacias/SENIAT.md",
     "WORK/Farmacias/SENIAT 1 1.md",
     "99-Settings/Templates/Daily Note Template.md",
@@ -211,7 +212,6 @@
     "Pasted image 20240504141943.png",
     "Pasted image 20240504141920.png",
     "01-Journal/01-Daily/2024/04-April/2024-04-27.md",
-    "01-Journal/01-Daily/2024/05-May/2024-05-10.md",
     "LIFE/Projects/Mushrooms",
     "LIFE/Projects",
     "01-Journal/01-Daily/2024/05-May",

@@ -158,23 +158,23 @@ PAGOS PENDIENTES:
 ## **AGOSTO**
 - [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-08-12 ✅ 2024-08-17
 - [x] BUBUQUI #work/taxes/2da/JUL ⏫ 📅 2024-08-12 ✅ 2024-08-17
-- [ ] BUBUQUI 📅 2024-08-27⏫ #work/taxes/1era/AGO
+- [x] BUBUQUI #work/taxes/1era/AGO ⏫ 📅 2024-08-27 ✅ 2024-08-29
 
 - [x] PRINCIPAL #work/taxes/ret_ISLR ⏫ 📅 2024-08-09 ✅ 2024-08-17
 - [x] PRINCIPAL #work/taxes/2da/JUL ⏫ 📅 2024-08-09 ✅ 2024-08-17
-- [ ] PRINCIPAL 📅 2024-08-21⏫ #work/taxes/1era/AGO
+- [x] PRINCIPAL #work/taxes/1era/AGO ⏫ 📅 2024-08-21 ✅ 2024-08-29
 
 - [x] TUCANI #work/taxes/ret_ISLR ⏫ 📅 2024-08-09 ✅ 2024-08-17
 - [x] TUCANI #work/taxes/2da/JUL ⏫ 📅 2024-08-15 ✅ 2024-08-17
-- [ ] TUCANI 📅 2024-08-29⏫ #work/taxes/1era/AGO
+- [x] TUCANI #work/taxes/1era/AGO ⏫ 📅 2024-08-29 ✅ 2024-08-29
 
 - [x] TORRE #work/taxes/ret_ISLR ⏫ 📅 2024-08-14 ✅ 2024-08-17
 - [x] TORRE #work/taxes/2da/JUL ⏫ 📅 2024-08-07 ✅ 2024-08-08
-- [ ] TORRE 📅 2024-08-26⏫ #work/taxes/1era/AGO
+- [x] TORRE #work/taxes/1era/AGO ⏫ 📅 2024-08-26 ✅ 2024-08-29
 
 - [x] FLEMING #work/taxes/ret_ISLR ⏫ 📅 2024-08-13 ✅ 2024-08-17
 - [x] FLEMING #work/taxes/2da/JUL ⏫ 📅 2024-08-13 ✅ 2024-08-17
-- [ ] FLEMING 📅 2024-08-28⏫ #work/taxes/1era/AGO
+- [x] FLEMING #work/taxes/1era/AGO ⏫ 📅 2024-08-28 ✅ 2024-08-29
 
 ## **SEPTIEMBRE**
 - [ ] BUBUQUI 📅 2024-09-11⏫ #work/taxes/ret_ISLR

@@ -12,9 +12,9 @@ language: English, Russian, Hungarian
 aka: 
 genre: Action, Crime, Thriller
 dvd: 07 Jun 2016
-watched: 
-myrating: 0
-status: to watch
+watched: 2024-06-16
+myrating: 7.5
+status: completed
 type: movie
 location: Prime Video
 ---

@@ -13,12 +13,12 @@ episodes: 16
 language: Korean
 aka: 
 genre: Adventure, Comedy, Romance
-mycurrentepisode: 01x09
+mycurrentepisode: 01x16
 lastwatched: 2024-03-25
 myrating: 9
 location: Netflix
 type: serie
-status: in progress
+status: completed
 ---
 
 plot:: The absolute top secret love story of a chaebol heiress who made an emergency landing in North Korea because of a paragliding accident and a North Korean special officer who falls in love with her and who is hiding and protecting ...

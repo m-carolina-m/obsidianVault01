@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1333b7de57e37132",
+        "id": "15b7a227c15395df",
         "type": "tabs",
         "children": [
           {
-            "id": "935bc8fc9f9ffae2",
+            "id": "f50d59703c9674b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Journal/01-Daily/2024/08-August/2024-08-20.md",
+                "file": "LIFE/Series/_000 Currently Watching.md",
                 "mode": "preview",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#work/taxes/FONACIT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/08-August/2024-08-20.md",
+                "file": "LIFE/Series/_000 Currently Watching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/08-August/2024-08-20.md",
+                "file": "LIFE/Series/_000 Currently Watching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Journal/01-Daily/2024/08-August/2024-08-20.md"
+                "file": "LIFE/Series/_000 Currently Watching.md"
               }
             }
           }
@@ -170,42 +170,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "935bc8fc9f9ffae2",
+  "active": "f50d59703c9674b5",
   "lastOpenFiles": [
-    "01-Journal/01-Daily/2024/08-August/2024-08-17.md",
-    "01-Journal/01-Daily/2024/08-August/2024-08-20.md",
-    "01-Journal/01-Daily/2024/08-August/2024-08-08.md",
-    "01-Journal/01-Daily/2024/08-August/2024-08-06.md",
-    "01-Journal/01-Daily/2024/08-August/2024-08-01.md",
-    "WORK/Farmacias/SENIAT.md",
-    "WORK/Farmacias/SENIAT 1 1.md",
-    "99-Settings/Templates/Daily Note Template.md",
-    "testing snippets multicolumn.md",
-    "testing snippets Icons.md",
-    "01-Journal/01-Daily/2024/07-July/2024-07-29.md",
+    "LIFE/Movies/Purple Hearts (2022)1.md",
+    "LIFE/Series/_000 Currently Watching.md",
+    "LIFE/Series/Yellowstone (2018-).md",
+    "LIFE/Series/Lucky Romance (2016).md",
+    "LIFE/Series/_000 All Times Favorite Series.md",
+    "LIFE/Series/Nobodys Boy Remi (1977).md",
+    "LIFE/Movies/_000 2024 Watched Movies.md",
+    "LIFE/Series/Snowpiercer (2020-2024).md",
+    "LIFE/Movies/Jim Henson Idea Man (2024).md",
+    "LIFE/Movies/True Spirit (2023).md",
+    "LIFE/Movies/Twisted Obsession (1989).md",
+    "LIFE/Movies/Snow White and the Seven Dwarfs (1937).md",
+    "LIFE/Movies/John Wick (2014).md",
+    "LIFE/Movies/John Wick Chapter 2 (2017).md",
+    "LIFE/Movies/John Wick Chapter 3 - Parabellum (2019).md",
+    "LIFE/Movies/John Wick Chapter 4 (2023).md",
+    "LIFE/Series/Pinocchio (2015).md",
+    "LIFE/Series/Run On (2021).md",
+    "LIFE/Series/The War Next-door (2021).md",
+    "LIFE/Series/Money Heist (2017-2021).md",
+    "LIFE/Series/See You in My 19th Life (2023).md",
+    "LIFE/Series/Thirty Nine (2021).md",
+    "LIFE/Series/Crash Landing on You (2019).md",
+    "LIFE/Series/Crash Landing on You (2019)1.md",
+    "LIFE/Series/Watchmen (2019).md",
+    "LIFE/Movies/Little Boy (2015).md",
     "01-Journal/01-Daily/2024/08-August",
-    "01-Journal/01-Daily/2024/07-July/2024-07-02.md",
-    "01-Journal/01-Daily/2024/07-July/2024-07-01.md",
-    "01-Journal/01-Daily/2024/06-June/2024-06-27.md",
     "01-Journal/01-Daily/2024/07-July",
-    "01-Journal/01-Daily/2024/06-June/2024-06-22.md",
-    "01-Journal/01-Daily/2024/06-June/2024-06-21.md",
-    "01-Journal/01-Daily/2024/06-June/2024-06-20.md",
-    "01-Journal/01-Daily/2024/06-June/2024-06-09.md",
-    "01-Journal/01-Daily/2024/06-June/2024-06-06.md",
-    "01-Journal/01-Daily/2024/06-June/2024-06-05.md",
-    "LIFE/Projects/Emprendimiento de comida/Ideas.md",
     "Pasted image 20240605121120.png",
     "Pasted image 20240605120122.png",
     "Pasted image 20240605115226.png",
     "Pasted image 20240605110607.png",
     "LIFE/Projects/Emprendimiento de comida",
-    "01-Journal/01-Daily/2024/06-June/2024-06-04.md",
-    "01-Journal/01-Daily/2024/06-June/2024-06-03.md",
     "01-Journal/01-Daily/2024/06-June",
-    "01-Journal/01-Daily/2024/05-May/2024-05-30.md",
-    "01-Journal/01-Daily/2024/05-May/2024-05-21.md",
-    "01-Journal/01-Daily/2024/05-May/2024-05-16.md",
     "Pasted image 20240504150818.png",
     "Pasted image 20240504144838.png",
     "Pasted image 20240504142226.png",

@@ -12,11 +12,11 @@ language: English, Italian, Russian, Sign , Hebrew
 aka: 
 genre: Action, Crime, Thriller
 dvd: 22 May 2017
-watched: 
-myrating: 0
-status: to watch
+watched: 2024-06-16
+myrating: 7
+status: completed
 type: movie
-location: Netflix
+location: NETFLIX
 ---
 
 plot:: After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.

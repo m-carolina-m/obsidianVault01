@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIFE/Series/_000 Currently Watching.md",
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-03.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIFE/Series/_000 Currently Watching.md",
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIFE/Series/_000 Currently Watching.md",
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIFE/Series/_000 Currently Watching.md"
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-03.md"
               }
             }
           }
@@ -172,8 +172,10 @@
   },
   "active": "f50d59703c9674b5",
   "lastOpenFiles": [
-    "LIFE/Movies/Purple Hearts (2022)1.md",
     "LIFE/Series/_000 Currently Watching.md",
+    "01-Journal/01-Daily/2024/09-September/2024-09-03.md",
+    "01-Journal/01-Daily/2024/09-September",
+    "LIFE/Movies/Purple Hearts (2022)1.md",
     "LIFE/Series/Yellowstone (2018-).md",
     "LIFE/Series/Lucky Romance (2016).md",
     "LIFE/Series/_000 All Times Favorite Series.md",
@@ -197,7 +199,6 @@
     "LIFE/Series/Crash Landing on You (2019).md",
     "LIFE/Series/Crash Landing on You (2019)1.md",
     "LIFE/Series/Watchmen (2019).md",
-    "LIFE/Movies/Little Boy (2015).md",
     "01-Journal/01-Daily/2024/08-August",
     "01-Journal/01-Daily/2024/07-July",
     "Pasted image 20240605121120.png",
@@ -216,7 +217,6 @@
     "LIFE/Projects",
     "01-Journal/01-Daily/2024/05-May",
     "01-Journal/01-Daily/2024/04-April",
-    "LIFE/Superación Personal",
-    "01-Journal/02-Weekly/2023"
+    "LIFE/Superación Personal"
   ]
 }

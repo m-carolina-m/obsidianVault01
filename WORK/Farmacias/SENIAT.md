@@ -190,11 +190,11 @@ PAGOS PENDIENTES:
 - [ ] TUCANI 📅 2024-09-24⏫ #work/taxes/1era/SEP
 
 - [ ] TORRE 📅 2024-09-09⏫ #work/taxes/ret_ISLR
-- [ ] TORRE 📅 2024-09-02⏫ #work/taxes/2da/AGO
+- [x] TORRE #work/taxes/2da/AGO ⏫ 📅 2024-09-02 ✅ 2024-09-03
 - [ ] TORRE 📅 2024-09-17⏫ #work/taxes/1era/SEP
 
 - [ ] FLEMING 📅 2024-09-10⏫ #work/taxes/ret_ISLR
-- [ ] FLEMING 📅 2024-09-03⏫ #work/taxes/2da/AGO
+- [x] FLEMING #work/taxes/2da/AGO ⏫ 📅 2024-09-03 ✅ 2024-09-03
 - [ ] FLEMING 📅 2024-09-19⏫ #work/taxes/1era/SEP
 
 ## **OCTUBRE**

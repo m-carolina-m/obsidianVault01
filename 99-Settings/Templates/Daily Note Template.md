@@ -40,6 +40,9 @@ fast hrs: "16"
 **What will I do to make today great?**
 - 
 
+**Today's Soundtrack**
+-
+
 **Daily affirmations**
 affirmations:: 
 

@@ -13,12 +13,12 @@ episodes: 16
 language: Korean
 aka: 
 genre: Drama, Romance
-mycurrentepisode: 01x09
-lastwatched: 
+mycurrentepisode: 01x16
+lastwatched: 2024-09-04
 myrating: 9
 location: NETFLIX
 type: serie
-status: in progress
+status: completed
 ---
 
 plot:: Veering off course from his preset path, a track star follows his own pace and heart for the first time after a film translator steps into his life

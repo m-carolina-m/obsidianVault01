@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ee032039e425b486",
+        "id": "fd59a90e80f1a158",
         "type": "tabs",
         "children": [
           {
-            "id": "9a36471f0f77d494",
+            "id": "a02b928d394be587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
-                "mode": "source",
+                "file": "LIFE/Series/_000 Currently Watching.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
+                "file": "LIFE/Series/_000 Currently Watching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
+                "file": "LIFE/Series/_000 Currently Watching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-05.md"
+                "file": "LIFE/Series/_000 Currently Watching.md"
               }
             }
           }
@@ -170,19 +170,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94c018c3356f1eed",
+  "active": "a02b928d394be587",
   "lastOpenFiles": [
+    "LIFE/Series/_000 To Watch Series.md",
+    "LIFE/Series/_000 Currently Watching.md",
+    "LIFE/Series/_000 All Times Favorite Series.md",
+    "LIFE/Series/Daughter from Another Mother (2021-2022).md",
+    "LIFE/Series/Run On (2021).md",
+    "LIFE/Series/Smallville (2001-2017).md",
+    "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
     "01-Journal/01-Daily/2024/06-June/2024-06-27.md",
     "99-Settings/Templates/Daily Note Template.md",
-    "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-04.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-03.md",
-    "LIFE/Series/_000 Currently Watching.md",
     "01-Journal/01-Daily/2024/09-September",
     "LIFE/Movies/Purple Hearts (2022)1.md",
     "LIFE/Series/Yellowstone (2018-).md",
     "LIFE/Series/Lucky Romance (2016).md",
-    "LIFE/Series/_000 All Times Favorite Series.md",
     "LIFE/Series/Nobodys Boy Remi (1977).md",
     "LIFE/Movies/_000 2024 Watched Movies.md",
     "LIFE/Series/Snowpiercer (2020-2024).md",
@@ -195,10 +199,6 @@
     "LIFE/Movies/John Wick Chapter 3 - Parabellum (2019).md",
     "LIFE/Movies/John Wick Chapter 4 (2023).md",
     "LIFE/Series/Pinocchio (2015).md",
-    "LIFE/Series/Run On (2021).md",
-    "LIFE/Series/The War Next-door (2021).md",
-    "LIFE/Series/Money Heist (2017-2021).md",
-    "LIFE/Series/See You in My 19th Life (2023).md",
     "01-Journal/01-Daily/2024/08-August",
     "01-Journal/01-Daily/2024/07-July",
     "Pasted image 20240605121120.png",

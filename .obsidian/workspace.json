@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIFE/Series/_000 Currently Watching.md",
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIFE/Series/_000 Currently Watching.md",
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIFE/Series/_000 Currently Watching.md",
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIFE/Series/_000 Currently Watching.md"
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-05.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "a02b928d394be587",
   "lastOpenFiles": [
-    "LIFE/Series/_000 To Watch Series.md",
     "LIFE/Series/_000 Currently Watching.md",
+    "LIFE/Series/_000 To Watch Series.md",
     "LIFE/Series/_000 All Times Favorite Series.md",
     "LIFE/Series/Daughter from Another Mother (2021-2022).md",
     "LIFE/Series/Run On (2021).md",

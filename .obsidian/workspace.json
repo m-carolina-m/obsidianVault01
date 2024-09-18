@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fd59a90e80f1a158",
+        "id": "236109baf2444eb8",
         "type": "tabs",
         "children": [
           {
-            "id": "a02b928d394be587",
+            "id": "1fd131a00d1efb85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-12.md",
-                "mode": "preview",
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-18.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-12.md",
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-12.md",
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-12.md"
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-18.md"
               }
             }
           }
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a02b928d394be587",
+  "active": "1fd131a00d1efb85",
   "lastOpenFiles": [
-    "01-Journal/01-Daily/2024/09-September/2024-09-08.md",
+    "99-Settings/Templates/Daily Note Template.md",
+    "01-Journal/01-Daily/2024/09-September/2024-09-18.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-12.md",
+    "01-Journal/01-Daily/2024/09-September/2024-09-08.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
     "LIFE/Series/_000 Currently Watching.md",
     "LIFE/Series/_000 To Watch Series.md",
@@ -182,7 +185,6 @@
     "LIFE/Series/Run On (2021).md",
     "LIFE/Series/Smallville (2001-2017).md",
     "01-Journal/01-Daily/2024/06-June/2024-06-27.md",
-    "99-Settings/Templates/Daily Note Template.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-04.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-03.md",
     "01-Journal/01-Daily/2024/09-September",
@@ -198,7 +200,6 @@
     "LIFE/Movies/Snow White and the Seven Dwarfs (1937).md",
     "LIFE/Movies/John Wick (2014).md",
     "LIFE/Movies/John Wick Chapter 2 (2017).md",
-    "LIFE/Movies/John Wick Chapter 3 - Parabellum (2019).md",
     "01-Journal/01-Daily/2024/08-August",
     "01-Journal/01-Daily/2024/07-July",
     "Pasted image 20240605121120.png",

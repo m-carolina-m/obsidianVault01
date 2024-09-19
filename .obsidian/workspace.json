@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "236109baf2444eb8",
+        "id": "e03d95b5f951e30d",
         "type": "tabs",
         "children": [
           {
-            "id": "1fd131a00d1efb85",
+            "id": "abce0cb52ff53d16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-18.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-18.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -171,10 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fd131a00d1efb85",
+  "active": "abce0cb52ff53d16",
   "lastOpenFiles": [
-    "99-Settings/Templates/Daily Note Template.md",
+    "01-Journal/01-Daily/2024/09-September/2024-09-19.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-18.md",
+    "99-Settings/Templates/Daily Note Template.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-12.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-08.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
@@ -199,7 +192,6 @@
     "LIFE/Movies/Twisted Obsession (1989).md",
     "LIFE/Movies/Snow White and the Seven Dwarfs (1937).md",
     "LIFE/Movies/John Wick (2014).md",
-    "LIFE/Movies/John Wick Chapter 2 (2017).md",
     "01-Journal/01-Daily/2024/08-August",
     "01-Journal/01-Daily/2024/07-July",
     "Pasted image 20240605121120.png",

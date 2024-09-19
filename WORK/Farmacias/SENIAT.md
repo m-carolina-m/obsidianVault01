@@ -195,7 +195,7 @@ PAGOS PENDIENTES:
 
 - [x] FLEMING #work/taxes/ret_ISLR ⏫ 📅 2024-09-10 ✅ 2024-09-12
 - [x] FLEMING #work/taxes/2da/AGO ⏫ 📅 2024-09-03 ✅ 2024-09-03
-- [ ] FLEMING 📅 2024-09-19⏫ #work/taxes/1era/SEP
+- [x] FLEMING #work/taxes/1era/SEP ⏫ 📅 2024-09-19 ✅ 2024-09-19
 
 ## **OCTUBRE**
 - [ ] BUBUQUI 📅 2024-10-07⏫ #work/taxes/ret_ISLR

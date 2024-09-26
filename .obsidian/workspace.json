@@ -11,8 +11,12 @@
             "id": "abce0cb52ff53d16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-26.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01-Journal/01-Daily/2024/09-September/2024-09-26.md"
+              }
             }
           }
         ],
@@ -165,6 +173,7 @@
   },
   "active": "abce0cb52ff53d16",
   "lastOpenFiles": [
+    "01-Journal/01-Daily/2024/09-September/2024-09-26.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-19.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-18.md",
     "99-Settings/Templates/Daily Note Template.md",
@@ -191,7 +200,6 @@
     "LIFE/Movies/True Spirit (2023).md",
     "LIFE/Movies/Twisted Obsession (1989).md",
     "LIFE/Movies/Snow White and the Seven Dwarfs (1937).md",
-    "LIFE/Movies/John Wick (2014).md",
     "01-Journal/01-Daily/2024/08-August",
     "01-Journal/01-Daily/2024/07-July",
     "Pasted image 20240605121120.png",

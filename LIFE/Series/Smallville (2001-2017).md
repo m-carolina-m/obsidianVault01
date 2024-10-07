@@ -13,8 +13,8 @@ episodes: 22
 language: English
 aka: 
 genre: Action, Adventure, Drama
-mycurrentepisode: 01x03
-lastwatched: 2024-09-05
+mycurrentepisode: 01x20
+lastwatched: 2024-10-06
 myrating: 8
 location: Telegram
 type: serie

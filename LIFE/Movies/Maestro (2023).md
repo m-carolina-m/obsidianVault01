@@ -14,7 +14,7 @@ genre: Biography, Drama, History
 dvd: N/A
 watched: 
 myrating: 0
-status: completed
+status: to watch
 type: movie
 location: Netflix
 ---

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e03d95b5f951e30d",
+        "id": "9dd6602813f4efb9",
         "type": "tabs",
         "children": [
           {
-            "id": "abce0cb52ff53d16",
+            "id": "e277fdbac0f713d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-30.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01-Journal/01-Daily/2024/09-September/2024-09-30.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -171,35 +163,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abce0cb52ff53d16",
+  "active": "e277fdbac0f713d5",
   "lastOpenFiles": [
-    "01-Journal/01-Daily/2024/09-September/2024-09-26.md",
+    "LIFE/Series/_000 All Times Favorite Series.md",
+    "LIFE/Series/Cathedral of the Sea (2018).md",
+    "LIFE/Series/El Capo (2009-).md",
+    "LIFE/Series/Light & Magic (2022).md",
+    "LIFE/Series/Run On (2021).md",
+    "LIFE/Series/See You in My 19th Life (2023).md",
+    "LIFE/Series/Watchmen (2019).md",
+    "LIFE/Series/_000 Currently Watching.md",
+    "LIFE/Series/Smallville (2001-2017).md",
+    "LIFE/Series/Gilmore Girls (2000-2007).md",
+    "LIFE/Movies/Maestro (2023).md",
+    "LIFE/Movies/_000 All Times Favorite Movies.md",
+    "LIFE/Movies/_000 ALL MOVIES CARDS.md",
+    "LIFE/Movies/_000 2024 Watched Movies.md",
+    "LIFE/Movies/Now You See Me (2013).md",
+    "LIFE/Movies/Spaceman (2024).md",
+    "01-Journal/01-Daily/2024/10-October/2024-10-07.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-30.md",
+    "01-Journal/01-Daily/2024/10-October",
+    "01-Journal/01-Daily/2024/09-September/2024-09-26.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-19.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-18.md",
     "99-Settings/Templates/Daily Note Template.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-12.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-08.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
-    "LIFE/Series/_000 Currently Watching.md",
     "LIFE/Series/_000 To Watch Series.md",
-    "LIFE/Series/_000 All Times Favorite Series.md",
-    "LIFE/Series/Daughter from Another Mother (2021-2022).md",
-    "LIFE/Series/Run On (2021).md",
-    "LIFE/Series/Smallville (2001-2017).md",
-    "01-Journal/01-Daily/2024/06-June/2024-06-27.md",
-    "01-Journal/01-Daily/2024/09-September/2024-09-04.md",
-    "01-Journal/01-Daily/2024/09-September/2024-09-03.md",
     "01-Journal/01-Daily/2024/09-September",
-    "LIFE/Movies/Purple Hearts (2022)1.md",
-    "LIFE/Series/Yellowstone (2018-).md",
-    "LIFE/Series/Lucky Romance (2016).md",
-    "LIFE/Series/Nobodys Boy Remi (1977).md",
-    "LIFE/Movies/_000 2024 Watched Movies.md",
-    "LIFE/Series/Snowpiercer (2020-2024).md",
-    "LIFE/Movies/Jim Henson Idea Man (2024).md",
-    "LIFE/Movies/True Spirit (2023).md",
-    "LIFE/Movies/Twisted Obsession (1989).md",
     "01-Journal/01-Daily/2024/08-August",
     "01-Journal/01-Daily/2024/07-July",
     "Pasted image 20240605121120.png",
@@ -217,7 +210,6 @@
     "LIFE/Projects/Mushrooms",
     "LIFE/Projects",
     "01-Journal/01-Daily/2024/05-May",
-    "01-Journal/01-Daily/2024/04-April",
-    "LIFE/Superación Personal"
+    "01-Journal/01-Daily/2024/04-April"
   ]
 }

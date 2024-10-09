@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd6602813f4efb9",
+        "id": "4b9b0e2c901efc5e",
         "type": "tabs",
         "children": [
           {
-            "id": "e277fdbac0f713d5",
+            "id": "e30fd69640343c0b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e277fdbac0f713d5",
+  "active": "e30fd69640343c0b",
   "lastOpenFiles": [
+    "01-Journal/01-Daily/2024/10-October/2024-10-09.md",
     "LIFE/Series/_000 All Times Favorite Series.md",
     "LIFE/Series/Cathedral of the Sea (2018).md",
     "LIFE/Series/El Capo (2009-).md",
@@ -191,7 +192,6 @@
     "01-Journal/01-Daily/2024/09-September/2024-09-12.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-08.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
-    "LIFE/Series/_000 To Watch Series.md",
     "01-Journal/01-Daily/2024/09-September",
     "01-Journal/01-Daily/2024/08-August",
     "01-Journal/01-Daily/2024/07-July",

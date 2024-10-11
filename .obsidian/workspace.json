@@ -11,8 +11,12 @@
             "id": "e30fd69640343c0b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01-Journal/01-Daily/2024/10-October/2024-10-11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-Journal/01-Daily/2024/10-October/2024-10-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01-Journal/01-Daily/2024/10-October/2024-10-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01-Journal/01-Daily/2024/10-October/2024-10-11.md"
+              }
             }
           }
         ],
@@ -165,6 +173,7 @@
   },
   "active": "e30fd69640343c0b",
   "lastOpenFiles": [
+    "01-Journal/01-Daily/2024/10-October/2024-10-11.md",
     "01-Journal/01-Daily/2024/10-October/2024-10-09.md",
     "LIFE/Series/_000 All Times Favorite Series.md",
     "LIFE/Series/Cathedral of the Sea (2018).md",
@@ -191,7 +200,6 @@
     "99-Settings/Templates/Daily Note Template.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-12.md",
     "01-Journal/01-Daily/2024/09-September/2024-09-08.md",
-    "01-Journal/01-Daily/2024/09-September/2024-09-05.md",
     "01-Journal/01-Daily/2024/09-September",
     "01-Journal/01-Daily/2024/08-August",
     "01-Journal/01-Daily/2024/07-July",

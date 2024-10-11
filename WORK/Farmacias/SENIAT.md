@@ -214,8 +214,8 @@ PAGOS PENDIENTES:
 - [x] TORRE #work/taxes/2da/SEP ⏫ 📅 2024-10-09 ✅ 2024-10-09
 - [ ] TORRE 📅 2024-10-31⏫ #work/taxes/1era/OCT
 
-- [ ] FLEMING 📅 2024-10-11⏫ #work/taxes/ret_ISLR
-- [ ] FLEMING 📅 2024-10-11⏫ #work/taxes/2da/SEP
+- [x] FLEMING #work/taxes/ret_ISLR ⏫ 📅 2024-10-11 ✅ 2024-10-11
+- [x] FLEMING #work/taxes/2da/SEP ⏫ 📅 2024-10-11 ✅ 2024-10-11
 - [ ] FLEMING 📅 2024-10-28⏫ #work/taxes/1era/OCT
 
 ## **NOVIEMBRE**

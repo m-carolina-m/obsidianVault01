@@ -199,16 +199,16 @@ PAGOS PENDIENTES:
 
 ## **OCTUBRE**
 - [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-10-07 ✅ 2024-10-09
-- [ ] BUBUQUI 📅 2024-10-14⏫ #work/taxes/2da/SEP
+- [x] BUBUQUI #work/taxes/2da/SEP ⏫ 📅 2024-10-14 ✅ 2024-10-25
 - [ ] BUBUQUI 📅 2024-10-29⏫ #work/taxes/1era/OCT
 
 - [x] PRINCIPAL #work/taxes/ret_ISLR ⏫ 📅 2024-10-08 ✅ 2024-10-09
-- [ ] PRINCIPAL 📅 2024-10-15⏫ #work/taxes/2da/SEP
+- [x] PRINCIPAL #work/taxes/2da/SEP ⏫ 📅 2024-10-15 ✅ 2024-10-25
 - [ ] PRINCIPAL 📅 2024-10-30⏫ #work/taxes/1era/OCT
 
 - [x] TUCANI #work/taxes/ret_ISLR ⏫ 📅 2024-10-08 ✅ 2024-10-09
 - [x] TUCANI #work/taxes/2da/SEP ⏫ 📅 2024-10-08 ✅ 2024-10-07
-- [ ] TUCANI 📅 2024-10-17⏫ #work/taxes/1era/OCT
+- [x] TUCANI #work/taxes/1era/OCT ⏫ 📅 2024-10-17 ✅ 2024-10-25
 
 - [x] TORRE #work/taxes/ret_ISLR ⏫ 📅 2024-10-09 ✅ 2024-10-09
 - [x] TORRE #work/taxes/2da/SEP ⏫ 📅 2024-10-09 ✅ 2024-10-09

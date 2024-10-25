@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "SENIAT",
+      "path": "WORK/Farmacias/SENIAT.md"
+    },
+    {
+      "basename": "2024-10-25",
+      "path": "01-Journal/01-Daily/2024/10-October/2024-10-25.md"
+    },
+    {
       "basename": "2024-10-11",
       "path": "01-Journal/01-Daily/2024/10-October/2024-10-11.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Money Heist (2017-2021)",
       "path": "LIFE/Series/Money Heist (2017-2021).md"
-    },
-    {
-      "basename": "Thirty Nine (2021)",
-      "path": "LIFE/Series/Thirty Nine (2021).md"
-    },
-    {
-      "basename": "Crash Landing on You (2019)",
-      "path": "LIFE/Series/Crash Landing on You (2019).md"
     }
   ],
   "omittedPaths": [],

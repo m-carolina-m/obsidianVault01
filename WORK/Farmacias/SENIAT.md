@@ -200,11 +200,11 @@ PAGOS PENDIENTES:
 ## **OCTUBRE**
 - [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-10-07 ✅ 2024-10-09
 - [x] BUBUQUI #work/taxes/2da/SEP ⏫ 📅 2024-10-14 ✅ 2024-10-25
-- [ ] BUBUQUI 📅 2024-10-29⏫ #work/taxes/1era/OCT
+- [x] BUBUQUI #work/taxes/1era/OCT ⏫ 📅 2024-10-29 ✅ 2024-12-11
 
 - [x] PRINCIPAL #work/taxes/ret_ISLR ⏫ 📅 2024-10-08 ✅ 2024-10-09
 - [x] PRINCIPAL #work/taxes/2da/SEP ⏫ 📅 2024-10-15 ✅ 2024-10-25
-- [ ] PRINCIPAL 📅 2024-10-30⏫ #work/taxes/1era/OCT
+- [x] PRINCIPAL #work/taxes/1era/OCT ⏫ 📅 2024-10-30 ✅ 2024-12-11
 
 - [x] TUCANI #work/taxes/ret_ISLR ⏫ 📅 2024-10-08 ✅ 2024-10-09
 - [x] TUCANI #work/taxes/2da/SEP ⏫ 📅 2024-10-08 ✅ 2024-10-07
@@ -212,37 +212,37 @@ PAGOS PENDIENTES:
 
 - [x] TORRE #work/taxes/ret_ISLR ⏫ 📅 2024-10-09 ✅ 2024-10-09
 - [x] TORRE #work/taxes/2da/SEP ⏫ 📅 2024-10-09 ✅ 2024-10-09
-- [ ] TORRE 📅 2024-10-31⏫ #work/taxes/1era/OCT
+- [x] TORRE #work/taxes/1era/OCT ⏫ 📅 2024-10-31 ✅ 2024-12-11
 
 - [x] FLEMING #work/taxes/ret_ISLR ⏫ 📅 2024-10-11 ✅ 2024-10-11
 - [x] FLEMING #work/taxes/2da/SEP ⏫ 📅 2024-10-11 ✅ 2024-10-11
-- [ ] FLEMING 📅 2024-10-28⏫ #work/taxes/1era/OCT
+- [x] FLEMING #work/taxes/1era/OCT ⏫ 📅 2024-10-28 ✅ 2024-12-11
 
 ## **NOVIEMBRE**
-- [ ] BUBUQUI 📅 2024-11-11⏫ #work/taxes/ret_ISLR
+- [x] BUBUQUI #work/taxes/ret_ISLR ⏫ 📅 2024-11-11 ✅ 2024-12-11
 - [ ] BUBUQUI 📅 2024-11-11]⏫ #work/taxes/DGP
-- [ ] BUBUQUI 📅 2024-11-01⏫ #work/taxes/2da/OCT
-- [ ] BUBUQUI 📅 2024-11-19⏫ #work/taxes/1era/NOV
+- [x] BUBUQUI #work/taxes/2da/OCT ⏫ 📅 2024-11-01 ✅ 2024-12-11
+- [x] BUBUQUI #work/taxes/1era/NOV ⏫ 📅 2024-11-19 ✅ 2024-12-11
 
-- [ ] PRINCIPAL 📅 2024-11-12⏫ #work/taxes/ret_ISLR
-- [ ] PRINCIPAL 📅 2024-11-12  #work/taxes/DGP
-- [ ] PRINCIPAL 📅 2024-11-07⏫ #work/taxes/2da/OCT
-- [ ] PRINCIPAL 📅 2024-11-20⏫ #work/taxes/1era/NOV
+- [x] PRINCIPAL #work/taxes/ret_ISLR ⏫ 📅 2024-11-12 ✅ 2024-12-11
+- [x] PRINCIPAL #work/taxes/DGP 📅 2024-11-12 ✅ 2024-12-11
+- [x] PRINCIPAL #work/taxes/2da/OCT ⏫ 📅 2024-11-07 ✅ 2024-12-11
+- [x] PRINCIPAL #work/taxes/1era/NOV ⏫ 📅 2024-11-20 ✅ 2024-12-11
 
-- [ ] TUCANI 📅 2024-11-12⏫ #work/taxes/ret_ISLR
-- [ ] TUCANI 📅 2024-11-12⏫  #work/taxes/DGP
-- [ ] TUCANI 📅 2024-11-12⏫ #work/taxes/2da/OCT
-- [ ] TUCANI 📅 2024-11-28⏫ #work/taxes/1era/NOV
+- [x] TUCANI #work/taxes/ret_ISLR ⏫ 📅 2024-11-12 ✅ 2024-12-11
+- [x] TUCANI #work/taxes/DGP ⏫ 📅 2024-11-12 ✅ 2024-12-11
+- [x] TUCANI #work/taxes/2da/OCT ⏫ 📅 2024-11-12 ✅ 2024-12-11
+- [x] TUCANI #work/taxes/1era/NOV ⏫ 📅 2024-11-28 ✅ 2024-12-11
 
-- [ ] TORRE 📅 2024-11-15⏫ #work/taxes/ret_ISLR
-- [ ] TORRE 📅 2024-11-15⏫  #work/taxes/DGP
-- [ ] TORRE 📅 2024-11-08⏫ #work/taxes/2da/OCT
-- [ ] TORRE 📅 2024-11-25⏫ #work/taxes/1era/NOV
+- [x] TORRE #work/taxes/ret_ISLR ⏫ 📅 2024-11-15 ✅ 2024-12-11
+- [x] TORRE #work/taxes/DGP ⏫ 📅 2024-11-15 ✅ 2024-12-11
+- [x] TORRE #work/taxes/2da/OCT ⏫ 📅 2024-11-08 ✅ 2024-12-11
+- [x] TORRE #work/taxes/1era/NOV ⏫ 📅 2024-11-25 ✅ 2024-12-11
 
-- [ ] FLEMING 📅 2024-11-14⏫ #work/taxes/ret_ISLR
-- [ ] FLEMING 📅 2024-11-14⏫  #work/taxes/DGP
-- [ ] FLEMING 📅 2024-11-06⏫ #work/taxes/2da/OCT
-- [ ] FLEMING 📅 2024-11-22⏫ #work/taxes/1era/NOV
+- [x] FLEMING #work/taxes/ret_ISLR ⏫ 📅 2024-11-14 ✅ 2024-12-11
+- [x] FLEMING #work/taxes/DGP ⏫ 📅 2024-11-14 ✅ 2024-12-11
+- [x] FLEMING #work/taxes/2da/OCT ⏫ 📅 2024-11-06 ✅ 2024-12-11
+- [x] FLEMING #work/taxes/1era/NOV ⏫ 📅 2024-11-22 ✅ 2024-12-11
 
 ## **DICIEMBRE**
 - [ ] BUBUQUI 📅 2024-12-05⏫ #work/taxes/ret_ISLR
@@ -251,18 +251,18 @@ PAGOS PENDIENTES:
 - [ ] BUBUQUI 📅 2024-12-20⏫ #work/taxes/ISLR
 
 - [ ] PRINCIPAL 📅 2024-12-10⏫ #work/taxes/ret_ISLR
-- [ ] PRINCIPAL 📅 2024-12-10⏫ #work/taxes/2da/NOV
+- [x] PRINCIPAL #work/taxes/2da/NOV ⏫ 📅 2024-12-10 ✅ 2024-12-11
 - [ ] PRINCIPAL 📅 2024-12-16⏫ #work/taxes/1era/DIC
 - [ ] PRINCIPAL 📅 2024-12-18 #work/taxes/ISLR
 
 - [ ] TUCANI 📅 2024-12-10⏫ #work/taxes/ret_ISLR
-- [ ] TUCANI 📅 2024-12-02⏫ #work/taxes/2da/NOV
+- [x] TUCANI #work/taxes/2da/NOV ⏫ 📅 2024-12-02 ✅ 2024-12-11
 - [ ] TUCANI 📅 2024-12-18⏫ #work/taxes/1era/DIC
 
 - [ ] TORRE 📅 2024-12-09⏫ #work/taxes/ret_ISLR
-- [ ] TORRE 📅 2024-12-04⏫ #work/taxes/2da/NOV
+- [x] TORRE #work/taxes/2da/NOV ⏫ 📅 2024-12-04 ✅ 2024-12-11
 - [ ] TORRE 📅 2024-12-17⏫ #work/taxes/1era/DIC
 
 - [ ] FLEMING 📅 2024-12-13⏫ #work/taxes/ret_ISLR
-- [ ] FLEMING 📅 2024-12-06⏫ #work/taxes/2da/NOV
+- [x] FLEMING #work/taxes/2da/NOV ⏫ 📅 2024-12-06 ✅ 2024-12-11
 - [ ] FLEMING 📅 2024-12-23⏫ #work/taxes/1era/DIC

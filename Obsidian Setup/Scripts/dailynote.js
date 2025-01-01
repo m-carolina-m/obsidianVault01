@@ -1,24 +1,6 @@
 const notice = msg => new Notice(msg, 5000);
 const log = msg => console.log(msg);
 
-const API_KEY_OPTION = "OMDb API Key";
-const API_URL = "https://www.omdbapi.com/";
-
-module.exports = {
-    entry: start,
-    settings: {
-        name: "Movie Script",
-        author: "Christian B. B. Houmann",
-        options: {
-            [API_KEY_OPTION]: {
-                type: "text",
-                defaultValue: "",
-                placeholder: "OMDb API Key",
-            },
-        }
-    }
-}
-
 let QuickAdd;
 let Settings;
 
@@ -26,13 +8,21 @@ async function start(params, settings) {
     QuickAdd = params;
     Settings = settings;
 
-    const query = await QuickAdd.quickAddApi.inputPrompt("Enter movie title or IMDB ID: ");
+    const query = await QuickAdd.quickAddApi.inputPrompt("Ubicación [3]: ");
     if (!query) {
         notice("No query entered.");
         throw new Error("No query entered.");
     }
 
-    let selectedShow;
+    let location;
+
+    const query = await QuickAdd.quickAddApi.inputPrompt("Peso [4]: ");
+    if (!query) {
+        notice("No query entered.");
+        throw new Error("No query entered.");
+    }
+    let weight;
+
 
     if (isImdbId(query)) {
         selectedShow = await getByImdbId(query);

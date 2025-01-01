@@ -1,4 +1,4 @@
-Se configuro para que sea un Perpetual Journal, cada día tendrá la información de ese día de todos los años, o sea, es un histórico en si mismo. Está organizado en 12 carpetas 1 para cada mes.
+Se configuro para que sea un Perpetual (Forever) Journal, cada día tendrá la información de ese día de todos los años, o sea, es un histórico en si mismo. Está organizado en 12 carpetas 1 para cada mes.
 
 Se tienen páginas para mantener resúmenes históricos de las diferentes semanas, meses y años.
 

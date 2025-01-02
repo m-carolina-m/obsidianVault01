@@ -13,3 +13,6 @@ Para respaldar el vault en koofr y poder ver la misma información en el iphone
 
 # Dataview:
 Para poder hacer consultas como si la información en Obsidian fuese una base de datos
+
+# Booksearch:
+Para buscar la información de libros 

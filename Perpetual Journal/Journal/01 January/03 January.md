@@ -1,6 +1,6 @@
 [[02 January]] << [[JAN]] >> [[04 January]]
 
-# 2025-VIG-9440-00-08-12-06-00-00:
+# 2025-VIG:
 ## 1st Light
 ### Estoy agradecida por: 
 * 

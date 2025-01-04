@@ -1,11 +1,11 @@
 [[03 January]] << [[JAN]] >> [[05 January]]
 
-# 2025-VIG-9440-00-08-12-06-00-00:
+# 2025-VIG:
 ## 1st Light
 ### Estoy agradecida por: 
-* 
+* Primer sábado del año lo que significa que mañana será domingo y vamos a descansar, muchos días sin hacerlo
 ### Hoy será un gran día por:
-- 
+- Llega pedido y hoy se va a vender mucho. Será un día espectacular lleno de mil bendiciones y cosas maravillosas 
 ## Last Light
 ### ¿Qué fue lo mejor (o menos peor) del día?:
 

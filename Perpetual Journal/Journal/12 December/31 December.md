@@ -23,5 +23,5 @@ Que tuviéramos a la familia unida
 ### ¿Algo más que recordar?
 Hoy se reunieron en casa de Rosanna, ya lo están haciendo una tradición, fueron las hermanas de Buddy con sus esposos, sus hijas, los hijos de Buddy con sus familias, Luisito y Ana.
 ![[2024-12-31 Rosanna's New Year's Eve.jpg|300]]
-
-# 2022-CCS:
+![[IMG_1799.jpg]]
+Isa pasó el fin de año con Dylan y su familia 

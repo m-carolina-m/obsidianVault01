@@ -11,7 +11,7 @@
 ## Metrics
 Weight=9400
 Exercise=00
-Water=
+Water=08
 Fast=1400
 Sleep=0630
 Stress=00

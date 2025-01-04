@@ -1,24 +1,12 @@
 
 [[25 December]] << [[DEC]] >> [[27 December]]
-# 2025-:
-
-## 1st Light
-
-### Estoy agradecida por:
-
-
-### Hoy será un gran día por:
-
-
+# 2024-VIG:
 ## Last Light
 
-### ¿Qué fue lo mejor (o menos peor) del día?:
-
-
-### ¿Que faltó para que fuera incluso mejor?:
-
-
-### Soundtrack del día:
-
-
 ### ¿Algo más que recordar?
+Hoy tuvimos nuestra cena de Navidad, con hallaquitas que nos regalo “el negro” Ricardo, pernil y pancito. Primera hallaca de plátano que nos comemos estaban ricas 
+
+![[IMG_1697.jpg]]
+![[IMG_1696.jpg]]
+![[IMG_1698.jpg]]
+![[IMG_1699.jpg]]

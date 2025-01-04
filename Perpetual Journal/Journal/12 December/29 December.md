@@ -7,7 +7,7 @@
 ### Estoy agradecida por:
 - poder competir nuevas experiencias con MP
 ### Hoy será un gran día por:
--vamos a hacer hallacas de caraotas 
+- vamos a hacer hallacas de caraotas 
 
 ## Last Light
 

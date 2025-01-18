@@ -1,4 +1,4 @@
-[[30 December]] << [[DEC]] >> [[01 January]]
+[[30 December]] << [[DEC]] >> [[0101]]
 
 # 2025-:
 

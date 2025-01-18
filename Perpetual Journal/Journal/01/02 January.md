@@ -1,4 +1,4 @@
-[[01 January]] << [[JAN]] >> [[03 January]]
+[[0101]] << [[JAN]] >> [[03 January]]
 
 # 2025-VIG:
 ## 1st Light

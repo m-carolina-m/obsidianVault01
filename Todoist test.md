@@ -1,28 +1,25 @@
-
 ```todoist
-{
-	"name": "Tareas Pendientes",
-	"filter": "#inbox & OVERDUE | TODAY",
-	"sorting": ["date", "priority"]
-}
+name: "Today & Overdue"
+filter: "today | overdue"
 ```
 
-
-
-
 ```todoist
-{
-	"name": "Pediente SENIAT",
-	"filter": "/SENIAT",
-	"sorting": ["date", "priority"]
-}
+name: "Por hacer"
+filter: " today | overdue "
+sorting: [ date, priority ]
+groupBy: project
 ```
 
 
 ```todoist
-{
-	"name": "Pediente Droguerias",
-	"filter": "/Droguerias",
-	"sorting": ["date", "priority"]
-}
+name: "SENIAT"
+filter: "/SENIAT"
+sorting: [ date, priority ]
+```
+
+
+```todoist
+name: "Droguerias"
+filter: "/Droguerias"
+sorting: ["date", "priority"]
 ```

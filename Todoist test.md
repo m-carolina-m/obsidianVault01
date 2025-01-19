@@ -23,3 +23,9 @@ name: "Droguerias"
 filter: "/Droguerias"
 sorting: ["date", "priority"]
 ```
+
+```todoist
+name: "No due date"
+filter: "#* & no due date"
+sorting: [ priority ]
+```

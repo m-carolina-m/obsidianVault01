@@ -1,3 +1,6 @@
+Opciones:
+
+# 1.- Según las ramas básicas de la vida
 La organizo según las ramas básicas de mi vida:
 1. Salud Física (Vitalidad)
 2. Salud Mental
@@ -35,3 +38,37 @@ La organizo según las ramas básicas de mi vida:
 9. Diario Perpetuo
 10. 
 	
+
+# 2. L
+Location
+
+Time
+
+# 3. PARA
+
+
+# 4. ACE
+Atlas
+Calendar
+
+# 5. MINE
++
+Calendar
+	Perpetual Journal
+Finance
+Fun
+	Books
+	Movies
+	Music
+	PS3
+	Series
+	Travel
+Projects
+	Health
+	Work
+x-Obsidian Setup
+	Scripts
+	Templates
+00_Home Note
+MOCS
+

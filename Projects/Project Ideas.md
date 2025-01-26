@@ -1,0 +1,12 @@
+
+- Perpetual Journal
+- Diario de Viajes
+- Sistema de Cámaras Farmacia
+- Health
+	- Joint mobility 
+		- @drjacob
+- dashboard farmacias
+- sistema de compra automatizado
+- sistema multimedia farmacia bubuqui
+- Mostrar precios en pantalla
+- 

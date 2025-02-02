@@ -26,4 +26,4 @@
 - sistema de compra automatizado
 - sistema multimedia farmacia bubuqui
 - Mostrar precios en pantalla
-- 
+- PKM automatizado

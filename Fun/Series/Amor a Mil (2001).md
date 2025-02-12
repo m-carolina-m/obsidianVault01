@@ -13,8 +13,8 @@ episodes: "124"
 language: Spanish
 aka: 
 genre: Drama, Mystery
-mycurrentepisode: 01x19
-lastwatched: 2025-01-02
+mycurrentepisode: 01x42
+lastwatched: 2025-02-11
 myrating: 9
 location: Youtube
 type: serie

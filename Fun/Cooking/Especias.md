@@ -1,3 +1,5 @@
+[[00_HOME|HOME]]
+
 # Claves:
 - Comprar las especias de ser posible enteras (entera duración 1 año, molida 6 meses)
 - Comprar la menor cantidad posible

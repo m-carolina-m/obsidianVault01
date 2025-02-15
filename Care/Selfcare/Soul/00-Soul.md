@@ -4,6 +4,7 @@
 [[Rosario]]
 
 # ORACIONES QUE CURAN
+[[Bendición de un lugar]]
 [[Oración poderosa para protegerse]]
 [[Oración Divina]]
 [[Contra el Cáncer]]

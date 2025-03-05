@@ -12,4 +12,8 @@ Dios mío, sabrás administrar la justicia divina, ya que Yo no puedo recurrir a
 Esta oración debe recitarse todos los días durante 7 días con una vela, por la mañana y por la tarde y luego repetirse una vez al mes. Debes saber que se necesitan entre 3 y 21 días para ser liberado. Esta oración de protección es muy efectiva pero ten cuidado, es muy importante perdonar a tus enemigos aunque te parezca difícil, es una especie de prueba en cuanto a tu fe, y sobre todo para no ser devorado por dentro por el rencor, porque la ira muchas veces trae enfermedades.
 
 # SIGUIENDO ESTA PODEROSA ORACIÓN DE PROTECCIÓN
-Confía en nuestro creador, tu poderosa oración de protección será escuchada. Nada ni nadie es más fuerte que Dios dejando que nuestro padre celestial maneje la situación. Tu fe es mucho más fuerte que la de tus enemigos.
+Confía en nuestro creador, tu poderosa oración de protección será escuchada. Nada ni nadie es más fuerte que Dios dejando que nuestro padre celestial maneje la situación. Tu fe es mucho más fuerte que la de tus enemigos 
+
+https://www.scribd.com/document/543113657/Les-Prieres-Ultimes-3
+
+#les_prieres_ultimes_3

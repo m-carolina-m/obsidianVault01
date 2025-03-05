@@ -17,3 +17,16 @@
 [[Contra el mal de lombrices]]
 [[Después de un accidente]]
 [[Para sanar la vista]]
+[[Oración para el Domingo]]
+[[Oración contra epidemias, enfermedad y malestar]]
+[[Contra calenturas]]
+[[Contra mordeduras de animales ponzoñosos o rabiosos]]
+[[Contra calenturas]]
+[[Para la tristeza]]
+[[Contra la nostalgia]]
+[[Para lograr tranquilidad del alma]]
+
+
+[[Para la gracia de Dios, prosperidad y bendición]]
+
+[[Uso y eficacia de los salmos y las muchas aplicaciones que puede dárseles]]

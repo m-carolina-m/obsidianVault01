@@ -1,12 +1,12 @@
 ---
-poster: https://m.media-amazon.com/images/M/MV5BYThiZTY5MTAtODgwNS00OGNjLThjYzItOTcxYmYxMGY5MzBjXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_SX300.jpg 
-imdbId: tt0059742 
-scoreImdb: 8.1 
+poster: https://m.media-amazon.com/images/M/MV5BYThiZTY5MTAtODgwNS00OGNjLThjYzItOTcxYmYxMGY5MzBjXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_SX300.jpg
+imdbId: tt0059742
+scoreImdb: 8.1
 rated: G
-released: 01 Apr 1965 
-runtime: 172 min 
-cast: Julie Andrews, Christopher Plummer, Eleanor Parker 
-director: Robert Wise 
+released: 01 Apr 1965
+runtime: 172 min
+cast: Julie Andrews, Christopher Plummer, Eleanor Parker
+director: Robert Wise
 country: United States
 language: English, German
 aka: La Novicia Rebelde
@@ -15,7 +15,7 @@ dvd: 19 Nov 2015
 watched: 2023-05-07
 myrating: 10
 status: completed
-type: movie
+tags: movie
 location:
 ---
 

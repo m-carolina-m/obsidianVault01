@@ -9,15 +9,16 @@ cast: Manolo Cardona, Luis Fernando Hoyos, Patricia Vásquez
 director: Harold Trompetero
 country: Colombia
 seasons: 1
-episodes: "124"
+episodes: 124
 language: Spanish
 aka: 
 genre: Drama, Mystery
-mycurrentepisode: 01x42
+mycurrentepisode: 01x53
 lastwatched: 2025-02-11
 myrating: 9
 location: Youtube
-type: serie
+tags:
+  - serie
 status: in progress
 ---
 

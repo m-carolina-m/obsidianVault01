@@ -14,7 +14,7 @@ genre: Adventure, Drama, Sci-Fi
 dvd: 01 Mar 2024
 watched: 2024-03-10
 myrating: 5
-type: movie
+tags: movie
 location: Netflix
 status: completed
 ---

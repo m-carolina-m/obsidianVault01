@@ -1,7 +1,9 @@
-[[3112]] << [[JAN]] >>  [[0201]]
-<< {{DATE:MM}} >> 
+---
+tags:
+  - journal
+---
+[[<% moment(tp.file.title,'DDMM').add(-1,'days').format("DDMM") %>]]  <<  [[<% moment(tp.file.title,'DDMM').format("MMM") %>]]  >> [[<% moment(tp.file.title,'DDMM').add(1,'days').format("DDMM") %>]]  
 
-{{this.file.name}}
 # Tareas Pendientes
 
 ```todoist

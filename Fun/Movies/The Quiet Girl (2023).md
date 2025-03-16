@@ -1,21 +1,21 @@
 ---
-poster: https://m.media-amazon.com/images/M/MV5BYjljNGMzMjYtZTYwMS00NGMxLWIxY2UtM2E1N2FjZjBlN2MwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg 
-imdbId: tt15109082 
-scoreImdb: 7.7 
+poster: https://m.media-amazon.com/images/M/MV5BYjljNGMzMjYtZTYwMS00NGMxLWIxY2UtM2E1N2FjZjBlN2MwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg
+imdbId: tt15109082
+scoreImdb: 7.7
 rated: PG-13
-released: 13 May 2022 
-runtime: 95 min 
-cast: Carrie Crowley, Andrew Bennett, Catherine Clinch 
-director: Colm Bairéad 
+released: 13 May 2022
+runtime: 95 min
+cast: Carrie Crowley, Andrew Bennett, Catherine Clinch
+director: Colm Bairéad
 country: Ireland
 language: Irish Gaelic, English, Gaelic
-aka:
-genre: Drama 
+aka: 
+genre: Drama
 dvd: N/A
 watched: 
 myrating: 0
 status: to watch
-type: movie
+tags: movie
 location: Netflix
 ---
 

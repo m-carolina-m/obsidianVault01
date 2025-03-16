@@ -1,3 +1,8 @@
+---
+tags:
+  - oraciones_que_curan
+  - manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria
+---
 [[00-Soul|Soul]]
 # Oración a Santa Lucía 
 
@@ -28,5 +33,3 @@ Madre de San Simón +
 abogada contra la nubes: clara es la luna, claro es el sol, clara es la vista de este enfermo por vuestra intercesión.
 
 (Se repite durante nueve días y en cada uno de ellos se enhebran nueve granos de trigo, que se ponen delante de la vista del enfermo mientras se dice la oración. Se rezan un Padre Nuestro a Santa Lucía y tres a la Santísima Trinidad, haciendo dos veces más la señal de la cruz)
-
-#Manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria

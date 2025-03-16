@@ -1,3 +1,8 @@
+---
+tags:
+  - oraciones_que_curan
+  - manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria
+---
 [[00-Soul|Soul]]
 
 (Quien lleve esta oración en el pecho no sufrirá ninguna desgracia y alcanzará los mayores honores y riquezas. Alivia también y da un feliz alumbramiento a la mujer embarazada. La oración se escribe en pergamino virgen, con tinta mágica, cuya preparación se dio en el cuaderno número 1 de esta serie)
@@ -19,5 +24,3 @@ Cruz de Jesucristo, extiende sobre mi tu piadoso manto y resérvame un lugar en 
 Cruz de Jesucristo a quien siempre adoro + que la Cruz de Jesucristo sea mi verdadera salvación durante mi vida y después de mi muerte + Que la Cruz de Jesucristo deje sin efecto hacia mí la espada de mis adversarios. † Que la Cruz de Jesucristo me libre de las ataduras de la muerte. † Que la Cruz
 de Jesucristo sea para mí  † un signo maravilloso †  
  Que la Cruz de Jesucristo sea mi poder, mi poder y mi fuerza. † Que la Cruz de Jesucristo sea mi fianza, mi salvaguarda y me asegure un éxito favorable contra mis enemigos. † Que la Cruz de Jesucristo me libre de todo peligro, presente y futuro. + Que obtenga la ayuda de la gracia divina a través de esta señal de la cruz y que su autoridad y poder sirva de barrera y defensa contra mis enemigos. † Que la Cruz de Jesucristo me libre de todas las adversidades y de todas las desgracias de esta vida. † Que la Cruz de Jesucristo esté, siempre, conmigo, y me salve: que esté delante de mí, y detrás de mí, porque en cuanto el diablo, mi antiguo enemigo, os ve en mí y conmigo, se aleja y huye de mí. † Que todos los espíritus malignos se alejen y me eviten por esta señal de la Cruz + paz Heloy + Tetragrammaton + Diday + Pontayeto Esbri t or, Jesús, pasando entre ellos, fue + Jesús + Fuente + Principio + Fin de la Verdad + Todopoderoso. + En el nombre del Padre y del Hijo + y del Espíritu Santo. + Que así sea.
- 
-#Manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria

@@ -17,7 +17,7 @@ mycurrentepisode: 02x10
 lastwatched: 2024-01-20
 myrating: 9.5
 location: NETFLIX / AMC
-type: serie
+tags: serie
 status: in progress
 ---
 

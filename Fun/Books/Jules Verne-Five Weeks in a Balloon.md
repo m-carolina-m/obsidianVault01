@@ -9,4 +9,6 @@ cover: http://books.google.com/books/content?id=gKlyswEACAAJ&printsec=frontcover
 rating: "8"
 read: 2024-01-01
 status: complete
+tags:
+  - book
 ---

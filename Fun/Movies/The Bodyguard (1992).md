@@ -15,7 +15,7 @@ dvd: 01 Oct 2009
 watched: 2023-05-07
 myrating: 9
 status: completed
-type: movie
+tags: movie
 location:
 ---
 

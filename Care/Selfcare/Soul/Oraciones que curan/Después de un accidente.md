@@ -1,3 +1,8 @@
+---
+tags:
+  - oraciones_que_curan
+  - manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria
+---
 [[00-Soul|Soul]]
 
 Criatura escucha a tu Creador: Creador, escucha a tu criatura +
@@ -21,5 +26,3 @@ Así puede ser curada tu criatura +
 De los terribles accidentes. Amén 
 
 (Se rezan seis Padres Nuestros, Avemarías y Gloria patris en honor del Santísimo Sacramento. Además conviene poner al cuello del accidentado pendiente de un cordoncito de seda, una limosna que se haya ofrecido al Señor en cualquier Monumento del Jueves Santo, dicha limosna deberá ser restituida cuando menos en el doble de su valor )
-
-#Manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria

@@ -15,7 +15,7 @@ dvd: 10 Aug 2016
 watched: 2020-11-03
 myrating: 6
 status: completed
-type: movie
+tags: movie
 location:
 ---
 

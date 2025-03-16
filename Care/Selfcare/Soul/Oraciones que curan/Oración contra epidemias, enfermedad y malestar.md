@@ -1,3 +1,8 @@
+---
+tags:
+  - oraciones_que_curan
+  - manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria
+---
 [[00-Soul|Soul]]
 
 # A San Luis Beltran
@@ -8,5 +13,3 @@ No mirando a la indigna persona que refiere tan sacrosanto Misterios, con toda b
 Criatura de Dios: yo te curo y te ensalmo con el auxilio del padre San Luis Beltrán, gran taumaturgo por la gracia de Jesucristo Nuestro Redentor, y a ellos pido te sanen y bendigan y hagan en ti y en mi su santisima voluntad. Consummatun est jesús †. Consummatum est. Jesús †. Consummatum est Jesus †.
 
 (Finalmente se reza un Credo por la buena intención de quien ejerza esta curación. La anterior oración la dirá alquna persona amiga o pariente del entermo, estando frente a él. Hará sobre de él la señal de la cruz cada vez que esté marcada la † en el texto de la oración, que se considera muy buena para alcanzar la salud de todo aquel que estuviere enfermo de mal que no se cure con la intervención de médicos, medicinas, hospitales y remedios humanos.)
-
-#Manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria 

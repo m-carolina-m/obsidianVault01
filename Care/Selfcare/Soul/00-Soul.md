@@ -25,6 +25,7 @@
 [[Para la tristeza]]
 [[Contra la nostalgia]]
 [[Para lograr tranquilidad del alma]]
+[[Oración para curar la culebrilla]]
 
 
 [[Para la gracia de Dios, prosperidad y bendición]]

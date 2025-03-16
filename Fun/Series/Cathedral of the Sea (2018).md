@@ -17,7 +17,7 @@ mycurrentepisode: 01x06
 lastwatched: 2024-01-24
 myrating: 7
 location: Netflix
-type: serie
+tags: serie
 status: completed
 ---
 

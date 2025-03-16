@@ -1,3 +1,8 @@
+---
+tags:
+  - oraciones_que_curan
+  - manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria
+---
 [[00-Soul|Soul]]
 
 El poder del Padre +
@@ -19,5 +24,3 @@ y José +
 Ruega por nosotros, bienaventurado San Antonio de Padua 
 
 (Recense tres Padres Nuestros a la Santísima Trinidad y uno a San Antonio)
-
-#Manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria

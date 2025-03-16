@@ -17,7 +17,7 @@ mycurrentepisode: 01x16
 lastwatched: 
 myrating: 9.5
 location: Telenovelas
-type: serie
+tags: serie
 status: completed
 ---
 

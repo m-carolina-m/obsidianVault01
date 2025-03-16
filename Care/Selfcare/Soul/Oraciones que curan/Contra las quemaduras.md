@@ -1,3 +1,8 @@
+---
+tags:
+  - oraciones_que_curan
+  - manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria
+---
 [[00-Soul|Soul]]
 
 El fuego no tiene frío, el agua no tiene sed, el aire no tiene calor, el pan no tiene hambre: San Lorenzo curad estas quemaduras por el poder que Dios os ha dado.
@@ -9,5 +14,3 @@ El fuego no tiene frío, el agua no tiene sed, el aire no tiene calor, el pan no
 Fuego, pierde tu calor; herida, pierde tu dolor, como Judas perdió el color, cuando hizo su traición a Nuestro Señor 
 
 (Se dicen tres veces haciendo en cada una de ellas la señal de la cruz sobre la parte quemada y luego se dirán tres Padres Nuestros en honor a la Santísima Trinidad)
-
-#Manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria

@@ -14,7 +14,7 @@ genre: Animation, Adventure, Comedy
 dvd: N/A
 watched: 2025-01-24
 myrating: 7
-type: movie
+tags: movie
 location: Cinemax
 status: completed
 ---

@@ -16,7 +16,7 @@ genre: Action, Adventure, Drama
 mycurrentseason: 8
 lastwatched: "2019"
 myrating: 10
-type: serie
+tags: serie
 status: completed
 ---
 

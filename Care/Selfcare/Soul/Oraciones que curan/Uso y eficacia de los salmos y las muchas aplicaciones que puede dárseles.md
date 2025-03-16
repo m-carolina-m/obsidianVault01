@@ -1,3 +1,10 @@
+---
+tags:
+  - oraciones_que_curan
+  - manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria
+---
+[[00-Soul|Soul]]
+
 SALMO 1. Cuando una mujer está en estado y teme un mal parto o un aborto, escribir sobre un trozo de piel de venado la siguiente oración y nombre santo: El santo nombre es EEL CHAD, que significa grande, fuerte y Unico Dios. La oración es la siguiente: Que te plazca oh Eel Chad servir a esta mujer, para que ahora y siempre esté a salvo de malos partos; que tenga mucha salud ella y el fruto de su cuerpo.
 
 Esto se meterá dentro de una bolsa pequeña, que se colgará alrededor del cuello, para que esté en continuo contacto con el cuerpo.
@@ -191,12 +198,7 @@ Observará que sana rápidamente.
 
 SALMO 147. Para la curación de heridas peligrosas, mordeduras de reptiles ponzoñosos, deberá rezarse este Salmo, que tiene propiedades curativas al igual que el anterior.
 
-SALMOS 148 y 149. Estos dos Salmos dicen que poscen la virtud de controlar el fuey. si son rezados con candor por la aruda segura del
+SALMOS 148 y 149. Estos dos Salmos dicen que poseen la virtud de controlar el fuego si son rezados con candor por la ayuda segura del Todopoderoso.
 
-Todopoderoso.
-
-*SALMO 150. Este es el Salmo del Agradecimiento. que deberá rezarse para darle gracias a Dio- después de cecapar de aleán grave peligro o de haber recibido algun gracia especial. por concesión del
-
+SALMO 150. Este es el Salmo del Agradecimiento. que deberá rezarse para darle gracias a Dios después de escapar de algún grave peligro o de haber recibido alguna gracia especial. por concesión del
 Señor.
-
-LOS

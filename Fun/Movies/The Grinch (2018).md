@@ -14,7 +14,7 @@ genre: Animation, Comedy, Family
 dvd: N/A
 watched: 2025-01-05
 myrating: 6.5
-type: movie
+tags: movie
 location: Universal
 status: completed
 ---

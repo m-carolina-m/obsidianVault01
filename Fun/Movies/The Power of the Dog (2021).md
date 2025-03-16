@@ -14,7 +14,7 @@ genre: Drama, Western
 dvd: 01 Dec 2021
 watched: 2024-03-12
 myrating: 0
-type: movie
+tags: movie
 location: Netflix
 status: in progress
 ---

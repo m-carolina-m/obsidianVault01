@@ -14,7 +14,7 @@ genre: Animation, Adventure, Family
 dvd: 27 Mar 2007
 watched: 2024-06-16
 myrating: 7
-type: movie
+tags: movie
 location: Netflix
 status: completed
 ---

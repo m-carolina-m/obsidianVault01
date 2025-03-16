@@ -1,20 +1,20 @@
 ---
-poster: https://m.media-amazon.com/images/M/MV5BMTc1ODM5YjQtMmQzNS00Y2FkLWJhNTgtYTE5ZDY0NjQyNmRjXkEyXkFqcGdeQXVyMTY3ODE5NTY1._V1_SX300.jpg 
-imdbId: tt13651794 
-scoreImdb: 6.9 
+poster: https://m.media-amazon.com/images/M/MV5BMTc1ODM5YjQtMmQzNS00Y2FkLWJhNTgtYTE5ZDY0NjQyNmRjXkEyXkFqcGdeQXVyMTY3ODE5NTY1._V1_SX300.jpg
+imdbId: tt13651794
+scoreImdb: 6.9
 rated: R
-released: 01 Dec 2023 
-runtime: 117 min 
-cast: Natalie Portman, Chris Tenzis, Charles Melton 
-director: Todd Haynes 
+released: 01 Dec 2023
+runtime: 117 min
+cast: Natalie Portman, Chris Tenzis, Charles Melton
+director: Todd Haynes
 country: United States
 language: English
-aka:
-genre: Comedy, Drama 
+aka: 
+genre: Comedy, Drama
 dvd: N/A
 watched: 
 myrating: 0
-type: movie
+tags: movie
 location: 
 status: to watch
 ---

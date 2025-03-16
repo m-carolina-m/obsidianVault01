@@ -1,20 +1,20 @@
 ---
-poster: https://m.media-amazon.com/images/M/MV5BMTQ3NTg2MDI3NF5BMl5BanBnXkFtZTcwMjc5MTA1NA@@._V1_SX300.jpg 
-imdbId: tt1563738 
-scoreImdb: 7.0 
+poster: https://m.media-amazon.com/images/M/MV5BMTQ3NTg2MDI3NF5BMl5BanBnXkFtZTcwMjc5MTA1NA@@._V1_SX300.jpg
+imdbId: tt1563738
+scoreImdb: 7
 rated: PG-13
-released: 19 Aug 2011 
-runtime: 107 min 
-cast: Anne Hathaway, Jim Sturgess, Patricia Clarkson 
-director: Lone Scherfig 
+released: 19 Aug 2011
+runtime: 107 min
+cast: Anne Hathaway, Jim Sturgess, Patricia Clarkson
+director: Lone Scherfig
 country: United States, United Kingdom
 language: English
-aka:
-genre: Drama, Romance 
+aka: 
+genre: Drama, Romance
 dvd: 10 Sep 2015
 watched: 
 myrating: 0
-type: movie
+tags: movie
 location: Netflix
 status: to watch
 ---

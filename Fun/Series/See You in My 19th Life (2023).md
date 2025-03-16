@@ -17,7 +17,7 @@ mycurrentepisode: 01x12
 lastwatched: 2024-08-21
 myrating: 9
 location: NETFLIX
-type: serie
+tags: serie
 status: completed
 ---
 

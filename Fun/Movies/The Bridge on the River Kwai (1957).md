@@ -14,7 +14,7 @@ genre: Adventure, Drama, War
 dvd: 03 May 2013
 watched: 2024-03-11
 myrating: 8.5
-type: movie
+tags: movie
 location: TV
 status: completed
 ---

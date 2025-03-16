@@ -1,20 +1,20 @@
 ---
-poster: https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_SX300.jpg 
-imdbId: tt0076759 
-scoreImdb: 8.6 
+poster: https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_SX300.jpg
+imdbId: tt0076759
+scoreImdb: 8.6
 rated: PG
-released: 25 May 1977 
-runtime: 121 min 
-cast: Mark Hamill, Harrison Ford, Carrie Fisher 
-director: George Lucas 
+released: 25 May 1977
+runtime: 121 min
+cast: Mark Hamill, Harrison Ford, Carrie Fisher
+director: George Lucas
 country: United States
 language: English
 aka: Episode IV, La Guerra de las Galaxias
-genre: Action, Adventure, Fantasy 
+genre: Action, Adventure, Fantasy
 dvd: 10 Oct 2016
 watched: 
 myrating: 0
-type: movie
+tags: movie
 location: Disney+
 status: to watch
 collection: Star Wars

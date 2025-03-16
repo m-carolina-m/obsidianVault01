@@ -1,12 +1,12 @@
 ---
-poster: https://m.media-amazon.com/images/M/MV5BY2NjNDU1ZjctN2VhZi00Nzc5LTljNmItMTZiOTg1ODkwYjgwXkEyXkFqcGdeQXVyNTkxMzEwMzU@._V1_SX300.jpg 
-imdbId: tt0032138 
-scoreImdb: 8.1 
+poster: https://m.media-amazon.com/images/M/MV5BY2NjNDU1ZjctN2VhZi00Nzc5LTljNmItMTZiOTg1ODkwYjgwXkEyXkFqcGdeQXVyNTkxMzEwMzU@._V1_SX300.jpg
+imdbId: tt0032138
+scoreImdb: 8.1
 rated: G
-released: 25 Aug 1939 
-runtime: 102 min 
-cast: Judy Garland, Frank Morgan, Ray Bolger 
-director: Victor Fleming, King Vidor 
+released: 25 Aug 1939
+runtime: 102 min
+cast: Judy Garland, Frank Morgan, Ray Bolger
+director: Victor Fleming, King Vidor
 country: United States
 language: English
 aka: El Mago de Oz
@@ -15,7 +15,7 @@ dvd: 29 Sep 2009
 watched: 2023-05-14
 myrating: 10
 status: completed
-type: movie
+tags: movie
 location:
 ---
 

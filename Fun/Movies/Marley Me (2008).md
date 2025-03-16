@@ -15,7 +15,7 @@ dvd: 01 Mar 2013
 watched: 2023-05-07
 myrating: 7
 status: completed
-type: movie
+tags: movie
 location:
 ---
 

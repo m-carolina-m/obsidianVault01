@@ -15,7 +15,7 @@ dvd: 30 Jun 2016
 watched: 2024-01-13
 myrating: 8
 status: completed
-type: movie
+tags: movie
 location:
 ---
 

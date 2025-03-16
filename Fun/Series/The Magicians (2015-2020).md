@@ -17,7 +17,7 @@ mycurrentepisode: 02x01
 lastwatched: 
 myrating: 0
 location: Sci-fi(TV)
-type: serie
+tags: serie
 status: in progress
 ---
 

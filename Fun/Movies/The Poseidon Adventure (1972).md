@@ -15,7 +15,7 @@ dvd: 03 Apr 2016
 watched: ALTA
 myrating: 10
 status: completed
-type: movie
+tags: movie
 location: Betamax
 ---
 

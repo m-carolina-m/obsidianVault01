@@ -17,7 +17,7 @@ mycurrentepisode: 01x01
 lastwatched: 2024-10-07
 myrating: 9
 location: NETFLIX
-type: serie
+tags: serie
 status: in progress
 ---
 

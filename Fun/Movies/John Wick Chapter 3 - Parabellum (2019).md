@@ -15,7 +15,7 @@ dvd: 23 Aug 2019
 watched: 2024-06-16
 myrating: 8
 status: completed
-type: movie
+tags: movie
 location: Netflix
 ---
 

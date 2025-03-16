@@ -14,7 +14,7 @@ genre: Adventure, Biography, Drama
 dvd: N/A
 watched: 2024-06-08
 myrating: 6
-type: movie
+tags: movie
 location: Netflix
 status: completed
 ---

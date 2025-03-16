@@ -1,3 +1,9 @@
+---
+tags:
+  - exercise
+---
+
+
 Ser flexible viene del cerebro, al controlar el rango de movimiento. Se debe enfocar en desarrollar la capacidad de controlar y contrarrestar los músculos relajados. Ganar control en el fin del rango de movimiento.
 
 Trabajar con tensión y fuerza. Usar mucho los rangos de movimiento. Si el cerebro se siente seguro al final del rango se va permitiendo más.

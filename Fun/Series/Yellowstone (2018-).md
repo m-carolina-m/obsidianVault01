@@ -17,7 +17,7 @@ mycurrentepisode: 05x04
 lastwatched: 2023-02-07
 myrating: 8.5
 location: Paramount (TV)
-type: serie
+tags: serie
 status: in progress
 ---
 

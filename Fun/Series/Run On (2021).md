@@ -17,7 +17,7 @@ mycurrentepisode: 01x16
 lastwatched: 2024-09-04
 myrating: 9
 location: NETFLIX
-type: serie
+tags: serie
 status: completed
 ---
 

@@ -17,7 +17,7 @@ mycurrentepisode: 03x10
 lastwatched: 2024-02-13
 myrating: 9.5
 location: Netflix
-type: serie
+tags: serie
 status: completed
 ---
 

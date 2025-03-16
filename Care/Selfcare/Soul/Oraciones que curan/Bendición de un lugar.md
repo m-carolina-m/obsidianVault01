@@ -1,3 +1,8 @@
+---
+tags:
+  - oraciones_que_curan
+---
+
 [[00-Soul||Soul]]
 
 (Rociarse el lugar con agua bendita mientras se recita)

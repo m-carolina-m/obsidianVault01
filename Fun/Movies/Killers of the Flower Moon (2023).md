@@ -14,7 +14,7 @@ genre: Crime, Drama, History
 dvd: 05 Dec 2023
 watched: 
 myrating: 0
-type: movie
+tags: movie
 location: Internet
 status: to watch
 ---

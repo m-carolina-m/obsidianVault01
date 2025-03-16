@@ -14,7 +14,7 @@ genre: Documentary, Biography
 dvd: N/A
 watched: 2024-06-08
 myrating: 7.5
-type: movie
+tags: movie
 location: Disney+
 status: completed
 ---

@@ -17,7 +17,7 @@ mycurrentepisode: 01x51
 lastwatched: 2024-07-02
 myrating: 7
 location: Telegram
-type: serie
+tags: serie
 status: completed
 ---
 

@@ -1,21 +1,21 @@
 ---
-poster: https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_SX300.jpg 
-imdbId: tt0100405 
-scoreImdb: 7.1 
+poster: https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_SX300.jpg
+imdbId: tt0100405
+scoreImdb: 7.1
 rated: R
-released: 23 Mar 1990 
-runtime: 119 min 
-cast: Richard Gere, Julia Roberts, Jason Alexander 
-director: Garry Marshall 
+released: 23 Mar 1990
+runtime: 119 min
+cast: Richard Gere, Julia Roberts, Jason Alexander
+director: Garry Marshall
 country: United States
 language: English
 aka: Mujer bonita
-genre: Comedy, Romance 
+genre: Comedy, Romance
 dvd: 01 Jan 2014
 watched: 2023-05-07
 myrating: 10
 status: completed
-type: movie
+tags: movie
 location:
 ---
 

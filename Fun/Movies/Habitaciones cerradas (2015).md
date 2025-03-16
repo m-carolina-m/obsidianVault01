@@ -15,7 +15,7 @@ dvd:
 watched: 2024-01-18
 myrating: 6
 status: completed
-type: movie
+tags: movie
 location: TVE
 ---
 

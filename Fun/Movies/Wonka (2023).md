@@ -15,7 +15,7 @@ dvd: N/A
 watched: 2024-01-27
 myrating: 9
 status: completed
-type: movie
+tags: movie
 location: Telegram
 ---
 

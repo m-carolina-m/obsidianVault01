@@ -14,7 +14,7 @@ genre: Animation, Adventure, Comedy
 dvd: N/A
 watched: 
 myrating: 0
-type: movie
+tags: movie
 location: Disney+
 status: to watch
 ---

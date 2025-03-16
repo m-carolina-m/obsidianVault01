@@ -15,7 +15,7 @@ dvd: 07 Jun 2016
 watched: 2024-06-16
 myrating: 7.5
 status: completed
-type: movie
+tags: movie
 location: Prime Video
 ---
 

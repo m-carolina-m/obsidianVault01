@@ -9,4 +9,6 @@ cover: http://books.google.com/books/content?id=whCl8D1ud8sC&printsec=frontcover
 rating: 
 read: 
 status: to read
+tags:
+  - book
 ---

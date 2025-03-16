@@ -15,7 +15,7 @@ dvd: 28 Jun 2016
 watched: 
 myrating: 0
 status: to watch
-type: movie
+tags: movie
 location:
 ---
 

@@ -15,8 +15,9 @@ dvd: 17 Dec 2015
 watched: 2023-08-21
 myrating: 10
 status: completed
-type: movie
-location:
+location: bluray
+tags:
+  - movie
 ---
 
 plot:: Spending the summer at a Catskills resort with her family, Frances "Baby" Houseman falls in love with the camp's dance instructor, Johnny Castle.

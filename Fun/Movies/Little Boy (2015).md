@@ -14,7 +14,7 @@ genre: Drama, History, War
 dvd: N/A
 watched: 2024-08-25
 myrating: 7
-type: movie
+tags: movie
 location: La Tele Tuya (TV)
 status: completed
 ---

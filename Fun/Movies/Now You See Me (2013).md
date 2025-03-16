@@ -14,7 +14,7 @@ genre: Crime, Mystery, Thriller
 dvd: N/A
 watched: 2024-10-06
 myrating: 7
-type: movie
+tags: movie
 location: Netflix
 status: completed
 ---

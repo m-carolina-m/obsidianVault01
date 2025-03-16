@@ -15,7 +15,7 @@ dvd: 22 May 2017
 watched: 2024-06-16
 myrating: 7
 status: completed
-type: movie
+tags: movie
 location: NETFLIX
 ---
 

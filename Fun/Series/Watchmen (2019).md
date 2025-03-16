@@ -17,7 +17,7 @@ mycurrentepisode: 01x09
 lastwatched: 2024-08-07
 myrating: 6.5
 location: HBO
-type: serie
+tags: serie
 status: completed
 ---
 

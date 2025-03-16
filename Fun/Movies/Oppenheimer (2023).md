@@ -15,7 +15,7 @@ dvd: 21 Nov 2023
 watched: 2024-01-28
 myrating: 7
 status: completed
-type: movie
+tags: movie
 location: Telegram
 ---
 

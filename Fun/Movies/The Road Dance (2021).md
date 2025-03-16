@@ -1,20 +1,20 @@
 ---
-poster: https://m.media-amazon.com/images/M/MV5BNmNjMDM5NmUtYjFmOS00MjgyLTliMmUtMWJkNDk5NzJmZGNkXkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SX300.jpg 
-imdbId: tt11332484 
-scoreImdb: 7.1 
+poster: https://m.media-amazon.com/images/M/MV5BNmNjMDM5NmUtYjFmOS00MjgyLTliMmUtMWJkNDk5NzJmZGNkXkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SX300.jpg
+imdbId: tt11332484
+scoreImdb: 7.1
 rated: N/A
-released: 13 Oct 2023 
-runtime: 116 min 
-cast: Hermione Corfield, Will Fletcher, Mark Gatiss 
-director: Richie Adams 
+released: 13 Oct 2023
+runtime: 116 min
+cast: Hermione Corfield, Will Fletcher, Mark Gatiss
+director: Richie Adams
 country: United Kingdom
 language: N/A
-aka:
-genre: Drama 
+aka: 
+genre: Drama
 dvd: N/A
 watched: 
 myrating: 0
-type: movie
+tags: movie
 location: 
 status: to watch
 ---

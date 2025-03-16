@@ -17,7 +17,7 @@ mycurrentepisode: 01x20
 lastwatched: 2022-07-10
 myrating: 8
 location: Telegram
-type: serie
+tags: serie
 status: completed
 ---
 

@@ -15,7 +15,7 @@ dvd: 01 Mar 2013
 watched: 2024-01-13
 myrating: 8
 status: completed
-type: movie
+tags: movie
 location: Youtube
 ---
 

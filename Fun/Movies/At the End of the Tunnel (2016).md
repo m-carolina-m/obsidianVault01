@@ -14,9 +14,10 @@ genre: Crime, Drama, Thriller
 dvd: N/A
 watched: 2024-08-25
 myrating: 8
-type: movie
 location: La Tele Tuya (TV)
 status: completed
+tags:
+  - movie
 ---
 
 plot:: A paraplegic computer engineer in a wheelchair starts hearing noises and voices of bank robbers in his basement.

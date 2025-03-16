@@ -14,7 +14,7 @@ genre: Drama, Mystery, Romance
 dvd: N/A
 watched: 2024-06-09
 myrating: 5
-type: movie
+tags: movie
 location: Netflix
 status: completed
 ---

@@ -1,3 +1,8 @@
+---
+tags:
+  - oraciones_que_curan
+  - manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria
+---
 [[00-Soul|Soul]]
 
 En el nombre del Padre † y del Hijo † y del Espíritu Santo †. Amén. Eleváos. Trinidad y Unidad indivisible, un Dios Mesias. Sother. Emmanuel, Sabaoth. Adonay: Coteraton:
@@ -8,5 +13,3 @@ Dios de todos los Santos y Santas y elegidos de Dios, interceded para con Dios p
 # OTRA
 
 Poderosisimo José esposo de María, ayo y padre legal de Jesús, protector y amparo de la Iglesia y de todos vuestros devotos: arrodillados a vuestros pies os pedimos humildemente nos alcancéis del Señor gracia para estudiar con mayor perfección vuestros gloriosos ejemplos, y por medio de ellos reformar nuestra vida, purificar nuestra alma, prevenir nuestra muerte y asegurarnos dichosa eternidad. (Siete Padrenuestros. siete Avemarias, siete Gloria patris, por los siete dolores que padecisteis).
-
-#Manojo_de_divinas_flores_escogidas_en_los_diversos_jardines_de_la_antigua_sabiduria 

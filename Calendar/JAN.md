@@ -1,4 +1,4 @@
-[[00_HOME]]               [[DEC]] < > [[FEB]]
+[[00_HOME]]               [[Dec]] < > [[Feb]]
 
 # Reviews
 
@@ -7,7 +7,6 @@
 # Quaters
 
 [[Q1]] | [[Q2]] | [[Q3]] | [[Q4]]
-
 
 # Calendar
 

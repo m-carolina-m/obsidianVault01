@@ -1,4 +1,4 @@
-[[00_HOME]]              [[JAN]] < > [[MAR]]
+[[00_HOME]]              [[Jan]] < > [[Mar]]
 
 # Reviews
 

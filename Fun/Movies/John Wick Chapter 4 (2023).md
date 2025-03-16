@@ -15,7 +15,7 @@ dvd: 23 May 2023
 watched: 
 myrating: 0
 status: to watch
-type: movie
+tags: movie
 location:
 ---
 

@@ -15,7 +15,7 @@ dvd: N/A
 watched: 
 myrating: 0
 status: to watch
-type: movie
+tags: movie
 location: Netflix
 ---
 

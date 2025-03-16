@@ -14,7 +14,7 @@ genre: Short, Comedy, Drama
 dvd: N/A
 watched: 2024-03-09
 myrating: 7
-type: movie
+tags: movie
 location: Netflix
 status: completed
 ---

@@ -1,3 +1,10 @@
+---
+tags:
+  - oraciones_que_curan
+  - les_prieres_ultimes_3
+---
+[[00-Soul|Soul]]
+
 Señor, creador del universo, gracias a esta oración, ahora me conecto a tu fuerza Divina, invoco tu máxima protección celestial. Aleja de mí todos los espíritus malignos, los celosos y las lenguas de serpientes. Protégeme en toda circunstancia de la maldad de las personas, de noche y de día y por la eternidad. Te pido que intervengas para protegerme de estas personas dañinas, que me hacen daño y que están enojadas conmigo aunque no las provoque.
 Alejad de mí los espíritus visibles e invisibles, conocidos o desconocidos, aquellos que voluntaria o involuntariamente puedan dañarme. Señor contigo, me siento seguro y avanzo con serenidad, me someto a tu voluntad, ya no temo a estas personas dañinas, gracias a tu poderosa protección Divina. De ahora en adelante estoy a salvo, sin desgracias, sin azotes. no puede alcanzarme. A partir de ahora un escudo indestructible e invisible me rodea, nada ni nadie podrá alcanzarme y hacerme caer. Toda calumnia y actos nocivos se devolverá en contra de mis enemigos. Ellos serán totalmente bloqueados por ti omnipotente gran creador del universo. Ahora están lejos de mi cuerpo y de mi mente, ya no encontrarán la manera de entrar. Ya no temo a nada, gracias a tu presencia y a tu intervención, gracias a mi fe, me beneficio de tu altísima protección.
 
@@ -16,4 +23,3 @@ Confía en nuestro creador, tu poderosa oración de protección será escuchada.
 
 https://www.scribd.com/document/543113657/Les-Prieres-Ultimes-3
 
-#les_prieres_ultimes_3

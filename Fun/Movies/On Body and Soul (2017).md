@@ -1,21 +1,21 @@
 ---
-poster: https://m.media-amazon.com/images/M/MV5BOTcwYTk3YTAtODZjZi00MmI1LWEyNTItYTNkZWZjNGU1OGIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg 
-imdbId: tt5607714 
-scoreImdb: 7.5 
+poster: https://m.media-amazon.com/images/M/MV5BOTcwYTk3YTAtODZjZi00MmI1LWEyNTItYTNkZWZjNGU1OGIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg
+imdbId: tt5607714
+scoreImdb: 7.5
 rated: Not Rated
-released: 02 Feb 2018 
-runtime: 116 min 
-cast: Alexandra Borbély, Géza Morcsányi, Réka Tenki 
-director: Ildikó Enyedi 
+released: 02 Feb 2018
+runtime: 116 min
+cast: Alexandra Borbély, Géza Morcsányi, Réka Tenki
+director: Ildikó Enyedi
 country: Hungary
 language: Hungarian
-aka:
-genre: Drama, Fantasy, Mystery 
+aka: 
+genre: Drama, Fantasy, Mystery
 dvd: 02 Feb 2018
 watched: 
 myrating: 0
 status: to watch
-type: movie
+tags: movie
 location: Netflix
 ---
 

@@ -17,7 +17,7 @@ mycurrentepisode:
 lastwatched: 
 myrating: 0
 location: NETFLIX
-type: serie
+tags: serie
 status: to watch
 ---
 

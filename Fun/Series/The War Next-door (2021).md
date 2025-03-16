@@ -17,7 +17,7 @@ mycurrentepisode: 01x07
 lastwatched: 2024-03-15
 myrating: 0
 location: Netflix
-type: serie
+tags: serie
 status: in progress
 ---
 

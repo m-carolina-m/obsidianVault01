@@ -16,3 +16,6 @@ git add .
 git commit -m "update MCM-LPT"
 git push origin master
 pause
+
+
+3.-Por seguridad se usa una llave ssh y po tanto hay que copiar el directorio ./ssh que las contiene
